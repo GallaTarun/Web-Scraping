@@ -1,0 +1,2052 @@
+
+{
+	description : Fire TV Stick 4K streaming device with Alexa Voice Remote
+	product_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_amazon-devices_1?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 639 ratings
+	scraping_time : 11/02/2021, 14:26:16
+	image_url : https://m.media-amazon.com/images/I/61rQC6AM-6L._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B08XVYZ1Y5
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_amazon-devices_1?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision : Amazon Devices & Accessories
+	product_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_amazon-devices_2?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 750,504 ratings
+	scraping_time : 11/02/2021, 14:26:22
+	image_url : https://m.media-amazon.com/images/I/61mAA2BB-FL._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B079QHML21
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_amazon-devices_2?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Amazon Fire TV Stick (3rd Gen) with Alexa Voice Remote, Fire Stick Firestick Fire sticks Firesticks, streaming stick
+	product_url : https://amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_amazon-devices_3?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 77,453 ratings
+	scraping_time : 11/02/2021, 14:26:30
+	image_url : https://m.media-amazon.com/images/I/61+T2xNzR7S._AC_SX425_.jpg
+	dimensions : 3.4” x 1.2” x 0.5” (86 x 30 x 13 mm)
+	asin : B08C1W5N87
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_amazon-devices_3?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_amazon-devices_4?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 778,541 ratings
+	scraping_time : 11/02/2021, 14:26:36
+	image_url : https://m.media-amazon.com/images/I/61MZfowYoaL._AC_SX425_.jpg
+	dimensions : None
+	asin : B07FZ8S74R
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_amazon-devices_4?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Amazon Smart Plug, works with Alexa – A Certified for Humans Device
+	product_url : https://amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_amazon-devices_5?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 453,951 ratings
+	scraping_time : 11/02/2021, 14:26:53
+	image_url : https://m.media-amazon.com/images/I/61s7HxpXqSL._AC_SX425_.jpg
+	dimensions : 3.2” x 1.5” x 2.2” (80 mm x 38 mm x 57 mm)
+	asin : B089DR29T6
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_amazon-devices_5?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Blue Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_amazon-devices_6?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 98,284 ratings
+	scraping_time : 11/02/2021, 14:27:01
+	image_url : https://m.media-amazon.com/images/I/61s3tGaiYtL._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WDDT3G5
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_amazon-devices_6?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Plus tablet, HD display, 32 GB, latest model (2020 release), our best 8" tablet for portable entertainment, Slate : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Plus-tablet/dp/B0839NDRB2/ref=zg_bs_amazon-devices_7?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.5 / 5
+	num_ratings : 27,518 ratings
+	scraping_time : 11/02/2021, 14:27:09
+	image_url : https://m.media-amazon.com/images/I/7115EhX2BxL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B0839NDRB2
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-HD-8-Plus-tablet/dp/B0839NDRB2/ref=zg_bs_amazon-devices_7?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 2 camera kit : Electronics
+	product_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-2cam/dp/B086DL32R3/ref=zg_bs_amazon-devices_8?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.4 / 5
+	num_ratings : 77,360 ratings
+	scraping_time : 11/02/2021, 14:27:15
+	image_url : https://m.media-amazon.com/images/I/61TRYGIDWkL._SY355_.jpg
+	dimensions : 71 x 71 x 31 mm
+	asin : B086DL32R3
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-2cam/dp/B086DL32R3/ref=zg_bs_amazon-devices_8?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Ring Video Doorbell
+	product_url : https://amazon.com/Ring-Video-Doorbell-Satin-Nickel-2020-Release/dp/B08N5NQ869/ref=zg_bs_amazon-devices_9?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 67,657 ratings
+	scraping_time : 11/02/2021, 14:27:22
+	image_url : https://m.media-amazon.com/images/I/51Sh7ug8F-L._SY355_.jpg
+	dimensions : 4.98 in. x 2.44 in. x 1.10 in. (126.5mm x 62mm x 28mm)
+	asin : B08N5NQ869
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Video-Doorbell-Satin-Nickel-2020-Release/dp/B08N5NQ869/ref=zg_bs_amazon-devices_9?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Kindle - Now with a Built-in Front Light - Black - Ad-Supported : Electronics
+	product_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597/ref=zg_bs_amazon-devices_10?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 39,856 ratings
+	scraping_time : 11/02/2021, 14:27:29
+	image_url : https://m.media-amazon.com/images/I/61ntJTLVtCL._AC_SY450_.jpg
+	dimensions : 6.3” x 4.5” x 0.34” ( 160 x 113 x 8.7 mm).
+	asin : B07978J597
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597/ref=zg_bs_amazon-devices_10?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Pink Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WJS3QDX/ref=zg_bs_amazon-devices_11?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 98,284 ratings
+	scraping_time : 11/02/2021, 14:27:34
+	image_url : https://m.media-amazon.com/images/I/611WD4Nzx6L._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WJS3QDX
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WJS3QDX/ref=zg_bs_amazon-devices_11?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Purple Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WFLBX6Q/ref=zg_bs_amazon-devices_12?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 98,284 ratings
+	scraping_time : 11/02/2021, 14:27:40
+	image_url : https://m.media-amazon.com/images/I/61LVS0gkh8L._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WFLBX6Q
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WFLBX6Q/ref=zg_bs_amazon-devices_12?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Blue Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_amazon-devices_13?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 198,355 ratings
+	scraping_time : 11/02/2021, 14:27:48
+	image_url : https://m.media-amazon.com/images/I/61HqG+mJN1L._AC_SY355_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H8WS1FT
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_amazon-devices_13?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Introducing Fire TV Stick 4K Max streaming device
+	product_url : https://amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_amazon-devices_14?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 1,950 ratings
+	scraping_time : 11/02/2021, 14:27:55
+	image_url : https://m.media-amazon.com/images/I/612AvoovbdL._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B08MQZXN1X
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_amazon-devices_14?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids Pro tablet, 8" HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5PY8RM/ref=zg_bs_amazon-devices_15?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 3,841 ratings
+	scraping_time : 11/02/2021, 14:27:59
+	image_url : https://m.media-amazon.com/images/I/61U6eVzf2US._AC_SY450_.jpg
+	dimensions : 6.3” x 8.3” x 0.7” (161 mm X 211 mm X 18 mm)
+	asin : B08H5PY8RM
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5PY8RM/ref=zg_bs_amazon-devices_15?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 10 Kids Pro tablet, 10.1", 1080p Full HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08F5LWB6R/ref=zg_bs_amazon-devices_16?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 2,498 ratings
+	scraping_time : 11/02/2021, 14:28:04
+	image_url : https://m.media-amazon.com/images/I/71h3WD4NL0S._AC_SY450_.jpg
+	dimensions : 7.4” x 10.1” x 0.7” (190 mm X 256 mm X 17 mm)
+	asin : B08F5LWB6R
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08F5LWB6R/ref=zg_bs_amazon-devices_16?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Dot (4th Gen) Kids | Designed for kids, with parental controls | Panda : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Designed-parental-controls-Panda/dp/B084J4MJCK/ref=zg_bs_amazon-devices_17?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 18,986 ratings
+	scraping_time : 11/02/2021, 14:28:12
+	image_url : https://m.media-amazon.com/images/I/61OUzfFUFGS._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4MJCK
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Echo-Designed-parental-controls-Panda/dp/B084J4MJCK/ref=zg_bs_amazon-devices_17?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : All-new Echo Dot (4th Gen) | Smart speaker with clock and Alexa | Charcoal
+	product_url : https://amazon.com/All-New-Echo-Dot-4th-Gen/dp/B07XJ8C8F7/ref=zg_bs_amazon-devices_18?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 118,001 ratings
+	scraping_time : 11/02/2021, 14:28:22
+	image_url : https://m.media-amazon.com/images/I/61aVrYKRT8S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B07XJ8C8F7
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-New-Echo-Dot-4th-Gen/dp/B07XJ8C8F7/ref=zg_bs_amazon-devices_18?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Amazon Fire TV Stick Lite with Alexa Voice Remote Lite
+	product_url : https://amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_amazon-devices_19?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 201,380 ratings
+	scraping_time : 11/02/2021, 14:28:27
+	image_url : https://m.media-amazon.com/images/I/61CaKxDNAIS._AC_SX425_.jpg
+	dimensions : 3.4” x 1.2” x 0.5” (86 x 30 x 13 mm)
+	asin : B07YNLBS7R
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_amazon-devices_19?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue : Amazon Devices & Accessories
+	product_url : https://amazon.com/All-new-Echo-Dot-Blue/dp/B084J4MZK8/ref=zg_bs_amazon-devices_20?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 370,919 ratings
+	scraping_time : 11/02/2021, 14:28:35
+	image_url : https://m.media-amazon.com/images/I/61MtQYQVm4S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4MZK8
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Echo-Dot-Blue/dp/B084J4MZK8/ref=zg_bs_amazon-devices_20?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : All-new Echo (4th Gen) | With premium sound, smart home hub, and Alexa | Charcoal
+	product_url : https://amazon.com/All-New-Echo-4th-Gen/dp/B07XKF5RM3/ref=zg_bs_amazon-devices_21?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 82,319 ratings
+	scraping_time : 11/02/2021, 14:28:43
+	image_url : https://m.media-amazon.com/images/I/61GpB9iTSsS._AC_SX425_.jpg
+	dimensions : 5.7” x 5.7” x 5.2” (144 x 144 x 133 mm)
+	asin : B07XKF5RM3
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-New-Echo-4th-Gen/dp/B07XKF5RM3/ref=zg_bs_amazon-devices_21?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Show 8 (1st Gen, 2019 release) -- HD smart display with Alexa – Unlimited Cloud Photo Storage – Digital Photo Display - Charcoal : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Show-8/dp/B07PF1Y28C/ref=zg_bs_amazon-devices_22?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 238,194 ratings
+	scraping_time : 11/02/2021, 14:28:50
+	image_url : https://m.media-amazon.com/images/I/61t8F8XN1tL._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B07PF1Y28C
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Show-8/dp/B07PF1Y28C/ref=zg_bs_amazon-devices_22?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal
+	product_url : https://amazon.com/all-new-Echo-Dot/dp/B07XJ8C8F5/ref=zg_bs_amazon-devices_23?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 370,919 ratings
+	scraping_time : 11/02/2021, 14:28:56
+	image_url : https://m.media-amazon.com/images/I/61T++pHMh3S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B07XJ8C8F5
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/all-new-Echo-Dot/dp/B07XJ8C8F5/ref=zg_bs_amazon-devices_23?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : All-new Echo Dot (4th Gen) Kids Edition | Designed for kids, with parental controls | Tiger
+	product_url : https://amazon.com/Echo-Dot-4th-Gen-Kids/dp/B084J4QQK1/ref=zg_bs_amazon-devices_24?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 18,986 ratings
+	scraping_time : 11/02/2021, 14:29:01
+	image_url : https://m.media-amazon.com/images/I/61dp537PyUS._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4QQK1
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Echo-Dot-4th-Gen-Kids/dp/B084J4QQK1/ref=zg_bs_amazon-devices_24?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Kindle - Now with a Built-in Front Light - White - Ad-Supported : Electronics
+	product_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07DPMXZZ7/ref=zg_bs_amazon-devices_25?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 39,856 ratings
+	scraping_time : 11/02/2021, 14:29:06
+	image_url : https://m.media-amazon.com/images/I/61ntJTLVtCL._AC_SY450_.jpg
+	dimensions : None
+	asin : B07DPMXZZ7
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07DPMXZZ7/ref=zg_bs_amazon-devices_25?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Blink Mini
+	product_url : https://amazon.com/Blink-Mini-plug-security-detection/dp/B07X6C9RMF/ref=zg_bs_amazon-devices_26?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.5 / 5
+	num_ratings : 138,879 ratings
+	scraping_time : 11/02/2021, 14:29:12
+	image_url : https://m.media-amazon.com/images/I/61LrV6Id5gL._SY355_.jpg
+	dimensions : 2 in. x 1.9 in. x 1.4 in. (50 mm x 49 mm x 36 mm)
+	asin : B07X6C9RMF
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Blink-Mini-plug-security-detection/dp/B07X6C9RMF/ref=zg_bs_amazon-devices_26?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids Pro tablet, 8" HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QTFLB/ref=zg_bs_amazon-devices_27?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 3,841 ratings
+	scraping_time : 11/02/2021, 14:29:17
+	image_url : https://m.media-amazon.com/images/I/61U6eVzf2US._AC_SY450_.jpg
+	dimensions : 6.3” x 8.3” x 0.7” (161 mm X 211 mm X 18 mm)
+	asin : B08H5QTFLB
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QTFLB/ref=zg_bs_amazon-devices_27?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : Ring Chime
+	product_url : https://amazon.com/Ring-Chime/dp/B07WML1QM4/ref=zg_bs_amazon-devices_28?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 47,121 ratings
+	scraping_time : 11/02/2021, 14:29:21
+	image_url : https://m.media-amazon.com/images/I/61aUGZYCWVL._SY355_.jpg
+	dimensions : None
+	asin : B07WML1QM4
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Chime/dp/B07WML1QM4/ref=zg_bs_amazon-devices_28?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 10 Kids Pro tablet, 10.1", 1080p Full HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08H3TTJBH/ref=zg_bs_amazon-devices_29?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 2,498 ratings
+	scraping_time : 11/02/2021, 14:29:26
+	image_url : https://m.media-amazon.com/images/I/71h3WD4NL0S._AC_SY450_.jpg
+	dimensions : 7.4” x 10.1” x 0.7” (190 mm X 256 mm X 17 mm)
+	asin : B08H3TTJBH
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08H3TTJBH/ref=zg_bs_amazon-devices_29?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 10 Kids tablet, 10.1", 1080p Full HD, ages 3–7, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F62DV1Z/ref=zg_bs_amazon-devices_30?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.8 / 5
+	num_ratings : 4,915 ratings
+	scraping_time : 11/02/2021, 14:29:34
+	image_url : https://m.media-amazon.com/images/I/6138Pgj95jS._AC_SY450_.jpg
+	dimensions : 8.2” x 10.6” x 1.1” (209mm x 269mm x 27mm)
+	asin : B08F62DV1Z
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F62DV1Z/ref=zg_bs_amazon-devices_30?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Insignia NS-24DF310NA21 24-inch Smart HD 720p TV - Fire TV : Amazon Devices & Accessories
+	product_url : https://amazon.com/All-New-Insignia-NS-24DF310NA21-24-inch-Smart/dp/B0874YZVWK/ref=zg_bs_amazon-devices_31?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 14,761 ratings
+	scraping_time : 11/02/2021, 14:29:38
+	image_url : https://m.media-amazon.com/images/I/815UUI6yhVS._AC_SX355_.jpg
+	dimensions : ‎7.1 x 21.7 x 14.4 inches
+	asin : B0874YZVWK
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/All-New-Insignia-NS-24DF310NA21-24-inch-Smart/dp/B0874YZVWK/ref=zg_bs_amazon-devices_31?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : #32 in Amazon Devices & Accessories , #1 in LED & LCD TVs, #1 in Smart TVs, #11 in Streaming Media Players
+}
+
+{
+	description : Blink Video Doorbell
+	product_url : https://amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_amazon-devices_32?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 3.6 / 5
+	num_ratings : 254 ratings
+	scraping_time : 11/02/2021, 14:29:44
+	image_url : https://m.media-amazon.com/images/I/51tR+nCYhIL._SY355_.jpg
+	dimensions : 130 x 42 x 27 mm
+	asin : B08SG2MS3V
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_amazon-devices_32?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Glow - Smart lamp for kids
+	product_url : https://amazon.com/Echo-Glow/dp/B07KRY43KN/ref=zg_bs_amazon-devices_33?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 31,162 ratings
+	scraping_time : 11/02/2021, 14:29:56
+	image_url : https://m.media-amazon.com/images/I/515KkL1ngTL._AC_SX425_.jpg
+	dimensions : 100 x 100 x 81 mm (3.9” x 3.9” x 3.2”)”
+	asin : B07KRY43KN
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Glow/dp/B07KRY43KN/ref=zg_bs_amazon-devices_33?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 10 Kids tablet, 10.1", 1080p Full HD, ages 3–7, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F5Z2MC2/ref=zg_bs_amazon-devices_34?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.8 / 5
+	num_ratings : 4,915 ratings
+	scraping_time : 11/02/2021, 14:30:01
+	image_url : https://m.media-amazon.com/images/I/614UeXVoRWS._AC_SY450_.jpg
+	dimensions : 8.2” x 10.6” x 1.1” (209mm x 269mm x 27mm)
+	asin : B08F5Z2MC2
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F5Z2MC2/ref=zg_bs_amazon-devices_34?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Pink Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8ZCSL9/ref=zg_bs_amazon-devices_35?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 198,355 ratings
+	scraping_time : 11/02/2021, 14:30:06
+	image_url : https://m.media-amazon.com/images/I/61mLOngWd+L._AC_SY355_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H8ZCSL9
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8ZCSL9/ref=zg_bs_amazon-devices_35?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Ring Indoor Cam Plug-In
+	product_url : https://amazon.com/Ring-Indoor-Compact-Security-Camera/dp/B07Q9VBYV8/ref=zg_bs_amazon-devices_36?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 46,625 ratings
+	scraping_time : 11/02/2021, 14:30:20
+	image_url : https://m.media-amazon.com/images/I/51ajZq9tiML._SY355_.jpg
+	dimensions : 1.81 in. x 1.81 in. x 2.95 in. (46 mm x 46 mm x 75 mm)
+	asin : B07Q9VBYV8
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Indoor-Compact-Security-Camera/dp/B07Q9VBYV8/ref=zg_bs_amazon-devices_36?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Made for Amazon SanDisk 128GB microSD Memory Card for Fire Tablets and Fire -TV : Electronics
+	product_url : https://amazon.com/SanDisk-micro-Memory-Card-Tablets/dp/B013TMNPBQ/ref=zg_bs_amazon-devices_37?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 55,795 ratings
+	scraping_time : 11/02/2021, 14:30:26
+	image_url : https://m.media-amazon.com/images/I/81dQGd03YHL._AC_SX450_.jpg
+	dimensions : ‎0.08 x 0.94 x 1.26 inches
+	asin : B013TMNPBQ
+	manufacturer : ‎Western Digital Technologies, Inc.
+	availability : Unknown availability status
+	review_url : https://amazon.com/SanDisk-micro-Memory-Card-Tablets/dp/B013TMNPBQ/ref=zg_bs_amazon-devices_37?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : #38 in Amazon Devices & Accessories , #1 in Amazon Device Memory Cards, #3 in Micro SD Memory Cards
+}
+
+{
+	description : : All-new Kindle Paperwhite (8 GB) – Now with a 6.8" display and adjustable warm light – Ad-Supported : Everything Else
+	product_url : https://amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_38?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.1 / 5
+	num_ratings : 107 ratings
+	scraping_time : 11/02/2021, 14:30:34
+	image_url : https://m.media-amazon.com/images/I/61Gih4cc2CL._AC_SY450_.jpg
+	dimensions : 4.9” x 6.9” x .32” (124.6 x 174.2 x 8.1 mm).
+	asin : B08KTZ8249
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_38?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Ring Video Doorbell Wired with Ring Chime : Tools & Home Improvement
+	product_url : https://amazon.com/Ring-Video-Doorbell-Wired-Chime/dp/B08H5V7RSH/ref=zg_bs_amazon-devices_39?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.5 / 5
+	num_ratings : 27,381 ratings
+	scraping_time : 11/02/2021, 14:30:40
+	image_url : https://m.media-amazon.com/images/I/51FHPa9m1cL._SY355_.jpg
+	dimensions : 3.98 in x 1.81 in x 0.88 in (101mm x 45.7mm x 22.4mm)
+	asin : B08H5V7RSH
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Ring-Video-Doorbell-Wired-Chime/dp/B08H5V7RSH/ref=zg_bs_amazon-devices_39?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : 2-Year Protection Plan for Fire TV Stick 4K : Amazon Devices & Accessories
+	product_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 10,318 ratings
+	scraping_time : 11/02/2021, 14:30:46
+	image_url : https://m.media-amazon.com/images/I/61GgfcqizQL._AC_SY355_.jpg
+	dimensions : None
+	asin : ‎
+
+B07G1PQFBZ
+	manufacturer : ‎
+
+KAIMA
+	availability : In Stock.
+	review_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : 
+
+#40 in Amazon Devices & Accessories #1 in All Kindle Protection Plans
+}
+
+{
+	description : All-New Echo Show 8 — 13 MP camera with auto-framing
+	product_url : https://amazon.com/All-new-Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_amazon-devices_41?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 10,807 ratings
+	scraping_time : 11/02/2021, 14:30:56
+	image_url : https://m.media-amazon.com/images/I/61g3WFAH0vS._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B084DCJKSL
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_amazon-devices_41?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Auto- Hands-free Alexa in your car with your phone : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Auto-Add-Alexa-your/dp/B07VTK654B/ref=zg_bs_amazon-devices_42?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.0 / 5
+	num_ratings : 133,776 ratings
+	scraping_time : 11/02/2021, 14:31:02
+	image_url : https://m.media-amazon.com/images/I/51fJVBWieiS._AC_SX425_.jpg
+	dimensions : 3.3” x 1.9” x 0.5” (85 mm x 47 mm x 13.28 mm)
+	asin : B07VTK654B
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Auto-Add-Alexa-your/dp/B07VTK654B/ref=zg_bs_amazon-devices_42?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Show 8 (1st Gen, 2019 release) -- HD smart display with Alexa – stay connected with video calling - Sandstone : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Show-8/dp/B07RQ3TCT2/ref=zg_bs_amazon-devices_43?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.7 / 5
+	num_ratings : 238,194 ratings
+	scraping_time : 11/02/2021, 14:31:07
+	image_url : https://m.media-amazon.com/images/I/61I8nXt6m7L._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B07RQ3TCT2
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Echo-Show-8/dp/B07RQ3TCT2/ref=zg_bs_amazon-devices_43?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Purple Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H936BZT/ref=zg_bs_amazon-devices_44?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 198,355 ratings
+	scraping_time : 11/02/2021, 14:31:12
+	image_url : https://m.media-amazon.com/images/I/61GABcR6YXL._AC_SY300_SX300_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H936BZT
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H936BZT/ref=zg_bs_amazon-devices_44?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 10 Kids tablet, 10.1", 1080p Full HD, ages 3–7, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F65M4JX/ref=zg_bs_amazon-devices_45?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.8 / 5
+	num_ratings : 4,915 ratings
+	scraping_time : 11/02/2021, 14:31:17
+	image_url : https://m.media-amazon.com/images/I/61NPfcGPoqS._AC_SY450_.jpg
+	dimensions : 8.2” x 10.6” x 1.1” (209mm x 269mm x 27mm)
+	asin : B08F65M4JX
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F65M4JX/ref=zg_bs_amazon-devices_45?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 3 camera kit : Electronics
+	product_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-3cam/dp/B086DKSHQ4/ref=zg_bs_amazon-devices_46?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.4 / 5
+	num_ratings : 77,360 ratings
+	scraping_time : 11/02/2021, 14:31:25
+	image_url : https://m.media-amazon.com/images/I/61TRYGIDWkL._SY355_.jpg
+	dimensions : 71 x 71 x 31 mm
+	asin : B086DKSHQ4
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-3cam/dp/B086DKSHQ4/ref=zg_bs_amazon-devices_46?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Fire HD 8 Kids Pro tablet, 8" HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QX3YF/ref=zg_bs_amazon-devices_47?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 3,841 ratings
+	scraping_time : 11/02/2021, 14:31:29
+	image_url : https://m.media-amazon.com/images/I/61U6eVzf2US._AC_SY450_.jpg
+	dimensions : 6.3” x 8.3” x 0.7” (161 mm X 211 mm X 18 mm)
+	asin : B08H5QX3YF
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QX3YF/ref=zg_bs_amazon-devices_47?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Ring Rechargeable Battery Pack : Amazon Devices & Accessories
+	product_url : https://amazon.com/Ring-Rechargeable-Battery-Pack/dp/B076JKHDQT/ref=zg_bs_amazon-devices_48?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.8 / 5
+	num_ratings : 80,543 ratings
+	scraping_time : 11/02/2021, 14:31:34
+	image_url : https://m.media-amazon.com/images/I/71hP6o06gdL._SY355_.jpg
+	dimensions : None
+	asin : B076JKHDQT
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Rechargeable-Battery-Pack/dp/B076JKHDQT/ref=zg_bs_amazon-devices_48?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Echo Wall Clock - Disney Mickey Mouse Edition - see timers at a glance - requires compatible Echo device : Home & Kitchen
+	product_url : https://amazon.com/Echo-Wall-Clock-requires-compatible/dp/B07VZ2W7L4/ref=zg_bs_amazon-devices_49?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.5 / 5
+	num_ratings : 4,039 ratings
+	scraping_time : 11/02/2021, 14:31:44
+	image_url : https://m.media-amazon.com/images/I/71SvFLUU1rL._AC_SX425_.jpg
+	dimensions : 10” x 10” x 1.6” (254 mm x 254 mm x 41 mm), 16.8 oz. (478 grams). Actual size and weight may vary by manufacturing process.
+	asin : B07VZ2W7L4
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Wall-Clock-requires-compatible/dp/B07VZ2W7L4/ref=zg_bs_amazon-devices_49?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : All New Echo Show 5 – Compact smart display with Alexa
+	product_url : https://amazon.com/All-new-Echo-Show-5-2nd-Gen-2021-release/dp/B08J8FFJ8H/ref=zg_bs_amazon-devices_50?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	rating : 4.6 / 5
+	num_ratings : 16,022 ratings
+	scraping_time : 11/02/2021, 14:31:58
+	image_url : https://m.media-amazon.com/images/I/81bcsgWlT+L._AC_SX425_.jpg
+	dimensions : 5.8” x 3.4” x 2.9” (148mm x 86mm x 73mm)
+	asin : B08J8FFJ8H
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Echo-Show-5-2nd-Gen-2021-release/dp/B08J8FFJ8H/ref=zg_bs_amazon-devices_50?_encoding=UTF8&psc=1&refRID=7NYNM0DV9A8J40HB31MX
+	seller_rank : None
+}
+
+{
+	description : : Euhomy Ice Maker Machine Countertop, 26 lbs in 24 Hours, 9 Cubes Ready in 6 Mins, Electric ice Maker and Compact Potable ice Maker with Ice Scoop and Basket. Perfect for Home/Kitchen/Office.(Silver) : Appliances
+	product_url : https://amazon.com/Countertop-Machine-hrs-Ice-Compact-Lightweight/dp/B07R56HW4G/ref=zg_bs_appliances_1?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 7,982 ratings
+	scraping_time : 11/02/2021, 14:32:07
+	image_url : https://m.media-amazon.com/images/I/81GBToZSsCL._SX342_.jpg
+	dimensions : ‎
+
+12.59 x 9.64 x 12.59 inches; 17.2 Pounds
+	asin : ‎
+
+B07R56HW4G
+	manufacturer : ‎
+
+E EUHOMY
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Countertop-Machine-hrs-Ice-Compact-Lightweight/dp/B07R56HW4G/ref=zg_bs_appliances_1?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#1 in Appliances #1 in Ice Makers
+}
+
+{
+	description : : GE Profile Opal | Countertop Nugget Ice Maker with Side Tank | Portable Ice Machine with Bluetooth Connectivity | Smart Home Kitchen Essentials | Stainless Steel Finish | Up to 24 lbs. of Ice Per Day : Everything Else
+	product_url : https://amazon.com/GE-Profile-Countertop-Nugget-Maker/dp/B07YF9SGBW/ref=zg_bs_appliances_2?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 13,581 ratings
+	scraping_time : 11/02/2021, 14:32:15
+	image_url : https://m.media-amazon.com/images/I/81b5KcoaWGL._AC_SX522_.jpg
+	dimensions : ‎15.5 x 10.5 x 16.5 inches
+	asin : B07YF9SGBW
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/GE-Profile-Countertop-Nugget-Maker/dp/B07YF9SGBW/ref=zg_bs_appliances_2?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #2 in Appliances , #2 in Ice Makers
+}
+
+{
+	description : : 5 cu ft Chest Freezer for Your House, Garage, Basement, Apartment, Kitchen, Cabin, Lake House, Timeshare, or Business : Appliances
+	product_url : https://amazon.com/Freezer-Basement-Apartment-Timeshare-Business/dp/B08241QW3R/ref=zg_bs_appliances_3?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 6,078 ratings
+	scraping_time : 11/02/2021, 14:32:19
+	image_url : https://m.media-amazon.com/images/I/51sN5YkQuQL._AC_SX522_.jpg
+	dimensions : ‎33.5 x 24.9 x 21.7 inches
+	asin : B08241QW3R
+	manufacturer : None
+	availability : 
+	review_url : https://amazon.com/Freezer-Basement-Apartment-Timeshare-Business/dp/B08241QW3R/ref=zg_bs_appliances_3?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #3 in Appliances , #1 in Chest Freezers
+}
+
+{
+	description : : Igloo ICEB26AQ Automatic Portable Electric Countertop Ice Maker Machine, 26 Pounds in 24 Hours, 9 Ice Cubes Ready in 7 Minutes, With Ice Scoop and Basket, Perfect for Water Bottles, Mixed Drinks : Appliances
+	product_url : https://amazon.com/Igloo-ICEB26AQ-26-Pound-Automatic-Countertop/dp/B07GY4DS42/ref=zg_bs_appliances_4?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.3 / 5
+	num_ratings : 9,267 ratings
+	scraping_time : 11/02/2021, 14:32:28
+	image_url : https://m.media-amazon.com/images/I/71VnpdfklqL._AC_SX522_.jpg
+	dimensions : ‎9.61 x 14.69 x 12.4 inches
+	asin : B07GY4DS42
+	manufacturer : ‎No
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Igloo-ICEB26AQ-26-Pound-Automatic-Countertop/dp/B07GY4DS42/ref=zg_bs_appliances_4?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #4 in Appliances , #3 in Ice Makers
+}
+
+{
+	description : : Broan-NuTone 412101 Non-Ducted Ductless Range Hood with Lights Exhaust Fan for Under Cabinet, 21-Inch, White : Appliances
+	product_url : https://amazon.com/Broan-Ventless-Under-Cabinet-Range/dp/B000HZY0HC/ref=zg_bs_appliances_5?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.7 / 5
+	num_ratings : 11,159 ratings
+	scraping_time : 11/02/2021, 14:32:34
+	image_url : https://m.media-amazon.com/images/I/61z+WdmGUEL._AC_SY355_.jpg
+	dimensions : ‎17.5 x 6 x 21 inches
+	asin : B000HZY0HC
+	manufacturer : ‎Broan-NuTone
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Broan-Ventless-Under-Cabinet-Range/dp/B000HZY0HC/ref=zg_bs_appliances_5?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #5 in Appliances , #1 in Range Hoods
+}
+
+{
+	description : : CROWNFUL Ice Maker Countertop Machine, 9 Ice Cubes Ready in 8 Minutes, 26lbs Bullet Ice Cubes in 24H, Electric Ice Maker with Scoop and Basket - Black : Appliances
+	product_url : https://amazon.com/CROWNFUL-Countertop-Machine-Minutes-Electric/dp/B087B9YCX4/ref=zg_bs_appliances_6?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 3,591 ratings
+	scraping_time : 11/02/2021, 14:32:44
+	image_url : https://m.media-amazon.com/images/I/61cVLVRavqL._AC_SX522_.jpg
+	dimensions : ‎11.4 x 9.8 x 13.7 inches
+	asin : B087B9YCX4
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/CROWNFUL-Countertop-Machine-Minutes-Electric/dp/B087B9YCX4/ref=zg_bs_appliances_6?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #6 in Appliances , #4 in Ice Makers
+}
+
+{
+	description : : OxiClean Gel Sticks - 6.2 oz - 2 pk by OxiClean : Appliances
+	product_url : https://amazon.com/OxiClean-Gel-Sticks-6-2/dp/B015RYKG0W/ref=zg_bs_appliances_7?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 55 ratings
+	scraping_time : 11/02/2021, 14:32:49
+	image_url : https://m.media-amazon.com/images/I/715zuTlPUzL._AC_UX342_.jpg
+	dimensions : ‎
+
+7.2 x 5.2 x 5 inches; 1.08 Pounds
+	asin : ‎
+
+B015RYKG0W
+	manufacturer : ‎
+
+OxiClean
+	availability : Unknown availability status
+	review_url : https://amazon.com/OxiClean-Gel-Sticks-6-2/dp/B015RYKG0W/ref=zg_bs_appliances_7?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#7 in Appliances #1 in Clothes Washing Machines
+}
+
+{
+	description : : 2-Pack Ice Machine Cleaner and Descaler 16 fl oz, Nickel Safe Descaler | Ice Maker Cleaner Compatible with All Major Brands (Scotsman, KitchenAid, Affresh) - Made in USA by Essential Values : Appliances
+	product_url : https://amazon.com/Essential-Values-Machine-Cleaner-Matic/dp/B07QVMXTDL/ref=zg_bs_appliances_8?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 372 ratings
+	scraping_time : 11/02/2021, 14:32:54
+	image_url : https://m.media-amazon.com/images/I/7168yKt9TOS._SX342_.jpg
+	dimensions : ‎
+
+3 x 6 x 8 inches; 2.34 Pounds
+	asin : ‎
+
+B07QVMXTDL
+	manufacturer : ‎
+
+Essential Values
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Essential-Values-Machine-Cleaner-Matic/dp/B07QVMXTDL/ref=zg_bs_appliances_8?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#8 in Appliances #5 in Ice Makers
+}
+
+{
+	description : : AGLUCKY Counter top Ice Maker Machine,Compact Automatic Ice Maker,9 Cubes Ready in 6-8 Minutes,Portable Ice Cube Maker with Scoop and Basket,Perfect for Home/Kitchen/Office/Bar (Red) : Appliances
+	product_url : https://amazon.com/AGLUCKY-Counter-Machine-Automatic-Portable/dp/B086W7Z52D/ref=zg_bs_appliances_9?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 9,388 ratings
+	scraping_time : 11/02/2021, 14:33:00
+	image_url : https://m.media-amazon.com/images/I/71pyQAJinlL._AC_SX522_.jpg
+	dimensions : ‎14.72 x 13.62 x 10.47 inches
+	asin : B086W7Z52D
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/AGLUCKY-Counter-Machine-Automatic-Portable/dp/B086W7Z52D/ref=zg_bs_appliances_9?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #9 in Appliances , #6 in Ice Makers
+}
+
+{
+	description : : Frigidaire EFIC189-Silver Compact Ice Maker, 26 lb per Day, Silver : Appliances
+	product_url : https://amazon.com/Frigidaire-EFIC206-SILVER-Ice-Maker-Through/dp/B075QP7SCP/ref=zg_bs_appliances_10?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 7,255 ratings
+	scraping_time : 11/02/2021, 14:33:06
+	image_url : https://m.media-amazon.com/images/I/61LbRFIG2TL._AC_SX466_.jpg
+	dimensions : ‎15 x 11 x 14.5 inches
+	asin : B075QP7SCP
+	manufacturer : ‎No
+	availability : In Stock.
+	review_url : https://amazon.com/Frigidaire-EFIC206-SILVER-Ice-Maker-Through/dp/B075QP7SCP/ref=zg_bs_appliances_10?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #10 in Appliances , #7 in Ice Makers
+}
+
+{
+	description : : Giantex Portable Mini Compact Twin Tub Washing Machine 17.6lbs Washer Spain Spinner Portable Washing Machine, Blue+ White : Appliances
+	product_url : https://amazon.com/Giantex-Portable-Compact-Washing-Machine/dp/B01ALBMIEI/ref=zg_bs_appliances_11?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.3 / 5
+	num_ratings : 10,356 ratings
+	scraping_time : 11/02/2021, 14:33:13
+	image_url : https://m.media-amazon.com/images/I/61ydHx1s19L._AC_SY550_.jpg
+	dimensions : ‎24.8 x 15 x 28.5 inches
+	asin : B01ALBMIEI
+	manufacturer : ‎No
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Giantex-Portable-Compact-Washing-Machine/dp/B01ALBMIEI/ref=zg_bs_appliances_11?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #12 in Appliances , #1 in Portable Clothes Washing Machines
+}
+
+{
+	description : : CROWNFUL Ice Maker Machine for Countertop, 9 Bullet Ice Cubes S/L Ready in 7 Minutes, 26lbs/24H, Auto self-Cleaning, Portable Small Ice Maker with Scoop and Basket (Black) : Appliances
+	product_url : https://amazon.com/CROWNFUL-New-Black-Ice-Maker/dp/B08R6Z97N5/ref=zg_bs_appliances_12?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 6,902 ratings
+	scraping_time : 11/02/2021, 14:33:20
+	image_url : https://m.media-amazon.com/images/I/61zAgtgt9LL._AC_SX522_.jpg
+	dimensions : ‎9.05 x 12.5 x 12.8 inches
+	asin : B08R6Z97N5
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/CROWNFUL-New-Black-Ice-Maker/dp/B08R6Z97N5/ref=zg_bs_appliances_12?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #11 in Appliances , #8 in Ice Makers
+}
+
+{
+	description : : Frigidaire EFIC452-SSBLACK XL Maker, Makes 40 Lbs. of Clear Square Ice Cubes A Day, Black Stainless : Appliances
+	product_url : https://amazon.com/Frigidaire-EFIC452-SSBLACK-Ice-Maker/dp/B07YN8QFDG/ref=zg_bs_appliances_13?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 1,676 ratings
+	scraping_time : 11/02/2021, 14:33:25
+	image_url : https://m.media-amazon.com/images/I/71DUtv3LqoS._AC_SX466_.jpg
+	dimensions : ‎14 x 11 x 15 inches
+	asin : B07YN8QFDG
+	manufacturer : None
+	availability : 
+	review_url : https://amazon.com/Frigidaire-EFIC452-SSBLACK-Ice-Maker/dp/B07YN8QFDG/ref=zg_bs_appliances_13?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #13 in Appliances , #9 in Ice Makers
+}
+
+{
+	description : : KITCHEN BASICS 101: WR21X10208 White Refrigerator Freezer Basket Replacement for GE and Haier RF-0300-29 (1 Pack) : Appliances
+	product_url : https://amazon.com/Kitchen-Basics-101-Refrigerator-Replacement/dp/B07YZWCBBL/ref=zg_bs_appliances_14?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 2,026 ratings
+	scraping_time : 11/02/2021, 14:33:30
+	image_url : https://m.media-amazon.com/images/I/513Kc1NE8OL._AC_SX522_.jpg
+	dimensions : ‎14 x 8 x 6.5 inches
+	asin : B07YZWCBBL
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Kitchen-Basics-101-Refrigerator-Replacement/dp/B07YZWCBBL/ref=zg_bs_appliances_14?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #15 in Appliances , #1 in Upright Freezers
+}
+
+{
+	description : : Upstreman 3.2 Cu.Ft Mini Fridge with Freezer, Single Door Compact Refrigerator, Adjustable Thermostat,Energy Star, Mini Refrigerator for Dorm, Office, Bedroom, Black-BR321 : Appliances
+	product_url : https://amazon.com/Upstreman-Refrigerator-Adjustable-Thermostat-Black-BR321/dp/B09HTY7K3T/ref=zg_bs_appliances_15?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:33:36
+	image_url : https://m.media-amazon.com/images/I/81fm9m6oQJL._AC_SX522_.jpg
+	dimensions : ‎17.4 x 18.7 x 33.1 inches
+	asin : No ASIN found
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Upstreman-Refrigerator-Adjustable-Thermostat-Black-BR321/dp/B09HTY7K3T/ref=zg_bs_appliances_15?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #14 in Appliances , #1 in Refrigerators
+}
+
+{
+	description : : VIVOHOME Electric Portable Compact Countertop Automatic Ice Cube Maker Machine 26lbs/day Black : Appliances
+	product_url : https://amazon.com/VIVOHOME-Electric-Portable-Countertop-Automatic/dp/B07T1XPVX3/ref=zg_bs_appliances_16?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 4,116 ratings
+	scraping_time : 11/02/2021, 14:33:43
+	image_url : https://m.media-amazon.com/images/I/71d3OiLh8oL._AC_SY450_.jpg
+	dimensions : 12.59 x 9.64 x 12.59 inches
+	asin : B07T1XPVX3
+	manufacturer : VIVOHOME
+	availability : Currently unavailable.
+	review_url : https://amazon.com/VIVOHOME-Electric-Portable-Countertop-Automatic/dp/B07T1XPVX3/ref=zg_bs_appliances_16?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #16 in Appliances , #10 in Ice Makers
+}
+
+{
+	description : : Euhomy Mini Freezer Countertop, 1.1 Cubic Feet, Single Door Compact Upright Freezer with Reversible Door, Removable Shelves, Small freezer for Home/Dorms/Apartment/Office(Black) : Appliances
+	product_url : https://amazon.com/Countertop-Reversible-Adjustable-Stainless-Apartment/dp/B082PG6HHH/ref=zg_bs_appliances_17?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 3,211 ratings
+	scraping_time : 11/02/2021, 14:33:50
+	image_url : https://m.media-amazon.com/images/I/719l0wQo0QL._AC_SX522_.jpg
+	dimensions : ‎17.4 x 17.6 x 19.5 inches
+	asin : B082PG6HHH
+	manufacturer : ‎1 year warranty on parts
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Countertop-Reversible-Adjustable-Stainless-Apartment/dp/B082PG6HHH/ref=zg_bs_appliances_17?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #17 in Appliances , #2 in Upright Freezers
+}
+
+{
+	description : : FRIGIDAIRE EFIC235-AMZ Countertop Crunchy Chewable Nugget Ice Maker, 44lbs per Day, 12 x 17 x 19 inches : Appliances
+	product_url : https://amazon.com/FRIGIDAIRE-EFIC235-AMZ-Countertop-Crunchy-Chewable/dp/B08M8VFJ2Z/ref=zg_bs_appliances_18?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 3.8 / 5
+	num_ratings : 1,087 ratings
+	scraping_time : 11/02/2021, 14:33:55
+	image_url : https://m.media-amazon.com/images/I/71+iQvOVH+L._AC_SY550_.jpg
+	dimensions : ‎12 x 17 x 19 inches
+	asin : B08M8VFJ2Z
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/FRIGIDAIRE-EFIC235-AMZ-Countertop-Crunchy-Chewable/dp/B08M8VFJ2Z/ref=zg_bs_appliances_18?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #24 in Appliances , #12 in Ice Makers
+}
+
+{
+	description : : Arctic King 7 cu ft Chest Freezer, Black : Appliances
+	product_url : https://amazon.com/Arctic-King-Chest-Freezer-Black/dp/B08241JB7N/ref=zg_bs_appliances_19?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.3 / 5
+	num_ratings : 267 ratings
+	scraping_time : 11/02/2021, 14:34:00
+	image_url : https://m.media-amazon.com/images/I/214f1NaTnhL._AC_.jpg
+	dimensions : None
+	asin : B08241JB7N
+	manufacturer : None
+	availability : 
+	review_url : https://amazon.com/Arctic-King-Chest-Freezer-Black/dp/B08241JB7N/ref=zg_bs_appliances_19?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #18 in Appliances , #2 in Chest Freezers
+}
+
+{
+	description : : Broan-NuTone F402408 Insert with Light, Exhaust Fan for Under Cabinet Two-Speed Four-Way Convertible Range Hood, 24-Inch, Almond : Appliances
+	product_url : https://amazon.com/Broan-F402408-Two-Speed-Four-Way-Convertible/dp/B001E6L9UE/ref=zg_bs_appliances_20?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 6,283 ratings
+	scraping_time : 11/02/2021, 14:34:06
+	image_url : https://m.media-amazon.com/images/I/51z2trIg86L._AC_SY355_.jpg
+	dimensions : ‎17.5 x 42 x 6 inches
+	asin : B001E6L9UE
+	manufacturer : ‎Broan
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Broan-F402408-Two-Speed-Four-Way-Convertible/dp/B001E6L9UE/ref=zg_bs_appliances_20?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #21 in Appliances , #2 in Range Hoods
+}
+
+{
+	description : : Kismile Counter top Ice Maker Machine with Self-Cleaning, 26LBS/24H Compact Automatic Ice Maker,9 Cubes Ready in 6-8 Minutes,Portable Ice Cube Maker, Perfect for Home/Kitchen/Office/Bar (Black) : Appliances
+	product_url : https://amazon.com/Kismile-Counter-Self-cleaning-Automatic-Portable/dp/B08BJ7HNKD/ref=zg_bs_appliances_21?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 2,937 ratings
+	scraping_time : 11/02/2021, 14:34:11
+	image_url : https://m.media-amazon.com/images/I/51NUQxCErHL._AC_SX522_.jpg
+	dimensions : ‎15.35 x 14.84 x 11.26 inches
+	asin : B08BJ7HNKD
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Kismile-Counter-Self-cleaning-Automatic-Portable/dp/B08BJ7HNKD/ref=zg_bs_appliances_21?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #19 in Appliances , #11 in Ice Makers
+}
+
+{
+	description : : COSTWAY Mini Washing Machine with Spin Dryer, Washing Capacity 5.5lbs, Electric Compact Laundry Machines Portable Durable Design Washer Energy Saving, Rotary Controller : Appliances
+	product_url : https://amazon.com/COSTWAY-Electric-Machines-Portable-Controller/dp/B074R7GK8V/ref=zg_bs_appliances_22?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 3.8 / 5
+	num_ratings : 3,379 ratings
+	scraping_time : 11/02/2021, 14:34:17
+	image_url : https://m.media-amazon.com/images/I/61295PuqwNL._AC_SY550_.jpg
+	dimensions : ‎22.44 x 15.94 x 14.57 inches
+	asin : B074R7GK8V
+	manufacturer : ‎No
+	availability : Currently unavailable.
+	review_url : https://amazon.com/COSTWAY-Electric-Machines-Portable-Controller/dp/B074R7GK8V/ref=zg_bs_appliances_22?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #20 in Appliances , #2 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Midea MRC050S0AWW Chest Freezer, 5.0 Cubic Feet, White : Appliances
+	product_url : https://amazon.com/midea-MRC050S0AWW-Chest-Freezer-Cubic/dp/B07PVNLL1T/ref=zg_bs_appliances_23?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 945 ratings
+	scraping_time : 11/02/2021, 14:34:23
+	image_url : https://m.media-amazon.com/images/I/71Ynn4Nk0hL._AC_SX466_.jpg
+	dimensions : ‎24.9 x 21.7 x 33.5 inches
+	asin : B07PVNLL1T
+	manufacturer : None
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/midea-MRC050S0AWW-Chest-Freezer-Cubic/dp/B07PVNLL1T/ref=zg_bs_appliances_23?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #22 in Appliances , #3 in Chest Freezers
+}
+
+{
+	description : : COMFEE’ 1.6 Cu.ft Portable Washing Machine, 11lbs Capacity Fully Automatic Compact Washer with Wheels, 6 Wash Programs Laundry Washer with Drain Pump, Ideal for Apartments, RV, Camping, Magnetic Gray : Appliances
+	product_url : https://amazon.com/COMFEE-Portable-Capacity-Automatic-Apartments/dp/B089YSKJY6/ref=zg_bs_appliances_24?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 2,115 ratings
+	scraping_time : 11/02/2021, 14:34:29
+	image_url : https://m.media-amazon.com/images/I/41hOwz0shmL._AC_SX522_.jpg
+	dimensions : ‎20.7 x 20.3 x 36.6 inches
+	asin : B089YSKJY6
+	manufacturer : None
+	availability : In Stock.
+	review_url : https://amazon.com/COMFEE-Portable-Capacity-Automatic-Apartments/dp/B089YSKJY6/ref=zg_bs_appliances_24?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #29 in Appliances , #4 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Cosmo COS-5MU30 30 in. Under Cabinet Range Hood Ductless Convertible Duct, Slim Kitchen Stove Vent with, 3 Speed Exhaust Fan, Reusable Filter and LED Lights in Stainless Steel, 30 inch : Everything Else
+	product_url : https://amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B074PBLJVY/ref=zg_bs_appliances_25?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 4,753 ratings
+	scraping_time : 11/02/2021, 14:34:36
+	image_url : https://m.media-amazon.com/images/I/61w1j0pDcSL._AC_SX522_.jpg
+	dimensions : ‎19.75 x 29.75 x 5.5 inches
+	asin : B074PBLJVY
+	manufacturer : ‎No
+	availability : Unknown availability status
+	review_url : https://amazon.com/COS-5MU30-Ductless-Convertible-Reusable-Stainless/dp/B074PBLJVY/ref=zg_bs_appliances_25?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #37 in Appliances , #4 in Range Hoods
+}
+
+{
+	description : : Silonn Ice Makers Countertop 9 Bullet Ice Cubes Ready in 6 Minutes, 26lbs in 24Hrs Portable Ice Maker Machine Self-Cleaning, 2 Sizes of Bullet-Shaped Ice for Home Kitchen Office Bar Party : Appliances
+	product_url : https://amazon.com/Silonn-Countertop-Portable-Self-cleaning-Bullet-shaped/dp/B08ZYJ8CRX/ref=zg_bs_appliances_26?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 898 ratings
+	scraping_time : 11/02/2021, 14:34:42
+	image_url : https://m.media-amazon.com/images/I/61oyRr8hJxS._SY445_.jpg
+	dimensions : ‎
+
+12.3 x 8.7 x 12.5 inches; 15.2 Pounds
+	asin : ‎
+
+B08ZYJ8CRX
+	manufacturer : ‎
+
+Silonn
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Silonn-Countertop-Portable-Self-cleaning-Bullet-shaped/dp/B08ZYJ8CRX/ref=zg_bs_appliances_26?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#26 in Appliances #14 in Ice Makers
+}
+
+{
+	description : : Ice Maker Portable Ice Maker Countertop Ice Maker Machine for Home/Office/Camping/Mini/Small/Table Top/Electric with Spoon, 26.5 lbs in 24h : Appliances
+	product_url : https://amazon.com/Portable-Countertop-Machine-Camping-Electric/dp/B09BJ57LL8/ref=zg_bs_appliances_27?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 98 ratings
+	scraping_time : 11/02/2021, 14:34:46
+	image_url : https://m.media-amazon.com/images/I/61mwtwqyiRL._SX342_.jpg
+	dimensions : ‎
+
+14.65 x 13.46 x 10.28 inches; 16.78 Pounds
+	asin : ‎
+
+B09BJ57LL8
+	manufacturer : ‎
+
+Vpcok Direct
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Portable-Countertop-Machine-Camping-Electric/dp/B09BJ57LL8/ref=zg_bs_appliances_27?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#30 in Appliances #16 in Ice Makers
+}
+
+{
+	description : : COSTWAY Compact Laundry Dryer, 110V Electric Portable Clothes Dryer with Stainless Steel Tub, Control Panel Downside Easy Control for 4 Automatic Drying Mode, White : Appliances
+	product_url : https://amazon.com/Costway-Electric-Compact-Stainless-Clothes/dp/B07F618LKC/ref=zg_bs_appliances_28?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 1,546 ratings
+	scraping_time : 11/02/2021, 14:34:52
+	image_url : https://m.media-amazon.com/images/I/61JZ9wO6HtL._AC_SX522_.jpg
+	dimensions : None
+	asin : B07F618LKC
+	manufacturer : ‎No
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Costway-Electric-Compact-Stainless-Clothes/dp/B07F618LKC/ref=zg_bs_appliances_28?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #33 in Appliances , #1 in Portable Dryers
+}
+
+{
+	description : : Galanz GLR74BBER12 Retro Bottom Mount Refrigerator, Adjustable Mechanical Thermostat with True Freezer, Blue, 7.4 Cu Ft : Appliances
+	product_url : https://amazon.com/Galanz-GLR74BBER12-Refrigerator-Adjustable-Mechanical/dp/B08NVQ3K9T/ref=zg_bs_appliances_29?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 1,294 ratings
+	scraping_time : 11/02/2021, 14:34:57
+	image_url : https://m.media-amazon.com/images/I/71yjIvDlQwL._AC_SX522_.jpg
+	dimensions : ‎20.79 x 24.09 x 65.55 inches
+	asin : B08NVQ3K9T
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Galanz-GLR74BBER12-Refrigerator-Adjustable-Mechanical/dp/B08NVQ3K9T/ref=zg_bs_appliances_29?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #23 in Appliances , #2 in Refrigerators, #19 in Compact Refrigerators
+}
+
+{
+	description : : Farberware FDW05ASBWHA Complete Portable Countertop Dishwasher with 5-Liter Built-in Water Tank, 5 Programs, Baby Care, Glass & Fruit Wash-Black/White : Baby
+	product_url : https://amazon.com/Farberware-FDW05ASBWHA-Countertop-Dishwasher-Wash-White/dp/B07VR22832/ref=zg_bs_appliances_30?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 2,240 ratings
+	scraping_time : 11/02/2021, 14:35:03
+	image_url : https://m.media-amazon.com/images/I/71a9VHdSx6L._AC_SX522_.jpg
+	dimensions : ‎17.3 x 16.5 x 17.3 inches
+	asin : B07VR22832
+	manufacturer : None
+	availability : Only 1 left in stock - order soon.
+	review_url : https://amazon.com/Farberware-FDW05ASBWHA-Countertop-Dishwasher-Wash-White/dp/B07VR22832/ref=zg_bs_appliances_30?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #38 in Appliances , #1 in Countertop Dishwashers
+}
+
+{
+	description : : Ice Maker Machine Countertop, Self Cleaning Function, Portable Mini Ice Makers, Make 26 lbs ice in 24 hrs, Ice Cubes Ready in 6-8 Mins with Ice Scoop and Basket for Home/Office/Bar : Appliances
+	product_url : https://amazon.com/Automatic-Cleaning-Portable-Electric-Countertop/dp/B08NRPKPNC/ref=zg_bs_appliances_31?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.2 / 5
+	num_ratings : 1,724 ratings
+	scraping_time : 11/02/2021, 14:35:07
+	image_url : https://m.media-amazon.com/images/I/61XyMjRXOzS._SX342_.jpg
+	dimensions : ‎
+
+14.75 x 14.5 x 11 inches; 17.25 Pounds
+	asin : ‎
+
+B08NRPKPNC
+	manufacturer : ‎
+
+Koolerthings
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Automatic-Cleaning-Portable-Electric-Countertop/dp/B08NRPKPNC/ref=zg_bs_appliances_31?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#36 in Appliances #18 in Ice Makers
+}
+
+{
+	description : : Ice Maker Countertop Machine, 9 Bullet Ice Cubes Ready in 6 Mins, 22lbs Ice Cubes in 24H, LCD Display, Self-Cleaning Function, 2.1L Electric Stainless Steel Ice Maker with Ice Scoop, Basket : Appliances
+	product_url : https://amazon.com/Countertop-Self-Cleaning-Function-Electric-Stainless/dp/B09JP3WKFP/ref=zg_bs_appliances_32?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:35:11
+	image_url : https://m.media-amazon.com/images/I/71Cc+cSKGjL._SX342_.jpg
+	dimensions : ‎
+
+12.4 x 9.5 x 14.7 inches
+	asin : ‎
+
+B09JP3WKFP
+	manufacturer : ‎
+
+Miroc
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Countertop-Self-Cleaning-Function-Electric-Stainless/dp/B09JP3WKFP/ref=zg_bs_appliances_32?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#28 in Appliances #15 in Ice Makers
+}
+
+{
+	description : : SUPER DEAL Compact Mini Twin Tub Washing Machine, Portable Laundry Washer w/Wash and Spin Cycle Combo, Built-in Gravity Drain, 13lbs Capacity for Camping, Apartments, Dorms, College Rooms, RV’s and more : Appliances
+	product_url : https://amazon.com/SUPER-DEAL-Portable-Apartments-Delicates/dp/B07B94ZR74/ref=zg_bs_appliances_33?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.1 / 5
+	num_ratings : 7,328 ratings
+	scraping_time : 11/02/2021, 14:35:17
+	image_url : https://m.media-amazon.com/images/I/61HA7Fsh+dL._AC_SX522_.jpg
+	dimensions : ‎23 x 13.5 x 26 inches
+	asin : B07B94ZR74
+	manufacturer : ‎No
+	availability : Currently unavailable.
+	review_url : https://amazon.com/SUPER-DEAL-Portable-Apartments-Delicates/dp/B07B94ZR74/ref=zg_bs_appliances_33?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #27 in Appliances , #3 in Portable Clothes Washing Machines
+}
+
+{
+	description : : GLACIALPURE Ice2 F2wc9i1 Cap Ice Maker Water Filter Compatible with W10565350, W10480323 ICE2 F2WC9I1 3-pack… : Everything Else
+	product_url : https://amazon.com/GLACIALPURE-F2wc9i1-Compatible-W10565350-W10480323/dp/B09G2B1HJP/ref=zg_bs_appliances_34?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.7 / 5
+	num_ratings : 5 ratings
+	scraping_time : 11/02/2021, 14:35:21
+	image_url : https://m.media-amazon.com/images/I/61uqOnuLB9S._AC_SX522_.jpg
+	dimensions : ‎10.16 x 10.04 x 2.76 inches
+	asin : B09G2B1HJP
+	manufacturer : ‎Good water
+	availability : Currently unavailable.
+	review_url : https://amazon.com/GLACIALPURE-F2wc9i1-Compatible-W10565350-W10480323/dp/B09G2B1HJP/ref=zg_bs_appliances_34?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #25 in Appliances , #13 in Ice Makers
+}
+
+{
+	description : : BLACK & DECKER BPWM09W Portable Washer : Appliances
+	product_url : https://amazon.com/Black-Decker-BPWM09W-Portable-Washer/dp/B0799Q45TT/ref=zg_bs_appliances_35?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 1,208 ratings
+	scraping_time : 11/02/2021, 14:35:27
+	image_url : https://m.media-amazon.com/images/I/41Cc98EYMsL._AC_.jpg
+	dimensions : ‎17.7 x 18.1 x 31.5 inches
+	asin : B0799Q45TT
+	manufacturer : ‎No
+	availability : In Stock.
+	review_url : https://amazon.com/Black-Decker-BPWM09W-Portable-Washer/dp/B0799Q45TT/ref=zg_bs_appliances_35?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #40 in Appliances , #7 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Laundry Door Post 2.0 - Washer Set Lasso Let the Air circulation Washing machine keeps Dry and Fresh Air, Reduce the Cleaning Cost of the washing machine,Laundry Room Decor : Appliances
+	product_url : https://amazon.com/Laundry-Door-Post-circulation-Cleaning/dp/B07XJN3H89/ref=zg_bs_appliances_36?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 3.9 / 5
+	num_ratings : 315 ratings
+	scraping_time : 11/02/2021, 14:35:35
+	image_url : https://m.media-amazon.com/images/I/61J6QBW4dJL._AC_SX522_.jpg
+	dimensions : ‎3.94 x 1.97 x 2.76 inches
+	asin : B07XJN3H89
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Laundry-Door-Post-circulation-Cleaning/dp/B07XJN3H89/ref=zg_bs_appliances_36?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #34 in Appliances , #5 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Frigidaire EFIC117-SSBLACK-COM EFIC117-SSBLACK 26 Lbs Portable Compact Maker, Black Stainless Steel Ice Making Machine : Everything Else
+	product_url : https://amazon.com/Frigidaire-Countertop-Maker-Black-Stainless/dp/B07J1YVSNQ/ref=zg_bs_appliances_37?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 1,933 ratings
+	scraping_time : 11/02/2021, 14:35:43
+	image_url : https://m.media-amazon.com/images/I/71AbR67LOpL._AC_SX466_.jpg
+	dimensions : 15 x 11 x 14.5 inches
+	asin : B07J1YVSNQ
+	manufacturer : Frigidaire
+	availability : 
+	review_url : https://amazon.com/Frigidaire-Countertop-Maker-Black-Stainless/dp/B07J1YVSNQ/ref=zg_bs_appliances_37?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #31 in Appliances , #17 in Ice Makers
+}
+
+{
+	description : : COMFEE' Portable Washing Machine, 0.9 cu.ft Compact Washer With LED Display, 5 Wash Cycles, 2 Built-in Rollers, Space Saving Full-Automatic Washer, Ideal for RV, Dorm, Apartment, Ivory White : Appliances
+	product_url : https://amazon.com/COMFEE-Portable-Washing-Full-Automatic-Apartment/dp/B08NX4BVM9/ref=zg_bs_appliances_38?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 1,709 ratings
+	scraping_time : 11/02/2021, 14:35:49
+	image_url : https://m.media-amazon.com/images/I/61ckarCl0aL._AC_SY550_.jpg
+	dimensions : ‎18.1 x 17.7 x 31.5 inches
+	asin : B08NX4BVM9
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/COMFEE-Portable-Washing-Full-Automatic-Apartment/dp/B08NX4BVM9/ref=zg_bs_appliances_38?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #35 in Appliances , #2 in Clothes Washing Machines, #6 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Cosmo 63175S 30 in. Wall Mount Range Hood with Ductless Convertible Duct (additional filters needed, not included), Ceiling Chimney-Style Stove Vent, LEDs Light, Permanent Filter, 3 Speed Fan, in Stainless Steel : Appliances
+	product_url : https://amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/ref=zg_bs_appliances_39?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.6 / 5
+	num_ratings : 971 ratings
+	scraping_time : 11/02/2021, 14:35:55
+	image_url : https://m.media-amazon.com/images/I/71a9qxqCbYL._AC_SX522_.jpg
+	dimensions : ‎30 x 19.75 x 39.4 inches
+	asin : B01DN00K0S
+	manufacturer : ‎No
+	availability : In Stock.
+	review_url : https://amazon.com/Cosmo-Controls-Lighting-Permanent-Filters/dp/B01DN00K0S/ref=zg_bs_appliances_39?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #32 in Appliances , #3 in Range Hoods
+}
+
+{
+	description : : Dreamiracle Ice Maker Machine Countertop, 26 lbs in 24 Hours, Self-cleaning Ice Maker Countertop, 9 Cubes Ready in 8 Mins, Electric Ice Maker with Ice Scoop and Basket Home/Kitchen/Office : Appliances
+	product_url : https://amazon.com/Dreamiracle-Machine-Countertop-Automatic-Electric/dp/B08YR8KB69/ref=zg_bs_appliances_40?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.7 / 5
+	num_ratings : 13 ratings
+	scraping_time : 11/02/2021, 14:36:00
+	image_url : https://m.media-amazon.com/images/I/61Vj9QqvlRS._SX342_.jpg
+	dimensions : ‎
+
+12.5 x 8.9 x 11.6 inches; 18.52 Pounds
+	asin : ‎
+
+B08YR8KB69
+	manufacturer : ‎
+
+Dreamiracle
+	availability : Unknown availability status
+	review_url : https://amazon.com/Dreamiracle-Machine-Countertop-Automatic-Electric/dp/B08YR8KB69/ref=zg_bs_appliances_40?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#39 in Appliances #19 in Ice Makers
+}
+
+{
+	description : : Arctic King Chest Freezer 5 cu ft (Black) : Appliances
+	product_url : https://amazon.com/Arctic-King-Chest-Freezer-Black/dp/B0827CKHHF/ref=zg_bs_appliances_41?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 141 ratings
+	scraping_time : 11/02/2021, 14:36:04
+	image_url : https://m.media-amazon.com/images/I/41wjpPblMLL._AC_.jpg
+	dimensions : ‎39 x 27 x 24 inches
+	asin : B0827CKHHF
+	manufacturer : None
+	availability : 
+	review_url : https://amazon.com/Arctic-King-Chest-Freezer-Black/dp/B0827CKHHF/ref=zg_bs_appliances_41?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #50 in Appliances , #4 in Chest Freezers
+}
+
+{
+	description : : BLACK+DECKER BPWM16W Portable Washer, White : Everything Else
+	product_url : https://amazon.com/BLACK-DECKER-BPWM16W-Portable-Washer/dp/B07RNMDHRL/ref=zg_bs_appliances_42?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.3 / 5
+	num_ratings : 894 ratings
+	scraping_time : 11/02/2021, 14:36:12
+	image_url : https://m.media-amazon.com/images/I/51C3-BylANL._AC_SX522_.jpg
+	dimensions : ‎36.6 x 20.3 x 20.7 inches
+	asin : B07RNMDHRL
+	manufacturer : None
+	availability : In Stock.
+	review_url : https://amazon.com/BLACK-DECKER-BPWM16W-Portable-Washer/dp/B07RNMDHRL/ref=zg_bs_appliances_42?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #62 in Appliances , #9 in Portable Clothes Washing Machines
+}
+
+{
+	description : : Portable Ice Maker, 9 Ice Cubes Ready in 6-8 Minutes, ETL certificated Makes 26.5 lbs in 24 hrs, Ice Machine for Home/Kitchen/Office/Bar, with Ice Scoop and Bucket,Blue… : Appliances
+	product_url : https://amazon.com/Portable-Minutes-certificated-Machine-Kitchen/dp/B08TG7B9JM/ref=zg_bs_appliances_43?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 458 ratings
+	scraping_time : 11/02/2021, 14:36:18
+	image_url : https://m.media-amazon.com/images/I/61cDrtcGHTL._SY445_.jpg
+	dimensions : ‎
+
+16.3 x 14.8 x 11.7 inches; 19.95 Pounds
+	asin : ‎
+
+B08TG7B9JM
+	manufacturer : ‎
+
+IKT
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Portable-Minutes-certificated-Machine-Kitchen/dp/B08TG7B9JM/ref=zg_bs_appliances_43?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#44 in Appliances #22 in Ice Makers
+}
+
+{
+	description : : Broan-NuTone BCSD130BC Glacier Range Hood with Light, Exhaust Fan for Under Cabinet, 30 Inch, Bisque : Appliances
+	product_url : https://amazon.com/Broan-NuTone-BCSD130BC-Glacier-30-Inch-Bisque/dp/B07236MH49/ref=zg_bs_appliances_44?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 1,357 ratings
+	scraping_time : 11/02/2021, 14:36:24
+	image_url : https://m.media-amazon.com/images/I/51Q04c0CvOL._AC_SY355_.jpg
+	dimensions : ‎19.63 x 6 x 30 inches
+	asin : B07236MH49
+	manufacturer : ‎Broan-NuTone
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Broan-NuTone-BCSD130BC-Glacier-30-Inch-Bisque/dp/B07236MH49/ref=zg_bs_appliances_44?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #46 in Appliances , #5 in Range Hoods
+}
+
+{
+	description : : KOBE Range Hoods INX2930SQBF-500-1 Built-In/Insert Range Hood, 30" : Appliances
+	product_url : https://amazon.com/KOBE-Range-Hoods-INX2930SQBF-500-1-Built/dp/B07DMGGSPR/ref=zg_bs_appliances_45?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 379 ratings
+	scraping_time : 11/02/2021, 14:36:30
+	image_url : https://m.media-amazon.com/images/I/51wkUX-5DVL._AC_SY355_.jpg
+	dimensions : ‎11.5 x 27.75 x 14.75 inches
+	asin : B07DMGGSPR
+	manufacturer : ‎KOBE Range Hoods
+	availability : In Stock.
+	review_url : https://amazon.com/KOBE-Range-Hoods-INX2930SQBF-500-1-Built/dp/B07DMGGSPR/ref=zg_bs_appliances_45?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #49 in Appliances , #7 in Range Hoods
+}
+
+{
+	description : : Replacement for Ice Maker Water Filtеr Whirlpool F2WC9I1 ICE2 for 50 Pound Ice Machines - 2-Pack : Appliances
+	product_url : https://amazon.com/Replacement-Filt%D0%B5r-Whirlpool-F2WC9I1-Machines/dp/B09JV25F99/ref=zg_bs_appliances_46?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:38:02
+	image_url : https://m.media-amazon.com/images/I/61dGcc1k1LL._SY445_.jpg
+	dimensions : None
+	asin : ‎
+
+B09JV25F99
+	manufacturer : ‎
+
+Water Filters
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Replacement-Filt%D0%B5r-Whirlpool-F2WC9I1-Machines/dp/B09JV25F99/ref=zg_bs_appliances_46?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : 
+
+#48 in Appliances #24 in Ice Makers
+}
+
+{
+	description : : Broan-NuTone 413602 Ductless Range Hood Insert with Light, Exhaust Fan for Under Cabinet, Bisque White, 36" Broan 41000, Inch : Appliances
+	product_url : https://amazon.com/Broan-413602-Capable-Non-Ducted-Under-Cabinet/dp/B000TQANXE/ref=zg_bs_appliances_47?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.7 / 5
+	num_ratings : 1,446 ratings
+	scraping_time : 11/02/2021, 14:38:09
+	image_url : https://m.media-amazon.com/images/I/61ZT8G5dHSL._AC_SY355_.jpg
+	dimensions : ‎17.5 x 6 x 36 inches
+	asin : B000TQANXE
+	manufacturer : ‎Broan
+	availability : Unknown availability status
+	review_url : https://amazon.com/Broan-413602-Capable-Non-Ducted-Under-Cabinet/dp/B000TQANXE/ref=zg_bs_appliances_47?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #55 in Appliances , #9 in Range Hoods
+}
+
+{
+	description : : Ice Maker Machine for Countertop, Dreamiracle Ice Cubes Ready in 6 Mins, 33 lbs Ice in 24 H, Self-cleaning Ice Machine, Electric Ice Maker Stainless Steel : Appliances
+	product_url : https://amazon.com/Countertop-Dreamiracle-Self-cleaning-Electric-Stainless/dp/B0932WFJ12/ref=zg_bs_appliances_48?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.3 / 5
+	num_ratings : 151 ratings
+	scraping_time : 11/02/2021, 14:38:15
+	image_url : https://m.media-amazon.com/images/I/61qkl-UX3oS._AC_SX522_.jpg
+	dimensions : ‎14.1 x 9.65 x 11.54 inches
+	asin : B0932WFJ12
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Countertop-Dreamiracle-Self-cleaning-Electric-Stainless/dp/B0932WFJ12/ref=zg_bs_appliances_48?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #45 in Appliances , #23 in Ice Makers
+}
+
+{
+	description : : Euhomy Ice Maker Machine Countertop, 40Lbs/24H Auto Self-Cleaning, 24 pcs Ice Cube in 13 Mins, Portable Compact Ice Cube Maker, with Ice Scoop & Basket, Perfect for Home/Kitchen/Office/Bar (Silver) : Appliances
+	product_url : https://amazon.com/Machine-Countertop-Portable-Compact-Perfect/dp/B07ZV318K3/ref=zg_bs_appliances_49?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.4 / 5
+	num_ratings : 3,852 ratings
+	scraping_time : 11/02/2021, 14:38:23
+	image_url : https://m.media-amazon.com/images/I/71YziGGQOLL._AC_SX522_.jpg
+	dimensions : ‎14.1 x 11 x 13.7 inches
+	asin : B07ZV318K3
+	manufacturer : None
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Machine-Countertop-Portable-Compact-Perfect/dp/B07ZV318K3/ref=zg_bs_appliances_49?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #43 in Appliances , #21 in Ice Makers
+}
+
+{
+	description : : BROAN NuTone BCSQ130SS Three-Speed Glacier Under-Cabinet Range Hood with LED Lights ADA Capable, 1.5 Sones, 375 Max Blower CFM, 30", Stainless Steel : Appliances
+	product_url : https://amazon.com/Broan-BCSQ130SS-Range-Hood/dp/B00NHJMHPC/ref=zg_bs_appliances_50?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	rating : 4.5 / 5
+	num_ratings : 196 ratings
+	scraping_time : 11/02/2021, 14:38:28
+	image_url : https://m.media-amazon.com/images/I/51qM3AoHVdL._AC_SX522_.jpg
+	dimensions : ‎34 x 24 x 8 inches
+	asin : B00NHJMHPC
+	manufacturer : None
+	availability : In Stock.
+	review_url : https://amazon.com/Broan-BCSQ130SS-Range-Hood/dp/B00NHJMHPC/ref=zg_bs_appliances_50?_encoding=UTF8&psc=1&refRID=YQZ0CFJ6TGZACQGC08V5
+	seller_rank : #47 in Appliances , #6 in Range Hoods
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:23
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Scary-Dudes-Teacher-3D/dp/B07YQ1YTQX/ref=zg_bs_mobile-apps_2?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:25
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Scary-Dudes-Teacher-3D/dp/B07YQ1YTQX/ref=zg_bs_mobile-apps_2?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Kitchen-2/dp/B00ZU33BBC/ref=zg_bs_mobile-apps_3?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:28
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Kitchen-2/dp/B00ZU33BBC/ref=zg_bs_mobile-apps_3?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : Hospital:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Life-Hospital/dp/B06Y36DBZX/ref=zg_bs_mobile-apps_4?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:30
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Life-Hospital/dp/B06Y36DBZX/ref=zg_bs_mobile-apps_4?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Ararat-Games-Dino-Run-3D/dp/B09JVYKQS7/ref=zg_bs_mobile-apps_5?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:34
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Ararat-Games-Dino-Run-3D/dp/B09JVYKQS7/ref=zg_bs_mobile-apps_5?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Vaveda-Games-LLC-Hired-gun/dp/B08WYW5TCF/ref=zg_bs_mobile-apps_6?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:37
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Vaveda-Games-LLC-Hired-gun/dp/B08WYW5TCF/ref=zg_bs_mobile-apps_6?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : My Hero Driver:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Cool-Hyper-Apps-Club-Pocket/dp/B095KWPGDW/ref=zg_bs_mobile-apps_7?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:41
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Cool-Hyper-Apps-Club-Pocket/dp/B095KWPGDW/ref=zg_bs_mobile-apps_7?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/RobTop-Games-Geometry-Dash/dp/B00EDTSKLU/ref=zg_bs_mobile-apps_8?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:43
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/RobTop-Games-Geometry-Dash/dp/B00EDTSKLU/ref=zg_bs_mobile-apps_8?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Ararat-Games-Collect-and-Destroy/dp/B09JN8N4CK/ref=zg_bs_mobile-apps_9?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:45
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Ararat-Games-Collect-and-Destroy/dp/B09JN8N4CK/ref=zg_bs_mobile-apps_9?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Scott-Cawthon-Five-Nights-Freddys/dp/B00N1HONIO/ref=zg_bs_mobile-apps_10?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:54
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Scott-Cawthon-Five-Nights-Freddys/dp/B00N1HONIO/ref=zg_bs_mobile-apps_10?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Vaveda-Games-LLC-Evidence-Master/dp/B08Y56B5B2/ref=zg_bs_mobile-apps_11?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:56
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Vaveda-Games-LLC-Evidence-Master/dp/B08Y56B5B2/ref=zg_bs_mobile-apps_11?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : Neighborhood:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Life-Neighborhood/dp/B07JBH26H7/ref=zg_bs_mobile-apps_12?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:39:59
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Life-Neighborhood/dp/B07JBH26H7/ref=zg_bs_mobile-apps_12?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Hair-Salon-3/dp/B01N6BNUU4/ref=zg_bs_mobile-apps_13?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:01
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Hair-Salon-3/dp/B01N6BNUU4/ref=zg_bs_mobile-apps_13?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : School:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Life-School/dp/B01FE8HBVS/ref=zg_bs_mobile-apps_14?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:05
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Life-School/dp/B01FE8HBVS/ref=zg_bs_mobile-apps_14?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Boo/dp/B00R0DLFNG/ref=zg_bs_mobile-apps_15?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:07
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Boo/dp/B00R0DLFNG/ref=zg_bs_mobile-apps_15?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Pet-Doctor/dp/B00J4HO3OO/ref=zg_bs_mobile-apps_16?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:10
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Pet-Doctor/dp/B00J4HO3OO/ref=zg_bs_mobile-apps_16?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : Moonlight Heroes:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Entertainment-One-Ltd-Masks-Moonlight/dp/B01GG7JB28/ref=zg_bs_mobile-apps_17?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:15
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Entertainment-One-Ltd-Masks-Moonlight/dp/B01GG7JB28/ref=zg_bs_mobile-apps_17?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Ninja-Kiwi-Bloons-TD-6/dp/B07DXGT5C4/ref=zg_bs_mobile-apps_18?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:21
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Ninja-Kiwi-Bloons-TD-6/dp/B07DXGT5C4/ref=zg_bs_mobile-apps_18?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Cops-Vs-Robbers-Jail-Break/dp/B00OXHHVBC/ref=zg_bs_mobile-apps_19?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:24
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Cops-Vs-Robbers-Jail-Break/dp/B00OXHHVBC/ref=zg_bs_mobile-apps_19?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Sonic-Hedgehog-4-Episode-I/dp/B008K8U13K/ref=zg_bs_mobile-apps_20?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:27
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Sonic-Hedgehog-4-Episode-I/dp/B008K8U13K/ref=zg_bs_mobile-apps_20?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/giant-stack-heels-tower-pusher/dp/B092PSB9FN/ref=zg_bs_mobile-apps_21?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:29
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/giant-stack-heels-tower-pusher/dp/B092PSB9FN/ref=zg_bs_mobile-apps_21?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Challenge-collecting-original-games-makeover/dp/B097DXZFPL/ref=zg_bs_mobile-apps_22?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:31
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Challenge-collecting-original-games-makeover/dp/B097DXZFPL/ref=zg_bs_mobile-apps_22?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : The Samurai Killer:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Bouchnaq-Impostor-The-Samurai-Killer/dp/B08WKSNGQH/ref=zg_bs_mobile-apps_23?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:35
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Bouchnaq-Impostor-The-Samurai-Killer/dp/B08WKSNGQH/ref=zg_bs_mobile-apps_23?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : Racing Heroes:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Entertainment-One-Ltd-PJ-Masks/dp/B07L5V98Y1/ref=zg_bs_mobile-apps_24?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:39
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Entertainment-One-Ltd-PJ-Masks/dp/B07L5V98Y1/ref=zg_bs_mobile-apps_24?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Ararat-Games-Fall-Cars/dp/B09JN9VX2H/ref=zg_bs_mobile-apps_25?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:42
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Ararat-Games-Fall-Cars/dp/B09JN9VX2H/ref=zg_bs_mobile-apps_25?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Ararat-Games-Knight-Wars/dp/B09JNCG5VT/ref=zg_bs_mobile-apps_26?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:44
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Ararat-Games-Knight-Wars/dp/B09JNCG5VT/ref=zg_bs_mobile-apps_26?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : : Vacation:Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Toca-Boca-Life-Vacation/dp/B01H0PMDCA/ref=zg_bs_mobile-apps_27?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:47
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Toca-Boca-Life-Vacation/dp/B01H0PMDCA/ref=zg_bs_mobile-apps_27?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/Sega-of-America-Sonic-CD/dp/B008K9UZY4/ref=zg_bs_mobile-apps_28?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:50
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/Sega-of-America-Sonic-CD/dp/B008K9UZY4/ref=zg_bs_mobile-apps_28?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : :Amazon.com:Appstore for Android
+	product_url : https://amazon.com/%E9%BE%99%E6%96%B9%E5%84%BF-AirReceiver/dp/B00L5HQRGS/ref=zg_bs_mobile-apps_29?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : No ratings
+	num_ratings : No ratings
+	scraping_time : 11/02/2021, 14:40:53
+	image_url : No image found
+	dimensions : None
+	asin : No ASIN found
+	manufacturer : None
+	availability : Unknown availability status
+	review_url : https://amazon.com/%E9%BE%99%E6%96%B9%E5%84%BF-AirReceiver/dp/B00L5HQRGS/ref=zg_bs_mobile-apps_29?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+
+
+
+{
+	description : Minecraft
+	product_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : 4.3 / 5
+	num_ratings : 118,630  
+	scraping_time : 11/02/2021, 17:26:25
+	image_url : No image found
+	dimensions : None
+	asin : B00992CF6W
+	manufacturer : Mojang
+	availability : Unknown availability status
+	review_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
+
+{
+	description : Minecraft
+	product_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	rating : 4.3 / 5
+	num_ratings : 118,630  
+	scraping_time : 11/02/2021, 17:27:55
+	image_url : No image found
+	dimensions : None
+	asin : B00992CF6W
+	manufacturer : Mojang
+	availability : Unknown availability status
+	review_url : https://amazon.com/Mojang-Minecraft/dp/B00992CF6W/ref=zg_bs_mobile-apps_1?_encoding=UTF8&psc=1&refRID=12J7NNPWT3GHJNFSF33T
+	seller_rank : None
+}
