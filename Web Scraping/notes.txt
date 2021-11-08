@@ -1,0 +1,780 @@
+
+{
+	description : Fire TV Stick 4K streaming device with Alexa Voice Remote
+	product_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_amazon-devices_1?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $24.99
+	num_ratings : 1,478 
+	scraping_time : 11/07/2021, 23:15:56
+	image_url : https://m.media-amazon.com/images/I/61rQC6AM-6L._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B08XVYZ1Y5
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_amazon-devices_1?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision : Amazon Devices & Accessories
+	product_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_amazon-devices_2?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $24.99
+	num_ratings : 754,785 
+	scraping_time : 11/07/2021, 23:16:03
+	image_url : https://m.media-amazon.com/images/I/61mAA2BB-FL._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B079QHML21
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_amazon-devices_2?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_amazon-devices_3?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $22.99
+	num_ratings : 781,953 
+	scraping_time : 11/07/2021, 23:16:10
+	image_url : https://m.media-amazon.com/images/I/61MZfowYoaL._AC_SX425_.jpg
+	dimensions : None
+	asin : B07FZ8S74R
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_amazon-devices_3?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Smart Plug, works with Alexa – A Certified for Humans Device
+	product_url : https://amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_amazon-devices_4?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $24.99
+	num_ratings : 455,591 
+	scraping_time : 11/07/2021, 23:16:16
+	image_url : https://m.media-amazon.com/images/I/61s7HxpXqSL._AC_SX425_.jpg
+	dimensions : 3.2” x 1.5” x 2.2” (80 mm x 38 mm x 57 mm)
+	asin : B089DR29T6
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_amazon-devices_4?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Fire TV Stick (3rd Gen) with Alexa Voice Remote, Fire Stick Firestick Fire sticks Firesticks, streaming stick
+	product_url : https://amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_amazon-devices_5?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $27.99
+	num_ratings : 80,937 
+	scraping_time : 11/07/2021, 23:16:23
+	image_url : https://m.media-amazon.com/images/I/61+T2xNzR7S._AC_SX425_.jpg
+	dimensions : 3.4” x 1.2” x 0.5” (86 x 30 x 13 mm)
+	asin : B08C1W5N87
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_amazon-devices_5?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 tablet, 8" HD display, 32 GB, latest model (2020 release), designed for portable entertainment, Black : Electronics
+	product_url : https://amazon.com/Fire-HD-8-tablet/dp/B07TMJ1R3X/ref=zg_bs_amazon-devices_6?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $44.99
+	num_ratings : 121,757 
+	scraping_time : 11/07/2021, 23:16:31
+	image_url : https://m.media-amazon.com/images/I/71FpwqhD+DL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B07TMJ1R3X
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-tablet/dp/B07TMJ1R3X/ref=zg_bs_amazon-devices_6?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Blink Outdoor - wireless, weather-resistant HD security camera, two-year battery life, motion detection, set up in minutes – 2 camera kit : Electronics
+	product_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-2cam/dp/B086DL32R3/ref=zg_bs_amazon-devices_7?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.4 / 5
+	price : $74.99
+	num_ratings : 78,598 
+	scraping_time : 11/07/2021, 23:16:39
+	image_url : https://m.media-amazon.com/images/I/61TRYGIDWkL._SY355_.jpg
+	dimensions : 71 x 71 x 31 mm
+	asin : B086DL32R3
+	manufacturer : Blink Home Security 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Blink-Outdoor-Wireless-Security-Camera-2cam/dp/B086DL32R3/ref=zg_bs_amazon-devices_7?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Blue Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_amazon-devices_8?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $69.99
+	num_ratings : 98,691 
+	scraping_time : 11/07/2021, 23:16:45
+	image_url : https://m.media-amazon.com/images/I/61s3tGaiYtL._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WDDT3G5
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_amazon-devices_8?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Ring Video Doorbell
+	product_url : https://amazon.com/Ring-Video-Doorbell-Satin-Nickel-2020-Release/dp/B08N5NQ869/ref=zg_bs_amazon-devices_9?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $119.99 
+	num_ratings : 68,674 
+	scraping_time : 11/07/2021, 23:16:55
+	image_url : https://m.media-amazon.com/images/I/51Sh7ug8F-L._SY355_.jpg
+	dimensions : 4.98 in. x 2.44 in. x 1.10 in. (126.5mm x 62mm x 28mm)
+	asin : B08N5NQ869
+	manufacturer : Ring 
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Video-Doorbell-Satin-Nickel-2020-Release/dp/B08N5NQ869/ref=zg_bs_amazon-devices_9?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 tablet, 8" HD display, 32 GB, latest model (2020 release), designed for portable entertainment, Twilight Blue : Electronics
+	product_url : https://amazon.com/Fire-HD-8-tablet/dp/B07WQ1VH72/ref=zg_bs_amazon-devices_10?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $39.59
+	num_ratings : 121,757 
+	scraping_time : 11/07/2021, 23:17:01
+	image_url : https://m.media-amazon.com/images/I/71FpwqhD+DL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B07WQ1VH72
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-HD-8-tablet/dp/B07WQ1VH72/ref=zg_bs_amazon-devices_10?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: All-new Echo Dot (4th Gen) | Smart speaker with clock and Alexa | Charcoal
+	product_url : https://amazon.com/All-New-Echo-Dot-4th-Gen/dp/B07XJ8C8F7/ref=zg_bs_amazon-devices_11?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $59.99 
+	num_ratings : 119,090 
+	scraping_time : 11/07/2021, 23:17:09
+	image_url : https://m.media-amazon.com/images/I/61aVrYKRT8S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B07XJ8C8F7
+	manufacturer : Amazon 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-New-Echo-Dot-4th-Gen/dp/B07XJ8C8F7/ref=zg_bs_amazon-devices_11?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Blue Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_amazon-devices_12?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $59.99
+	num_ratings : 199,030 
+	scraping_time : 11/07/2021, 23:17:18
+	image_url : https://m.media-amazon.com/images/I/61HqG+mJN1L._AC_SY355_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H8WS1FT
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_amazon-devices_12?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 Plus tablet, HD display, 32 GB, latest model (2020 release), our best 8" tablet for portable entertainment, Slate : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Plus-tablet/dp/B0839NDRB2/ref=zg_bs_amazon-devices_13?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.5 / 5
+	price : $48.39
+	num_ratings : 27,634 
+	scraping_time : 11/07/2021, 23:17:26
+	image_url : https://m.media-amazon.com/images/I/7115EhX2BxL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B0839NDRB2
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-HD-8-Plus-tablet/dp/B0839NDRB2/ref=zg_bs_amazon-devices_13?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Purple Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WFLBX6Q/ref=zg_bs_amazon-devices_14?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $69.99
+	num_ratings : 98,691 
+	scraping_time : 11/07/2021, 23:17:32
+	image_url : https://m.media-amazon.com/images/I/61LVS0gkh8L._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WFLBX6Q
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WFLBX6Q/ref=zg_bs_amazon-devices_14?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 10 tablet, 10.1", 1080p Full HD
+	product_url : https://amazon.com/Fire-HD-10-tablet/dp/B08BX7FV5L/ref=zg_bs_amazon-devices_15?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $99.99
+	num_ratings : 30,965 
+	scraping_time : 11/07/2021, 23:17:40
+	image_url : https://m.media-amazon.com/images/I/61b5GiWigBS._AC_SY450_.jpg
+	dimensions : 9.73” x 6.53” x 0.36” (247mm x 166mm x 9.2 mm)
+	asin : B08BX7FV5L
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-tablet/dp/B08BX7FV5L/ref=zg_bs_amazon-devices_15?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Pink Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WJS3QDX/ref=zg_bs_amazon-devices_16?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $69.99
+	num_ratings : 98,691 
+	scraping_time : 11/07/2021, 23:17:46
+	image_url : https://m.media-amazon.com/images/I/611WD4Nzx6L._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WJS3QDX
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WJS3QDX/ref=zg_bs_amazon-devices_16?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : All-new Echo (4th Gen) | With premium sound, smart home hub, and Alexa | Charcoal
+	product_url : https://amazon.com/All-New-Echo-4th-Gen/dp/B07XKF5RM3/ref=zg_bs_amazon-devices_17?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $52.79
+	num_ratings : 82,981 
+	scraping_time : 11/07/2021, 23:17:55
+	image_url : https://m.media-amazon.com/images/I/61GpB9iTSsS._AC_SX425_.jpg
+	dimensions : 5.7” x 5.7” x 5.2” (144 x 144 x 133 mm)
+	asin : B07XKF5RM3
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-New-Echo-4th-Gen/dp/B07XKF5RM3/ref=zg_bs_amazon-devices_17?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Kindle - Now with a Built-in Front Light - Black - Ad-Supported : Electronics
+	product_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597/ref=zg_bs_amazon-devices_18?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $37.49
+	num_ratings : 40,015 
+	scraping_time : 11/07/2021, 23:18:03
+	image_url : https://m.media-amazon.com/images/I/61ntJTLVtCL._AC_SY450_.jpg
+	dimensions : 6.3” x 4.5” x 0.34” ( 160 x 113 x 8.7 mm).
+	asin : B07978J597
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597/ref=zg_bs_amazon-devices_18?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue : Amazon Devices & Accessories
+	product_url : https://amazon.com/All-new-Echo-Dot-Blue/dp/B084J4MZK8/ref=zg_bs_amazon-devices_19?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $30.79
+	num_ratings : 373,077 
+	scraping_time : 11/07/2021, 23:18:09
+	image_url : https://m.media-amazon.com/images/I/61MtQYQVm4S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4MZK8
+	manufacturer : Amazon 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Echo-Dot-Blue/dp/B084J4MZK8/ref=zg_bs_amazon-devices_19?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Fire TV Stick Lite with Alexa Voice Remote Lite
+	product_url : https://amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_amazon-devices_20?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $21.99
+	num_ratings : 202,500 
+	scraping_time : 11/07/2021, 23:18:16
+	image_url : https://m.media-amazon.com/images/I/61SE2Mjz+kS._AC_SX425_.jpg
+	dimensions : 3.4” x 1.2” x 0.5” (86 x 30 x 13 mm)
+	asin : B07YNLBS7R
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_amazon-devices_20?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Introducing Fire TV Stick 4K Max streaming device
+	product_url : https://amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_amazon-devices_21?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $54.99
+	num_ratings : 2,602 
+	scraping_time : 11/07/2021, 23:18:23
+	image_url : https://m.media-amazon.com/images/I/612AvoovbdL._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B08MQZXN1X
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_amazon-devices_21?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Dot (4th Gen) Kids | Designed for kids, with parental controls | Panda : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Designed-parental-controls-Panda/dp/B084J4MJCK/ref=zg_bs_amazon-devices_22?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $34.99
+	num_ratings : 19,150 
+	scraping_time : 11/07/2021, 23:18:29
+	image_url : https://m.media-amazon.com/images/I/61OUzfFUFGS._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4MJCK
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Echo-Designed-parental-controls-Panda/dp/B084J4MJCK/ref=zg_bs_amazon-devices_22?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: All-new Echo Dot (4th Gen) | Smart speaker with Alexa | Charcoal
+	product_url : https://amazon.com/all-new-Echo-Dot/dp/B07XJ8C8F5/ref=zg_bs_amazon-devices_23?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $30.79
+	num_ratings : 373,077 
+	scraping_time : 11/07/2021, 23:18:37
+	image_url : https://m.media-amazon.com/images/I/61T++pHMh3S._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B07XJ8C8F5
+	manufacturer : Amazon 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/all-new-Echo-Dot/dp/B07XJ8C8F5/ref=zg_bs_amazon-devices_23?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Show 8 Charcoal with Blink Mini Indoor Smart Security Camera, 1080 HD with Motion Detection : Amazon Devices & Accessories
+	product_url : https://amazon.com/Charcoal-Indoor-Security-Camera-Detection/dp/B086ZND1QQ/ref=zg_bs_amazon-devices_24?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $64.99
+	num_ratings : 238,650 
+	scraping_time : 11/07/2021, 23:18:45
+	image_url : https://m.media-amazon.com/images/I/61NMKl3nEQL._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B086ZND1QQ
+	manufacturer : Amazon 
+	availability : Unknown availability status
+	review_url : https://amazon.com/Charcoal-Indoor-Security-Camera-Detection/dp/B086ZND1QQ/ref=zg_bs_amazon-devices_24?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Show 8 (1st Gen, 2019 release) -- HD smart display with Alexa – Unlimited Cloud Photo Storage – Digital Photo Display - Charcoal : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Show-8/dp/B07PF1Y28C/ref=zg_bs_amazon-devices_25?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $55.19
+	num_ratings : 238,650 
+	scraping_time : 11/07/2021, 23:18:53
+	image_url : https://m.media-amazon.com/images/I/61t8F8XN1tL._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B07PF1Y28C
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Show-8/dp/B07PF1Y28C/ref=zg_bs_amazon-devices_25?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire HD 8 tablet, 8" HD display, 32 GB, latest model (2020 release), designed for portable entertainment, Plum : Electronics
+	product_url : https://amazon.com/Fire-HD-8-tablet/dp/B07WGL828F/ref=zg_bs_amazon-devices_26?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $39.59
+	num_ratings : 121,757 
+	scraping_time : 11/07/2021, 23:19:00
+	image_url : https://m.media-amazon.com/images/I/71FpwqhD+DL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B07WGL828F
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-HD-8-tablet/dp/B07WGL828F/ref=zg_bs_amazon-devices_26?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: All-new Echo Dot (4th Gen) Kids Edition | Designed for kids, with parental controls | Tiger
+	product_url : https://amazon.com/Echo-Dot-4th-Gen-Kids/dp/B084J4QQK1/ref=zg_bs_amazon-devices_27?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $34.99
+	num_ratings : 19,150 
+	scraping_time : 11/07/2021, 23:19:06
+	image_url : https://m.media-amazon.com/images/I/61dp537PyUS._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B084J4QQK1
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Echo-Dot-4th-Gen-Kids/dp/B084J4QQK1/ref=zg_bs_amazon-devices_27?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Made for Amazon SanDisk 128GB microSD Memory Card for Fire Tablets and Fire -TV : Electronics
+	product_url : https://amazon.com/SanDisk-micro-Memory-Card-Tablets/dp/B013TMNPBQ/ref=zg_bs_amazon-devices_28?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $20.75
+	num_ratings : 56,072 
+	scraping_time : 11/07/2021, 23:19:15
+	image_url : https://m.media-amazon.com/images/I/81dQGd03YHL._AC_SX450_.jpg
+	dimensions : ‎0.08 x 0.94 x 1.26 inches
+	asin : B013TMNPBQ
+	manufacturer :  SanDisk
+	availability : Unknown availability status
+	review_url : https://amazon.com/SanDisk-micro-Memory-Card-Tablets/dp/B013TMNPBQ/ref=zg_bs_amazon-devices_28?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : #28 in Amazon Devices & Accessories , #1 in Amazon Device Memory Cards, #2 in Micro SD Memory Cards
+}
+
+{
+	description : Amazon.com: Insignia NS-24DF310NA21 24-inch Smart HD 720p TV - Fire TV : Amazon Devices & Accessories
+	product_url : https://amazon.com/All-New-Insignia-NS-24DF310NA21-24-inch-Smart/dp/B0874YZVWK/ref=zg_bs_amazon-devices_29?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $99.99
+	num_ratings : 14,968 
+	scraping_time : 11/07/2021, 23:19:23
+	image_url : https://m.media-amazon.com/images/I/815UUI6yhVS._AC_SX355_.jpg
+	dimensions : ‎7.1 x 21.7 x 14.4 inches
+	asin : B0874YZVWK
+	manufacturer : INSIGNIA 
+	availability : Unknown availability status
+	review_url : https://amazon.com/All-New-Insignia-NS-24DF310NA21-24-inch-Smart/dp/B0874YZVWK/ref=zg_bs_amazon-devices_29?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : #29 in Amazon Devices & Accessories , #1 in LED & LCD TVs, #1 in Smart TVs, #11 in Streaming Media Players
+}
+
+{
+	description : Amazon Official Site: Fire HD 10 Kids Pro tablet, 10.1", 1080p Full HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08F5LWB6R/ref=zg_bs_amazon-devices_30?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $119.99
+	num_ratings : 2,618 
+	scraping_time : 11/07/2021, 23:19:30
+	image_url : https://m.media-amazon.com/images/I/71h3WD4NL0S._AC_SY450_.jpg
+	dimensions : 7.4” x 10.1” x 0.7” (190 mm X 256 mm X 17 mm)
+	asin : B08F5LWB6R
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08F5LWB6R/ref=zg_bs_amazon-devices_30?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Blink Mini
+	product_url : https://amazon.com/Blink-Mini-plug-security-detection/dp/B07X6C9RMF/ref=zg_bs_amazon-devices_31?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.5 / 5
+	price : $84.99
+	num_ratings : 140,086 
+	scraping_time : 11/07/2021, 23:19:39
+	image_url : https://m.media-amazon.com/images/I/41PDrMbZnVL._SY300_SX300_.jpg
+	dimensions : 2 in. x 1.9 in. x 1.4 in. (50 mm x 49 mm x 36 mm)
+	asin : B07X6C9RMF
+	manufacturer : Blink Home Security 
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Blink-Mini-plug-security-detection/dp/B07X6C9RMF/ref=zg_bs_amazon-devices_31?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 8 Kids Pro tablet, 8" HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5PY8RM/ref=zg_bs_amazon-devices_32?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $69.99
+	num_ratings : 3,947 
+	scraping_time : 11/07/2021, 23:19:45
+	image_url : https://m.media-amazon.com/images/I/61U6eVzf2US._AC_SY450_.jpg
+	dimensions : 6.3” x 8.3” x 0.7” (161 mm X 211 mm X 18 mm)
+	asin : B08H5PY8RM
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5PY8RM/ref=zg_bs_amazon-devices_32?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Pink Kid-Proof Case : Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8ZCSL9/ref=zg_bs_amazon-devices_33?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $59.99
+	num_ratings : 199,030 
+	scraping_time : 11/07/2021, 23:19:51
+	image_url : https://m.media-amazon.com/images/I/61mLOngWd+L._AC_SY355_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H8ZCSL9
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8ZCSL9/ref=zg_bs_amazon-devices_33?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Blink Video Doorbell
+	product_url : https://amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_amazon-devices_34?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 3.8 / 5
+	price : $144.98 
+	num_ratings : 671 
+	scraping_time : 11/07/2021, 23:19:57
+	image_url : https://m.media-amazon.com/images/I/51tR+nCYhIL._SY355_.jpg
+	dimensions : 130 x 42 x 27 mm
+	asin : B08SG2MS3V
+	manufacturer : Blink Home Security 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Blink-Video-Doorbell/dp/B08SG2MS3V/ref=zg_bs_amazon-devices_34?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : All-New Echo Show 8 — 13 MP camera with auto-framing
+	product_url : https://amazon.com/All-new-Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_amazon-devices_35?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $87.99
+	num_ratings : 11,320 
+	scraping_time : 11/07/2021, 23:20:06
+	image_url : https://m.media-amazon.com/images/I/61g3WFAH0vS._AC_SX425_.jpg
+	dimensions : 7.9”x 5.4”x 3.9” (200mm x 135mm x 99mm)
+	asin : B084DCJKSL
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_amazon-devices_35?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 10 Kids Pro tablet, 10.1", 1080p Full HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08H3TTJBH/ref=zg_bs_amazon-devices_36?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $119.99
+	num_ratings : 2,618 
+	scraping_time : 11/07/2021, 23:20:11
+	image_url : https://m.media-amazon.com/images/I/71h3WD4NL0S._AC_SY450_.jpg
+	dimensions : 7.4” x 10.1” x 0.7” (190 mm X 256 mm X 17 mm)
+	asin : B08H3TTJBH
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-Pro-tablet/dp/B08H3TTJBH/ref=zg_bs_amazon-devices_36?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Echo Auto- Hands-free Alexa in your car with your phone : Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Auto-Add-Alexa-your/dp/B07VTK654B/ref=zg_bs_amazon-devices_37?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.0 / 5
+	price : $17.59
+	num_ratings : 134,105 
+	scraping_time : 11/07/2021, 23:20:16
+	image_url : https://m.media-amazon.com/images/I/51fJVBWieiS._AC_SX425_.jpg
+	dimensions : 3.3” x 1.9” x 0.5” (85 mm x 47 mm x 13.28 mm)
+	asin : B07VTK654B
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Auto-Add-Alexa-your/dp/B07VTK654B/ref=zg_bs_amazon-devices_37?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Ring Chime
+	product_url : https://amazon.com/Ring-Chime/dp/B07WML1QM4/ref=zg_bs_amazon-devices_38?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $29.99
+	num_ratings : 47,437 
+	scraping_time : 11/07/2021, 23:20:21
+	image_url : https://m.media-amazon.com/images/I/61aUGZYCWVL._SY355_.jpg
+	dimensions : None
+	asin : B07WML1QM4
+	manufacturer : Ring 
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Chime/dp/B07WML1QM4/ref=zg_bs_amazon-devices_38?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 8 Kids Pro tablet, 8" HD, ages 6 – 12, 32 GB
+	product_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QTFLB/ref=zg_bs_amazon-devices_39?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $69.99
+	num_ratings : 3,947 
+	scraping_time : 11/07/2021, 23:20:26
+	image_url : https://m.media-amazon.com/images/I/61U6eVzf2US._AC_SY450_.jpg
+	dimensions : 6.3” x 8.3” x 0.7” (161 mm X 211 mm X 18 mm)
+	asin : B08H5QTFLB
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Pro-tablet/dp/B08H5QTFLB/ref=zg_bs_amazon-devices_39?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: Ring Video Doorbell Wired with Ring Chime : Tools & Home Improvement
+	product_url : https://amazon.com/Ring-Video-Doorbell-Wired-Chime/dp/B08H5V7RSH/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.5 / 5
+	price : $69.99 
+	num_ratings : 28,003 
+	scraping_time : 11/07/2021, 23:20:33
+	image_url : https://m.media-amazon.com/images/I/51FHPa9m1cL._SY355_.jpg
+	dimensions : 3.98 in x 1.81 in x 0.88 in (101mm x 45.7mm x 22.4mm)
+	asin : B08H5V7RSH
+	manufacturer : Ring 
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Ring-Video-Doorbell-Wired-Chime/dp/B08H5V7RSH/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: 2-Year Protection Plan for Fire TV Stick 4K : Amazon Devices & Accessories
+	product_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_41?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $3.74
+	num_ratings : 10,415 
+	scraping_time : 11/07/2021, 23:20:36
+	image_url : https://m.media-amazon.com/images/I/61GgfcqizQL._AC_SY355_.jpg
+	dimensions : None
+	asin : ‎
+
+B07G1PQFBZ
+	manufacturer : ‎
+
+KAIMA
+	availability : In Stock.
+	review_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_41?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : 
+
+#41 in Amazon Devices & Accessories #1 in All Kindle Protection Plans
+}
+
+{
+	description : Amazon.com: Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue with Sengled Bluetooth Color bulb : Amazon Devices & Accessories
+	product_url : https://amazon.com/Smart-speaker-Twilight-Sengled-Bluetooth/dp/B08YSYKH19/ref=zg_bs_amazon-devices_42?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $34.99
+	num_ratings : 373,077 
+	scraping_time : 11/07/2021, 23:20:41
+	image_url : https://m.media-amazon.com/images/I/81dxwHCRPrS._AC_SX425_.jpg
+	dimensions : 3.9” x  3.9” x 3.5” (100 x 100 x 89 mm)
+	asin : B08YSYKH19
+	manufacturer : Amazon 
+	availability : Unknown availability status
+	review_url : https://amazon.com/Smart-speaker-Twilight-Sengled-Bluetooth/dp/B08YSYKH19/ref=zg_bs_amazon-devices_42?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: All-new Kindle Paperwhite (8 GB) – Now with a 6.8" display and adjustable warm light – Ad-Supported : Everything Else
+	product_url : https://amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_43?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.3 / 5
+	price : $139.99
+	num_ratings : 191 
+	scraping_time : 11/07/2021, 23:20:48
+	image_url : https://m.media-amazon.com/images/I/61Gih4cc2CL._AC_SY450_.jpg
+	dimensions : 4.9” x 6.9” x .32” (124.6 x 174.2 x 8.1 mm).
+	asin : B08KTZ8249
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_amazon-devices_43?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 10 Kids tablet, 10.1", 1080p Full HD, ages 3–7, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F62DV1Z/ref=zg_bs_amazon-devices_44?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.8 / 5
+	price : $119.99
+	num_ratings : 5,098 
+	scraping_time : 11/07/2021, 23:20:54
+	image_url : https://m.media-amazon.com/images/I/6138Pgj95jS._AC_SY450_.jpg
+	dimensions : 8.2” x 10.6” x 1.1” (209mm x 269mm x 27mm)
+	asin : B08F62DV1Z
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F62DV1Z/ref=zg_bs_amazon-devices_44?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Fire HD 10 Kids tablet, 10.1", 1080p Full HD, ages 3–7, 32 GB
+	product_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F5Z2MC2/ref=zg_bs_amazon-devices_45?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.8 / 5
+	price : $119.99
+	num_ratings : 5,098 
+	scraping_time : 11/07/2021, 23:20:59
+	image_url : https://m.media-amazon.com/images/I/614UeXVoRWS._AC_SY450_.jpg
+	dimensions : 8.2” x 10.6” x 1.1” (209mm x 269mm x 27mm)
+	asin : B08F5Z2MC2
+	manufacturer :  Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-10-Kids-tablet/dp/B08F5Z2MC2/ref=zg_bs_amazon-devices_45?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Echo Glow - Smart lamp for kids
+	product_url : https://amazon.com/Echo-Glow/dp/B07KRY43KN/ref=zg_bs_amazon-devices_46?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.6 / 5
+	price : $30.98
+	num_ratings : 31,387 
+	scraping_time : 11/07/2021, 23:21:07
+	image_url : https://m.media-amazon.com/images/I/515KkL1ngTL._AC_SX425_.jpg
+	dimensions : 100 x 100 x 81 mm (3.9” x 3.9” x 3.2”)”
+	asin : B07KRY43KN
+	manufacturer :  Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Glow/dp/B07KRY43KN/ref=zg_bs_amazon-devices_46?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon Official Site: Ring Indoor Cam Plug-In
+	product_url : https://amazon.com/Ring-Indoor-Compact-Security-Camera/dp/B07Q9VBYV8/ref=zg_bs_amazon-devices_47?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : 4.7 / 5
+	price : $34.08
+	num_ratings : 46,953 
+	scraping_time : 11/07/2021, 23:21:12
+	image_url : https://m.media-amazon.com/images/I/51ajZq9tiML._SY355_.jpg
+	dimensions : 1.81 in. x 1.81 in. x 2.95 in. (46 mm x 46 mm x 75 mm)
+	asin : B07Q9VBYV8
+	manufacturer : Ring 
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ring-Indoor-Compact-Security-Camera/dp/B07Q9VBYV8/ref=zg_bs_amazon-devices_47?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : None
+}
+
+{
+	description : Amazon.com: 2-Year Accident Protection for Fire HD 10 (11th Generation) : Amazon Devices & Accessories
+	product_url : https://amazon.com/Test-Product-Not-retail-sale/dp/B08BX7VCD4/ref=zg_bs_amazon-devices_48?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	rating : No ratings
+	price : Price not Available
+	num_ratings : No ratings
+	scraping_time : 11/08/2021, 10:51:12
+	image_url : https://m.media-amazon.com/images/I/61GZ0FGxt2L._AC_SY355_.jpg
+	dimensions : None
+	asin : ‎
+
+B08BX7VCD4
+	manufacturer : ‎
+
+KAIMA
+	availability : In Stock.
+	review_url : https://amazon.com/Test-Product-Not-retail-sale/dp/B08BX7VCD4/ref=zg_bs_amazon-devices_48?_encoding=UTF8&psc=1&refRID=CC72TANR03RREYR4DREE
+	seller_rank : 
+
+#48 in Amazon Devices & Accessories #2 in All Kindle Protection Plans
+}
