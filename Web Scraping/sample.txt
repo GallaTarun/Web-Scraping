@@ -1,110 +1,24 @@
-{
-	description : : 2-Year Protection Plan for Fire TV Stick 4K : Amazon Devices & Accessories
-	product_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=VRATYPTWYZFREAJXEM5W
-	rating : 4.6  / 5
-	num_ratings : 10,318 ratings
-	scraping_time : 11/02/2021, 14:15:03
-	image_url : https://m.media-amazon.com/images/I/61GgfcqizQL._AC_SY355_.jpg
-	dimensions : None
-	asin : ‎
+# pip install webdriver-manager
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
 
-B07G1PQFBZ
-	manufacturer : ‎
-
-KAIMA
-	availability : In Stock.
-	review_url : https://amazon.com/2-Year-Accident-Protection-Stick-release/dp/B07G1PQFBZ/ref=zg_bs_amazon-devices_40?_encoding=UTF8&psc=1&refRID=VRATYPTWYZFREAJXEM5W
-	seller_rank : 
-
-#40 in Amazon Devices & Accessories 
-
- #1 in All Kindle Protection Plans
-
-
-}
+s=Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=s)
+driver.maximize_window()
+driver.get('https://www.google.com')
+driver.find_element(By.NAME, 'q').send_keys('Yasser Khalil')
 
 
 
-{
-	description : : Euhomy Ice Maker Machine Countertop, 26 lbs in 24 Hours, 9 Cubes Ready in 6 Mins, Electric ice Maker and Compact Potable ice Maker with Ice Scoop and Basket. Perfect for Home/Kitchen/Office.(Silver) : Appliances
-	product_url : https://amazon.com/Countertop-Machine-hrs-Ice-Compact-Lightweight/dp/B07R56HW4G/ref=zg_bs_appliances_1?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	rating : 4.5  / 5
-	num_ratings : 7,982 ratings
-	scraping_time : 11/02/2021, 14:16:37
-	image_url : https://m.media-amazon.com/images/I/81GBToZSsCL._SX342_.jpg
-	dimensions : ‎
-
-12.59 x 9.64 x 12.59 inches; 17.2 Pounds
-	asin : ‎
-
-B07R56HW4G
-	manufacturer : ‎
-
-E EUHOMY
-	availability : Currently unavailable.
-	review_url : https://amazon.com/Countertop-Machine-hrs-Ice-Compact-Lightweight/dp/B07R56HW4G/ref=zg_bs_appliances_1?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	seller_rank : 
-
-#1 in Appliances 
-
- #1 in Ice Makers
-
-
-}
 
 
 
-{
-	description : : OxiClean Gel Sticks - 6.2 oz - 2 pk by OxiClean : Appliances
-	product_url : https://amazon.com/OxiClean-Gel-Sticks-6-2/dp/B015RYKG0W/ref=zg_bs_appliances_7?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	rating : 4.6  / 5
-	num_ratings : 55 ratings
-	scraping_time : 11/02/2021, 14:17:22
-	image_url : https://m.media-amazon.com/images/I/715zuTlPUzL._AC_UX342_.jpg
-	dimensions : ‎
 
-7.2 x 5.2 x 5 inches; 1.08 Pounds
-	asin : ‎
+//*[@id="brand"]
 
-B015RYKG0W
-	manufacturer : ‎
-
-OxiClean
-	availability : Unknown availability status
-	review_url : https://amazon.com/OxiClean-Gel-Sticks-6-2/dp/B015RYKG0W/ref=zg_bs_appliances_7?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	seller_rank : 
-
-#7 in Appliances 
-
- #1 in Clothes Washing Machines
+//*[@id="bylineInfo"]
 
 
-}
 
-
-{
-	description : : 2-Pack Ice Machine Cleaner and Descaler 16 fl oz, Nickel Safe Descaler | Ice Maker Cleaner Compatible with All Major Brands (Scotsman, KitchenAid, Affresh) - Made in USA by Essential Values : Appliances
-	product_url : https://amazon.com/Essential-Values-Machine-Cleaner-Matic/dp/B07QVMXTDL/ref=zg_bs_appliances_8?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	rating : 4.5  / 5
-	num_ratings : 372 ratings
-	scraping_time : 11/02/2021, 14:17:26
-	image_url : https://m.media-amazon.com/images/I/7168yKt9TOS._SX342_.jpg
-	dimensions : ‎
-
-3 x 6 x 8 inches; 2.34 Pounds
-	asin : ‎
-
-B07QVMXTDL
-	manufacturer : ‎
-
-Essential Values
-	availability : Currently unavailable.
-	review_url : https://amazon.com/Essential-Values-Machine-Cleaner-Matic/dp/B07QVMXTDL/ref=zg_bs_appliances_8?_encoding=UTF8&psc=1&refRID=XHB7XT6D5442F1YXGF7N
-	seller_rank : 
-
-#8 in Appliances 
-
- #5 in Ice Makers
-
-
-}
