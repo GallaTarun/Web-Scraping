@@ -34,7 +34,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 def progress_message(message):
-    print("PROGRESS MESSAGE : "+message+" ..//")
+    print("// ... PROGRESS MESSAGE : "+message+" ... //")
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,6 @@ def full_url(url):
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def configureWebDriver():
-    global driver
     progress_message("Configuring Webdriver") 
     chr_options = Options()
     chr_options.add_experimental_option("detach", True)
@@ -77,21 +76,26 @@ def printProductDetails(productDetails):
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def getDescription(soup):
-    description = soup.find("title").text
-    if ":" in description:
-        # replace unnecessary keywords in description
-        dic = {
-            "Amazon.com":"",
-            "Appstore for Android":"",
-            ":":"",
-        }
-        description = replace_all(description.strip(),dic)
+
+    description = soup.find("title")
+    if description:
+        if ":" in description.text:
+            # replace unnecessary keywords in description
+            dic = {
+                "Amazon.com":"",
+                "Appstore for Android":"",
+                ":":"",
+                "‎":""
+            }
+            description = replace_all(description.text,dic).strip()
+    else:
+        description = "No data found"
     return description
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def getAsin(product_url):
-    asin = "No ASIN found"
+    asin = "No data found"
     url = product_url.split("/")
     if "dp" in url:
         asin = url[url.index("dp")+1].strip()
@@ -99,52 +103,77 @@ def getAsin(product_url):
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
+def getProductPrice(item):
+    product_price = item.find("span",class_="a-color-price")
+    dic = {
+        "$" : "",
+        "\xa0Free with Audible trial" : "",
+        "‎":"",
+        "," : "",
+        "\n" : ""
+    }
+    if product_price:
+        if '-' in product_price.text:
+            min_price, max_price  = map(float,replace_all(product_price.text,dic).strip().split("-"))
+        else:
+            min_price = float(replace_all(product_price.text,dic).strip())
+            max_price = min_price
+    else:
+        min_price = "No data found"
+        max_price = "No data found"
+    return min_price, max_price
+
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
 def getManufacturer(soup):
-    manufacturer = "No details available"
+    manufacturer = "No data found"
     a_tag = soup.find("a",id="bylineInfo")
     if not a_tag: 
         a_tag = soup.find("a",id="brand")
     # replace unnecessary keywords in Manufacturer text
-    dic = {
-        "Visit the " : "",
-        "Brand:" : "",
-        "Store" : "",
-        "by " : ""
-    }
-    manufacturer = replace_all(a_tag.text.strip(),dic)
+    if a_tag:
+        dic = {
+            "Visit the " : "",
+            "Brand:" : "",
+            "Store" : "",
+            "by " : "",
+            "‎":"",
+            "\n" : ""
+        }
+        manufacturer = replace_all(a_tag.text,dic).strip()
     return manufacturer
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def getImageUrl(soup):
-    img_url = "No image found"
-    img = soup.find("img",id="landingImage")
-    if img:
-        img_url = img.attrs['src']
-    else:
-        img = soup.find("img",id="js-masrw-main-image")
+    # possible image ids
+    img_ids = ["landingImage", "js-masrw-main-image", "main-image"]
+    img_url = "No data found"
+    for id in img_ids:
+        img = soup.find("img",id=id)
         if img:
             img_url = img.attrs['src'].strip()
+            break
     return img_url
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def getStockAvailability(soup):
-    status = "Unknown availability status"
-    availability = soup.find("div",id="availability")
-    if availability:
-        status = availability.span.text.strip()
-    else:
-        availability = soup.find("div",id="mas-availability")
+    # possible availability element ids 
+    status_ids = ["availability","mas-availability"]
+    status = "No data found" # default availability status value
+    for id in status_ids:
+        availability = soup.find("div",id=id)
         if availability:
-            status = availability.text.strip()
+            status = availability.span.text.strip()
+            break
     return status
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def getRating(soup,product_url):
-    rating = "No ratings"
-    num_ratings = "No ratings"
+    rating = "No data found"   # default rating value
+    num_ratings = "No data found"  # default num ratings value
     div = soup.find("div",id="averageCustomerReviews")
     if div:
         span = div.find("span",class_="a-icon-alt")
@@ -163,15 +192,15 @@ def getRating(soup,product_url):
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-def getProductDetails(product_url, price="Price not Available"):
+def getProductDetails(product_url,product_info):
     try:
         driver.get(product_url)
         soup_obj = BeautifulSoup(driver.page_source, 'lxml')
     except:
         raise Exception("Unable to load the product page : "+product_url)
 
-    scraping_time, dimensions, asin, manufacturer, seller_rank = [None]*5
-    review_url = product_url
+    dimensions, seller_rank = ["No data found"]*2
+    review_url = product_url + "#customerReviews"
 
     # debug file 
     debug_file = open("debug.txt","a",encoding='utf-8')
@@ -191,18 +220,19 @@ def getProductDetails(product_url, price="Price not Available"):
     classes = [
         ("table","a-keyvalue prodDetTable"),
         ("ul","a-unordered-list a-nostyle a-vertical a-spacing-none detail-bullet-list"),
-        ("table","a-bordered")
+        ("table","a-bordered"),
+        ("table","a-keyvalue a-vertical-stripes a-span6") # for audible books
     ]
     # table_attrs store the list of all tags that contain technical attributes
     # table_vals store the list of all tags that contain information to the technical attributes
     table_attrs = []
     table_vals = []
-    for ind in range(3):
+    for ind in range(len(classes)):
         info_div = list(soup_obj.find_all(classes[ind][0],class_=classes[ind][1]))
         if info_div:
             # debug_file.write(classes[ind][1]+"\n")
             if ind!=1:
-                if ind==0:
+                if ind==0 or ind==3:
                     for div in info_div:   
                         # debug_file.write("\tdiv class -> " + str(div.attrs["class"]) + "\n")
                         attrs = list(div.find_all("th"))
@@ -221,14 +251,14 @@ def getProductDetails(product_url, price="Price not Available"):
                     attr = table_attrs[c].text
                     val = table_vals[c]
                     if "Manufacturer" in attr or "Publisher" in attr or "Developed" in attr:
-                        if not manufacturer:
-                            manufacturer = val.text.strip()
+                        if manufacturer == "No data found":
+                            manufacturer = val.text.replace("‎","").strip()
                     elif "ASIN" in attr or "ISBN" in attr or "UPC" in attr:
-                        if not asin:
-                            asin = val.text.strip()
+                        if asin == "No data found":
+                            asin = val.text.replace("‎","").strip()
                     elif "Dimension" in attr or "Size" in attr:
-                        if not dimensions:
-                            dimensions = val.text.strip()
+                        if dimensions == "No data found":
+                            dimensions = val.text.replace("‎","").strip()
                     elif "Rank" in attr:
                         ranks = val.span.find_all("span")
                         rank_list = []
@@ -237,7 +267,7 @@ def getProductDetails(product_url, price="Price not Available"):
                             if "(" in rank:
                                 rank = rank[:rank.index("(")]
                             rank_list.append(rank)
-                        seller_rank = ', '.join(rank_list)
+                        seller_rank = ', '.join(rank_list).replace("‎","")
             else:
                 for div in info_div:
                     spans = div.find_all("span","a-list-item")
@@ -247,34 +277,35 @@ def getProductDetails(product_url, price="Price not Available"):
                             attr = span_info[0]
                             val = span_info[1]
                             if "Manufacturer" in attr or "Publisher" in attr or "Developed" in attr:
-                                manufacturer = val.strip()
+                                if manufacturer == "No data found":
+                                    manufacturer = val.replace("‎","").strip()
                             elif "ASIN" in attr or "ISBN" in attr:
-                                asin = val.strip()
+                                if asin == "No data found":
+                                    asin = val.replace("‎","").strip()
                             elif "Dimension" in attr or "Size" in attr:
-                                dimensions = val.strip()
+                                if dimensions == "No data found":
+                                    dimensions = val.replace("‎","").strip()
                             elif "Rank" in attr:
-                                seller_rank = val[:val.index('(')] + val[val.index(')')+1:].strip().replace("\n",", ")
-    product_info = {
-        'description' : description,
-        'product_url' : product_url,
-        'rating' : rating,
-        'price' : price,
-        'num_ratings' : num_ratings,
-        'scraping_time' : scraping_time,
-        'image_url' : img_url,
-        'dimensions' : dimensions,
-        'asin' : asin,
-        'manufacturer' : manufacturer,
-        'availability' : availability,
-        'review_url' : review_url,
-        'seller_rank' : seller_rank,
-    }
+                                seller_rank = val[:val.index('(')] + val[val.index(')')+1:].strip().replace("\n",", ").replace("‎","")
+        
+        product_info['description']   = description
+        product_info['product_url']  = product_url
+        product_info['image_url']     = img_url
+        product_info['rating']        = rating
+        product_info['num_ratings']   = num_ratings
+        product_info['scraping_time']= scraping_time
+        product_info['dimensions'] = dimensions
+        product_info['asin'] = asin
+        product_info['manufacturer']= manufacturer
+        product_info['availability'] = availability
+        product_info['review_url'] = review_url
+        product_info['seller_rank'] = seller_rank
     printProductDetails(product_info)
     return product_info
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
     
-def getProductList(category_url,current_page):
+def getProductList(category_url,current_page,prefetched_details):
     """
         DOCSTRING ---->
         This function parses the top selling products of a particular category.
@@ -291,17 +322,23 @@ def getProductList(category_url,current_page):
     soup_obj = BeautifulSoup(driver.page_source, 'lxml')
 
     items_list = soup_obj.find_all("span",class_="aok-inline-block zg-item")
+    num_item = (current_page-1) * 50 + 1
     for item in items_list:
+        print("\t\tItem no =",num_item,"... ",end='')
+        num_item += 1
+        
         product_url = item.a.attrs['href']
-        product_price = item.find("span",class_="a-color-price")
-        if product_price:
-            product_price = product_price.text.strip()
-        else:
-            product_price = "Not available"
+        max_price, min_price = getProductPrice(item)
+
+        prefetched_details["max_price"] = max_price
+        prefetched_details["min_price"] = min_price
 
         product_url = full_url(product_url)
 
-        product_info = getProductDetails(product_url,product_price)   
+        product_info = getProductDetails(product_url,prefetched_details)   
+
+        print(" DONE !")
+
         product_list.append(product_info)
 
     next_page = soup_obj.find("li",class_="a-normal")
@@ -331,6 +368,7 @@ def getHeaders(url):
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 def driver_code():
+    global driver
     driver = configureWebDriver()
     url = "https://www.amazon.com/Best-Sellers/zgbs/"
 
@@ -341,25 +379,38 @@ def driver_code():
         pass
     fp.close()
     # empty dataframe
-    product_details_df = pd.DataFrame()
+    scraped_details = []
 
     # for every department, extract top selling products (in different pages)
-    for header in dept_list[4:]:
+    for header in dept_list:
         category = header.a.text.strip()
         category_url = header.a.attrs['href']
         
+        progress_message("Product Category --> "+category)
+
         if "amazon.com" not in category_url:
             category_url = "https://amazon.com" + header.a.attrs['href']
         
-        product_list = getProductList(category_url,1)
-        
+        category_details = {
+            'category_title' : category,
+            'category_url' : category_url
+        }
+
+        product_list = getProductList(category_url,1,category_details)
+        scraped_details.extend(product_list)
+
+        progress_message("Product Category --> "+category+" parsing done")
+
         for index in range(len(product_list)):
             product_list[index]['category_title'] = category
             product_list[index]['category_url'] = category_url
-
-        temp_df = pd.DataFrame(product_list)
-        product_details_df.append(temp_df)
-        product_details_df.to_csv("scraped_details.csv")    
+    
+    scraped_details_df = pd.DataFrame(scraped_details,columns=["Description", "Product URL", "Image URL",
+                                                                "Maximum Price","Minimum Price","Rating (out of 5)",
+                                                                "Number of Ratings","Scraping Time","Dimensions"
+                                                                "ASIN / ISBN /UPC", "Manufacturer", "Availability",
+                                                                "Review URL", "Seller Rank"])
+    scraped_details_df.to_csv("scraped_details.csv")
 
     # sample_url = "https://www.amazon.com/Tombow-56167-Markers-10-Pack-Blendable/dp/B0044JIU2S/ref=zg_bs_arts-crafts_98?_encoding=UTF8&psc=1&refRID=CXCPRRG6YR09ZMDB2BYQ"
     # det = getProductDetails(sample_url)

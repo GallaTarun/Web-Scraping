@@ -1,0 +1,1472 @@
+
+{
+	description : Wyze Cam Spotlight, Wyze Cam v3 Security Camera with Spotlight Kit, 1080p HD Security Camera with Two-Way Audio and Siren, IP65 Weatherproof, Compatible with Alexa and Google Assistant  Clothing, Shoes & Jewelry
+	product_url : https://amazon.com/Spotlight-Security-Weatherproof-Compatible-Assistant/dp/B095NWYQBC/ref=zg_bs_photo_1?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR
+	rating : 4.6 / 5
+	max_price : 9.98
+	min_price : 132.96
+	num_ratings : 266 
+	scraping_time : 11/10/2021, 23:45:34
+	image_url : https://m.media-amazon.com/images/I/61E8RWSXtoS._AC_SY450_.jpg
+	dimensions : 1 Count (Pack of 1)
+	asin : B095NWYQBC
+	manufacturer : WYZE
+	availability : No data found
+	review_url : https://amazon.com/Spotlight-Security-Weatherproof-Compatible-Assistant/dp/B095NWYQBC/ref=zg_bs_photo_1?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR#customerReviews
+	seller_rank : #1 in Camera & Photo Products , #1 in Dome Surveillance Cameras, #1 in Bullet Surveillance Cameras
+}
+
+{
+	description : Gskyer Telescope, 70mm Aperture 400mm AZ Mount Astronomical Refracting Telescope for Kids Beginners - Travel Telescope with Carry Bag, Phone Adapter and Wireless Remote  Electronics
+	product_url : https://amazon.com/Gskyer-Telescope-AZ-Astronomical-Refracting/dp/B081RJ8DW1/ref=zg_bs_photo_2?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR
+	rating : 4.3 / 5
+	max_price : 99.99
+	min_price : 99.99
+	num_ratings : 18,731 
+	scraping_time : 11/10/2021, 23:45:48
+	image_url : https://m.media-amazon.com/images/I/71BS-QONS0L._AC_SY450_.jpg
+	dimensions : 24.8 x 4.92 x 8.46 inches
+	asin : B081RJ8DW1
+	manufacturer : Gskyer
+	availability : No data found
+	review_url : https://amazon.com/Gskyer-Telescope-AZ-Astronomical-Refracting/dp/B081RJ8DW1/ref=zg_bs_photo_2?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR#customerReviews
+	seller_rank : #2 in Camera & Photo Products , #1 in Telescope Refractors
+}
+
+{
+	description : occer 12x25 Compact Binoculars with Clear Low Light Vision, Large Eyepiece Waterproof Binocular for Adults Kids,High Power Easy Focus Binoculars for Bird Watching,Outdoor Hunting,Travel,Sightseeing  Electronics
+	product_url : https://amazon.com/Binoculars-Waterproof-Binocular-Traveling-Sightseeing/dp/B0756BXDTX/ref=zg_bs_photo_3?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR
+	rating : 4.4 / 5
+	max_price : 35.99
+	min_price : 35.99
+	num_ratings : 15,565 
+	scraping_time : 11/10/2021, 23:45:52
+	image_url : https://m.media-amazon.com/images/I/71aIoTvKaLL._AC_SY355_.jpg
+	dimensions : 3.93 x 4.3 x 1 inches
+	asin : B0756BXDTX
+	manufacturer : occer
+	availability : No data found
+	review_url : https://amazon.com/Binoculars-Waterproof-Binocular-Traveling-Sightseeing/dp/B0756BXDTX/ref=zg_bs_photo_3?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR#customerReviews
+	seller_rank : #3 in Camera & Photo Products , #1 in Binoculars
+}
+
+{
+	description : Ring Stick Up Cam Battery HD security camera with custom privacy controls, Simple setup, Works with Alexa - Black  Electronics
+	product_url : https://amazon.com/Ring-Stick-Up-Cam-Battery/dp/B07Q3T177V/ref=zg_bs_photo_4?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR
+	rating : 4.7 / 5
+	max_price : 184.98
+	min_price : 284.97
+	num_ratings : 34,501 
+	scraping_time : 11/10/2021, 23:46:00
+	image_url : https://m.media-amazon.com/images/I/51JfGuZ80bL._SY355_.jpg
+	dimensions : 2.36 in. x 2.36 in. x 3.82 in. (60mm x 60mm x 97mm)
+	asin : B07Q3T177V
+	manufacturer : Ring
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Ring-Stick-Up-Cam-Battery/dp/B07Q3T177V/ref=zg_bs_photo_4?_encoding=UTF8&psc=1&refRID=PH02CJEW5A4EZTJ6FHMR#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title>Adele - 30 - Amazon.com Music</title>
+	product_url : https://amazon.com/30-Adele/dp/B09HVRTMFX/ref=zg_bs_music_1?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS
+	rating : No data found
+	max_price : 9.97
+	min_price : 9.97
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:46:13
+	image_url : https://m.media-amazon.com/images/I/71-llhQmneL._SY355_.jpg
+	dimensions : 5.6 x 4.9 x 0.4 inches; 3.2 Ounces
+	asin : B09HVRTMFX
+	manufacturer : COLUMBIA RECORDS GROUP
+	availability : This title will be released on November 19, 2021.
+	review_url : https://amazon.com/30-Adele/dp/B09HVRTMFX/ref=zg_bs_music_1?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS#customerReviews
+	seller_rank : 
+
+#1 in CDs & Vinyl #1 in Pop (CDs & Vinyl)
+}
+
+{
+	description : <title>ABBA - Voyage - Amazon.com Music</title>
+	product_url : https://amazon.com/Voyage-ABBA/dp/B09DYT6SGJ/ref=zg_bs_music_2?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS
+	rating : 4.4 / 5
+	max_price : 11.97
+	min_price : 11.97
+	num_ratings : 257 
+	scraping_time : 11/10/2021, 23:46:19
+	image_url : https://m.media-amazon.com/images/I/51yv4yWl25L._SY355_.jpg
+	dimensions : 5.08 x 5.79 x 0.35 inches; 2.82 Ounces
+	asin : B09DYT6SGJ
+	manufacturer : Capitol
+	availability : In Stock.
+	review_url : https://amazon.com/Voyage-ABBA/dp/B09DYT6SGJ/ref=zg_bs_music_2?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS#customerReviews
+	seller_rank : 
+
+#2 in CDs & Vinyl #2 in Pop (CDs & Vinyl)
+}
+
+{
+	description : <title>Ed Sheeran - = - Amazon.com Music</title>
+	product_url : https://amazon.com/Ed-Sheeran/dp/B09CRY341V/ref=zg_bs_music_3?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS
+	rating : 4.8 / 5
+	max_price : 11.97
+	min_price : 11.97
+	num_ratings : 148 
+	scraping_time : 11/10/2021, 23:46:23
+	image_url : https://m.media-amazon.com/images/I/A1yBsQy0X3L._SY355_.jpg
+	dimensions : 5.08 x 4.84 x 0.28 inches; 1.83 Ounces
+	asin : B09CRY341V
+	manufacturer : Atlantic
+	availability : In Stock.
+	review_url : https://amazon.com/Ed-Sheeran/dp/B09CRY341V/ref=zg_bs_music_3?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS#customerReviews
+	seller_rank : 
+
+#3 in CDs & Vinyl #3 in Pop (CDs & Vinyl)
+}
+
+{
+	description : <title>Adele - 30 (Amazon Exclusive White Vinyl) - Amazon.com Music</title>
+	product_url : https://amazon.com/30-Amazon-Exclusive-White-Vinyl/dp/B09HVTKLPQ/ref=zg_bs_music_4?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS
+	rating : No data found
+	max_price : 39.97
+	min_price : 39.97
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:46:27
+	image_url : https://m.media-amazon.com/images/I/71-llhQmneL._SY355_.jpg
+	dimensions : 12.1 x 12.3 x 0.1 inches; 1.05 Pounds
+	asin : B09HVTKLPQ
+	manufacturer : COLUMBIA RECORDS GROUP
+	availability : This title will be released on November 19, 2021.
+	review_url : https://amazon.com/30-Amazon-Exclusive-White-Vinyl/dp/B09HVTKLPQ/ref=zg_bs_music_4?_encoding=UTF8&psc=1&refRID=JB746PFEB9K1ZG0HDBPS#customerReviews
+	seller_rank : 
+
+#4 in CDs & Vinyl #4 in Pop (CDs & Vinyl)
+}
+
+{
+	description : Ailun Glass Screen Protector Compatible for iPhone 11/iPhone XR, 6.1 Inch 3 Pack Tempered Glass  Cell Phones & Accessories
+	product_url : https://amazon.com/AILUN-Protector-Compatible-Tempered-Anti-Scratch/dp/B07H2V5YLH/ref=zg_bs_wireless_1?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67
+	rating : 4.6 / 5
+	max_price : 7.98
+	min_price : 7.98
+	num_ratings : 248,904 
+	scraping_time : 11/10/2021, 23:46:36
+	image_url : https://m.media-amazon.com/images/I/81MZ5D1wHpL._AC_SX522_.jpg
+	dimensions : 6.5 x 0.43 x 3.54 inches
+	asin : B07H2V5YLH
+	manufacturer : Ailun
+	availability : No data found
+	review_url : https://amazon.com/AILUN-Protector-Compatible-Tempered-Anti-Scratch/dp/B07H2V5YLH/ref=zg_bs_wireless_1?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67#customerReviews
+	seller_rank : #1 in Cell Phones & Accessories , #1 in Cell Phone Screen Protectors
+}
+
+{
+	description : Apple 20W USB-C Power Adapter  Cell Phones & Accessories
+	product_url : https://amazon.com/Apple-20W-USB-C-Power-Adapter/dp/B08L5M9BTJ/ref=zg_bs_wireless_2?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67
+	rating : 4.8 / 5
+	max_price : 24.02
+	min_price : 24.02
+	num_ratings : 80,356 
+	scraping_time : 11/10/2021, 23:46:39
+	image_url : https://m.media-amazon.com/images/I/41iWogJnZQL._AC_SX342_.jpg
+	dimensions : 1.04 x 0.5 x 1.29 inches; 0.01 Ounces
+	asin : B08L5M9BTJ
+	manufacturer : Apple
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Apple-20W-USB-C-Power-Adapter/dp/B08L5M9BTJ/ref=zg_bs_wireless_2?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Trianium Screen Protector Compatible for iPhone 13 / iPhone 13 Pro 2021 3 Pack 6.1 inch Tempered Glass 9H Film - HD (w/Alignment Case Tool included)  Cell Phones & Accessories
+	product_url : https://amazon.com/Trianium-Screen-Protector-Compatible-Tempered/dp/B09D8WY8B8/ref=zg_bs_wireless_3?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67
+	rating : 4.7 / 5
+	max_price : 9.95
+	min_price : 9.95
+	num_ratings : 2,191 
+	scraping_time : 11/10/2021, 23:46:43
+	image_url : https://m.media-amazon.com/images/I/51chV1BJHXL._AC_SX522_.jpg
+	dimensions : 5.63 x 2.67 x 0.02 inches
+	asin : B09D8WY8B8
+	manufacturer : Trianium
+	availability : No data found
+	review_url : https://amazon.com/Trianium-Screen-Protector-Compatible-Tempered/dp/B09D8WY8B8/ref=zg_bs_wireless_3?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67#customerReviews
+	seller_rank : #4 in Cell Phones & Accessories , #3 in Cell Phone Screen Protectors
+}
+
+{
+	description : Ailun Glass Screen Protector Compatible for iPhone 13/13 Pro [6.1 Inch] Display 3 Pack Tempered Glass,Case Friendly  Cell Phones & Accessories
+	product_url : https://amazon.com/Ailun-Protector-Compatible-Tempered-Friendly/dp/B09CSSP9C1/ref=zg_bs_wireless_4?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67
+	rating : 4.6 / 5
+	max_price : 6.88
+	min_price : 6.88
+	num_ratings : 1,830 
+	scraping_time : 11/10/2021, 23:46:50
+	image_url : https://m.media-amazon.com/images/I/71OicfvCsbL._AC_SX522_.jpg
+	dimensions : 6.5 x 3.15 x 3.54 inches
+	asin : B09CSSP9C1
+	manufacturer : Ailun
+	availability : No data found
+	review_url : https://amazon.com/Ailun-Protector-Compatible-Tempered-Friendly/dp/B09CSSP9C1/ref=zg_bs_wireless_4?_encoding=UTF8&psc=1&refRID=CW8TX98EWPBB11R1NW67#customerReviews
+	seller_rank : #3 in Cell Phones & Accessories , #2 in Cell Phone Screen Protectors
+}
+
+{
+	description : <title>Hanes Men's EcoSmart Sweatshirt, ash, Small at Amazon Men’s Clothing store</title>
+	product_url : https://amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Small/dp/B072K68D77/ref=zg_bs_fashion_1?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX
+	rating : 4.6 / 5
+	max_price : 4.99
+	min_price : 30.84
+	num_ratings : 106,749 
+	scraping_time : 11/10/2021, 23:46:58
+	image_url : https://m.media-amazon.com/images/I/81fBr0EGoQL._AC_UX342_.jpg
+	dimensions : No data found
+	asin : B072K68D77
+	manufacturer : Hanes
+	availability : In Stock.
+	review_url : https://amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Small/dp/B072K68D77/ref=zg_bs_fashion_1?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX#customerReviews
+	seller_rank : 
+
+#1 in Clothing, Shoes & Jewelry #1 in Outdoor Recreation (Sports & Outdoors),  #1 in Men's Sweatshirts
+}
+
+{
+	description : <title>Carhartt Men's Knit Cuffed Beanie, Alabaster Heather, One Size at Amazon Men’s Clothing store</title>
+	product_url : https://amazon.com/Carhartt-Cuffed-Beanie-Alabaster-Heather/dp/B08BG8JBCR/ref=zg_bs_fashion_2?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX
+	rating : 4.8 / 5
+	max_price : 16.97
+	min_price : 54.99
+	num_ratings : 110,586 
+	scraping_time : 11/10/2021, 23:47:13
+	image_url : https://m.media-amazon.com/images/I/91VeMvrRQML._AC_UX342_.jpg
+	dimensions : 7.87 x 7.87 x 1.97 inches; 2.4 Ounces
+	asin : B08BG8JBCR
+	manufacturer : Carhartt
+	availability : 
+	review_url : https://amazon.com/Carhartt-Cuffed-Beanie-Alabaster-Heather/dp/B08BG8JBCR/ref=zg_bs_fashion_2?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX#customerReviews
+	seller_rank : 
+
+#3 in Clothing, Shoes & Jewelry #1 in Men's Hats & Caps
+}
+
+{
+	description : <title>Gildan Men's Ultra Cotton Long Sleeve T-Shirt, Style G2400, Multipack, Black (10-Pack), Small | Amazon.com</title>
+	product_url : https://amazon.com/Gildan-T-Shirt-G2400-Multipack-10-Pack/dp/B096W9D6VW/ref=zg_bs_fashion_3?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX
+	rating : 4.6 / 5
+	max_price : 10.5
+	min_price : 135.89
+	num_ratings : 82,159 
+	scraping_time : 11/10/2021, 23:47:20
+	image_url : https://m.media-amazon.com/images/I/71wfwoW-OoL._AC_UX385_.jpg
+	dimensions : No data found
+	asin : B096W9D6VW
+	manufacturer : Gildan
+	availability : In Stock.
+	review_url : https://amazon.com/Gildan-T-Shirt-G2400-Multipack-10-Pack/dp/B096W9D6VW/ref=zg_bs_fashion_3?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX#customerReviews
+	seller_rank : 
+
+#4 in Clothing, Shoes & Jewelry #1 in Men's T-Shirts
+}
+
+{
+	description : Burt's Bees Baby Baby Family Jammies Matching Holiday Organic Cotton Pajamas Clothing, Shoes & Jewelry
+	product_url : https://amazon.com/Burts-Bees-Baby-Jammies-Matching/dp/B099HFZPQW/ref=zg_bs_fashion_4?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX
+	rating : 4.6 / 5
+	max_price : 9.95
+	min_price : 39.95
+	num_ratings : 3,282 
+	scraping_time : 11/10/2021, 23:47:25
+	image_url : https://m.media-amazon.com/images/I/81C1ZJVE43L._AC_UX342_.jpg
+	dimensions : No data found
+	asin : B099HFZPQW
+	manufacturer : Burt's Bees Baby
+	availability : In stock soon.
+	review_url : https://amazon.com/Burts-Bees-Baby-Jammies-Matching/dp/B099HFZPQW/ref=zg_bs_fashion_4?_encoding=UTF8&psc=1&refRID=JAFVGP51TESKSQ79J8VX#customerReviews
+	seller_rank : 
+
+#2 in Clothing, Shoes & Jewelry #1 in Baby Girls' Pajama Sets
+}
+
+{
+	description : New Baby Gifts for Mom Daddy Funny Parent Decision Coin for Women Men Pregnancy Mothers for First Time Moms Dads Christmas Birthday Present Mummy to Be Double-Sided  Collectibles & Fine Art
+	product_url : https://amazon.com/Decision-Pregnancy-Christmas-Birthday-Double-Sided/dp/B093KMVVJV/ref=zg_bs_coins_1?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97
+	rating : 4.8 / 5
+	max_price : 8.99
+	min_price : 10.99
+	num_ratings : 338 
+	scraping_time : 11/10/2021, 23:47:31
+	image_url : https://m.media-amazon.com/images/I/61GZ9QopuPS._AC_SX425_.jpg
+	dimensions : 1.18 x 1.18 x 0.08 inches
+	asin : B093KMVVJV
+	manufacturer : FrereFeter
+	availability : No data found
+	review_url : https://amazon.com/Decision-Pregnancy-Christmas-Birthday-Double-Sided/dp/B093KMVVJV/ref=zg_bs_coins_1?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title>2021 American Silver Eagle Type 2 .999 Fine Silver with Our Certificate of Authenticity Dollar Uncirculated US Mint at Amazon's Collectible Coins Store</title>
+	product_url : https://amazon.com/2020-National-Parks-Quarters-Philadelphia/dp/B08PPWW8XT/ref=zg_bs_coins_2?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97
+	rating : 4.7 / 5
+	max_price : 43.99
+	min_price : 43.99
+	num_ratings : 83 
+	scraping_time : 11/10/2021, 23:47:36
+	image_url : https://m.media-amazon.com/images/I/61JwXZtXetS._SX342_.jpg
+	dimensions : 3.46 x 2.17 x 0.28 inches; 1.13 Ounces
+	asin : B08PPWW8XT
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/2020-National-Parks-Quarters-Philadelphia/dp/B08PPWW8XT/ref=zg_bs_coins_2?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97#customerReviews
+	seller_rank : 
+
+#3 in Collectible Currencies #3 in Individual Collectible Coins
+}
+
+{
+	description : TOYSDONE Yes No Decision Maker Coin - Souvenir Coins - Yes No Coin - The Decision Coin - Metal Coins Collection - Decision Maker Coins - Double Sided Coin - Lucky Coin - Choice Coin - Collectors Coin  Collectibles & Fine Art
+	product_url : https://amazon.com/TOYSDONE-Yes-Decision-Maker-Coin/dp/B07X8Y24HR/ref=zg_bs_coins_3?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97
+	rating : 4.7 / 5
+	max_price : 5.99
+	min_price : 5.99
+	num_ratings : 876 
+	scraping_time : 11/10/2021, 23:47:40
+	image_url : https://m.media-amazon.com/images/I/71XeMB8uyyS._AC_SX425_.jpg
+	dimensions : 3.19 x 3.11 x 0.16 inches
+	asin : B07X8Y24HR
+	manufacturer : Toysdone
+	availability : No data found
+	review_url : https://amazon.com/TOYSDONE-Yes-Decision-Maker-Coin/dp/B07X8Y24HR/ref=zg_bs_coins_3?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97#customerReviews
+	seller_rank : #2 in Collectible Currencies , #2 in Individual Collectible Coins
+}
+
+{
+	description : Saint Michael Law Enforcement Challenge Coin God Bless The Police Prayer  Collectibles & Fine Art
+	product_url : https://amazon.com/Michael-Enforcement-Challenge-Police-Prayer/dp/B07QF79N8J/ref=zg_bs_coins_4?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97
+	rating : 4.8 / 5
+	max_price : 6.87
+	min_price : 6.87
+	num_ratings : 827 
+	scraping_time : 11/10/2021, 23:47:51
+	image_url : https://m.media-amazon.com/images/I/71vvBcS11YL._AC_SX425_.jpg
+	dimensions : 5.15 x 4.3 x 0.45 inches
+	asin : B07QF79N8J
+	manufacturer : E-coin
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Michael-Enforcement-Challenge-Police-Prayer/dp/B07QF79N8J/ref=zg_bs_coins_4?_encoding=UTF8&psc=1&refRID=4WXG1K1FPPHTNBE4BJ97#customerReviews
+	seller_rank : #4 in Collectible Currencies , #4 in Individual Collectible Coins
+}
+
+{
+	description : Fire HD 8 tablet, 8" HD display, 32 GB, latest model (2020 release), designed for portable entertainment, Black  Electronics
+	product_url : https://amazon.com/Fire-HD-8-tablet/dp/B07TMJ1R3X/ref=zg_bs_pc_1?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1
+	rating : 4.6 / 5
+	max_price : 89.99
+	min_price : 89.99
+	num_ratings : 122,096 
+	scraping_time : 11/10/2021, 23:47:59
+	image_url : https://m.media-amazon.com/images/I/71FpwqhD+DL._AC_SY355_.jpg
+	dimensions : 8.0” x 5.4” x 0.4” (202 x 137 x 9.7 mm)
+	asin : B07TMJ1R3X
+	manufacturer : Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-tablet/dp/B07TMJ1R3X/ref=zg_bs_pc_1?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Sabrent 4-Port USB 2.0 Hub with Individual LED lit Power Switches (HB-UMLS)  Industrial & Scientific
+	product_url : https://amazon.com/Sabrent-4-Port-Individual-Switches-HB-UMLS/dp/B00BWF5U0M/ref=zg_bs_pc_2?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1
+	rating : 4.6 / 5
+	max_price : 8.98
+	min_price : 8.98
+	num_ratings : 84,387 
+	scraping_time : 11/10/2021, 23:48:07
+	image_url : https://m.media-amazon.com/images/I/71igbmDJwDL._AC_SY450_.jpg
+	dimensions : 3.4 x 1.4 x 0.61 inches
+	asin : B00BWF5U0M
+	manufacturer : SABRENT
+	availability : In Stock.
+	review_url : https://amazon.com/Sabrent-4-Port-Individual-Switches-HB-UMLS/dp/B00BWF5U0M/ref=zg_bs_pc_2?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1#customerReviews
+	seller_rank : #2 in Computers & Accessories , #1 in Computer Networking Hubs
+}
+
+{
+	description : Fire HD 8 Kids tablet, 8" HD display, ages 3-7, 32 GB, Blue Kid-Proof Case  Electronics
+	product_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_pc_3?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1
+	rating : 4.7 / 5
+	max_price : 139.99
+	min_price : 139.99
+	num_ratings : 98,943 
+	scraping_time : 11/10/2021, 23:48:14
+	image_url : https://m.media-amazon.com/images/I/61s3tGaiYtL._AC_SY355_.jpg
+	dimensions : 9.2” x 7.2” x 1.0” (233 mm X 184 mm X 26 mm)
+	asin : B07WDDT3G5
+	manufacturer : Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-HD-8-Kids-Edition-tablet/dp/B07WDDT3G5/ref=zg_bs_pc_3?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Fire 7 Kids tablet, 7" Display, ages 3-7, 16 GB, Blue Kid-Proof Case  Electronics
+	product_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_pc_4?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1
+	rating : 4.6 / 5
+	max_price : 99.99
+	min_price : 99.99
+	num_ratings : 199,363 
+	scraping_time : 11/10/2021, 23:48:18
+	image_url : https://m.media-amazon.com/images/I/61HqG+mJN1L._AC_SY355_.jpg
+	dimensions : 8.7” x 6.3” x 1.0” (220 x 161 x 25.8 mm)
+	asin : B07H8WS1FT
+	manufacturer : Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Fire-7-Kids-Edition-Tablet/dp/B07H8WS1FT/ref=zg_bs_pc_4?_encoding=UTF8&psc=1&refRID=R2TN6DHEPZJ3MF02CXJ1#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title dir="ltr">Spectrum | Math Workbook | Grade 6, Printable | Digital Educational Resources</title>
+	product_url : https://amazon.com/Spectrum-Math-Workbook-Grade-6/dp/B082DL5JWW/ref=zg_bs_digital-educational-resources_1?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3
+	rating : No data found
+	max_price : 8.99
+	min_price : 8.99
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:48:24
+	image_url : No data found
+	dimensions : No data found
+	asin : B082DL5JWW
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Spectrum-Math-Workbook-Grade-6/dp/B082DL5JWW/ref=zg_bs_digital-educational-resources_1?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title dir="ltr">Critical Thinking Puzzles | Digital Educational Resources</title>
+	product_url : https://amazon.com/Critical-Thinking-Puzzles/dp/B07XYGH14P/ref=zg_bs_digital-educational-resources_2?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3
+	rating : No data found
+	max_price : 3.0
+	min_price : 3.0
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:48:28
+	image_url : No data found
+	dimensions : No data found
+	asin : B07XYGH14P
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Critical-Thinking-Puzzles/dp/B07XYGH14P/ref=zg_bs_digital-educational-resources_2?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title dir="ltr">Spectrum - Word Study and Phonics, Grade 3 | Digital Educational Resources</title>
+	product_url : https://amazon.com/Spectrum-Word-Study-Phonics-Grade/dp/B082FJWRCX/ref=zg_bs_digital-educational-resources_3?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3
+	rating : No data found
+	max_price : 8.99
+	min_price : 8.99
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:48:30
+	image_url : No data found
+	dimensions : No data found
+	asin : B082FJWRCX
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Spectrum-Word-Study-Phonics-Grade/dp/B082FJWRCX/ref=zg_bs_digital-educational-resources_3?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title dir="ltr">Spectrum | Phonics Workbook | Grade 1, Printable | Digital Educational Resources</title>
+	product_url : https://amazon.com/Spectrum-Phonics-Grade-1/dp/B082FHRM4F/ref=zg_bs_digital-educational-resources_4?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3
+	rating : No data found
+	max_price : 8.99
+	min_price : 8.99
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:48:35
+	image_url : No data found
+	dimensions : No data found
+	asin : B082FHRM4F
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Spectrum-Phonics-Grade-1/dp/B082FHRM4F/ref=zg_bs_digital-educational-resources_4?_encoding=UTF8&psc=1&refRID=JPEQ8WSYDTE66Q2ZKNJ3#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : <title>Fire TV Stick 4K streaming device with Alexa Voice Remote</title>
+	product_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_electronics_1?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7
+	rating : 4.7 / 5
+	max_price : 24.99
+	min_price : 24.99
+	num_ratings : 2,020 
+	scraping_time : 11/10/2021, 23:48:44
+	image_url : https://m.media-amazon.com/images/I/61rQC6AM-6L._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B08XVYZ1Y5
+	manufacturer : Amazon
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_electronics_1?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Fire TV Stick 4K streaming device with Alexa Voice Remote (includes TV controls) | Dolby Vision  Amazon Devices & Accessories
+	product_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_electronics_2?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7
+	rating : 4.7 / 5
+	max_price : 24.99
+	min_price : 24.99
+	num_ratings : 756,656 
+	scraping_time : 11/10/2021, 23:48:49
+	image_url : https://m.media-amazon.com/images/I/61mAA2BB-FL._AC_SX425_.jpg
+	dimensions : 99 mm x 30 mm x 14 mm (only housing) | 108 mm x 30 mm x 14 mm (including the connector)
+	asin : B079QHML21
+	manufacturer : Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21/ref=zg_bs_electronics_2?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal  Amazon Devices & Accessories
+	product_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_electronics_3?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7
+	rating : 4.7 / 5
+	max_price : 22.99
+	min_price : 22.99
+	num_ratings : 783,541 
+	scraping_time : 11/10/2021, 23:48:53
+	image_url : https://m.media-amazon.com/images/I/61MZfowYoaL._AC_SX425_.jpg
+	dimensions : No data found
+	asin : B07FZ8S74R
+	manufacturer : Amazon
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_electronics_3?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Apple AirTag  Electronics
+	product_url : https://amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/ref=zg_bs_electronics_4?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7
+	rating : 4.7 / 5
+	max_price : 26.68
+	min_price : 26.68
+	num_ratings : 20,696 
+	scraping_time : 11/10/2021, 23:48:56
+	image_url : https://m.media-amazon.com/images/I/713xuNx00oS._AC_SX342_.jpg
+	dimensions : 3.27 x 0.47 x 4.09 inches; 0.39 Ounces
+	asin : B0933BVK6T
+	manufacturer : Apple
+	availability : Temporarily out of stock.
+	review_url : https://amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/ref=zg_bs_electronics_4?_encoding=UTF8&psc=1&refRID=HB9Q43HZQ2DJ6ME1JVD7#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : 2021 Topps Garbage Pail Kids Food Fight EXCLUSIVE Factory Sealed REFRIGERATOR TIN with 83 Cards Including (3) CELEBRITY CHEFS STICKERS! Look for Autos, Sketch Cards, Printing Plates & More! WOWZZER!  Collectibles & Fine Art
+	product_url : https://amazon.com/EXCLUSIVE-REFRIGERATOR-Including-CELEBRITY-STICKERS/dp/B08XYCBNQ5/ref=zg_bs_entertainment-collectibles_1?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN
+	rating : 4.4 / 5
+	max_price : 39.95
+	min_price : 39.95
+	num_ratings : 83 
+	scraping_time : 11/10/2021, 23:49:02
+	image_url : https://m.media-amazon.com/images/I/51mwMzhM-uL._AC_.jpg
+	dimensions : 5.39 x 5.31 x 3.86 inches; 12.63 Ounces
+	asin : B08XYCBNQ5
+	manufacturer : WOWZZer
+	availability : Currently unavailable.
+	review_url : https://amazon.com/EXCLUSIVE-REFRIGERATOR-Including-CELEBRITY-STICKERS/dp/B08XYCBNQ5/ref=zg_bs_entertainment-collectibles_1?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN#customerReviews
+	seller_rank : 
+
+#1 in Entertainment Collectibles #1 in Entertainment Collectible Trading Cards
+}
+
+{
+	description : 2021 Topps Garbage Pail Kids Food Fight HUGE Factory Sealed JUMBO FAT Pack with 24 Cards Including EXCLUSIVE CEREAL AISLE INSERTS & 2 GREEN PARALLELS! Look for Autos, Printing Plates & More! WOWZZER!  Collectibles & Fine Art
+	product_url : https://amazon.com/Garbage-Including-EXCLUSIVE-PARALLELS-Printing/dp/B08XYBTP6R/ref=zg_bs_entertainment-collectibles_2?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN
+	rating : 4.6 / 5
+	max_price : 19.95
+	min_price : 19.95
+	num_ratings : 48 
+	scraping_time : 11/10/2021, 23:49:09
+	image_url : https://m.media-amazon.com/images/I/71TwN2hjgxL._AC_SY879_.jpg
+	dimensions : 6.46 x 2.87 x 0.47 inches; 2 Ounces
+	asin : B08XYBTP6R
+	manufacturer : WOWZZer
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Garbage-Including-EXCLUSIVE-PARALLELS-Printing/dp/B08XYBTP6R/ref=zg_bs_entertainment-collectibles_2?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN#customerReviews
+	seller_rank : 
+
+#2 in Entertainment Collectibles #2 in Entertainment Collectible Trading Cards
+}
+
+{
+	description : Magazine Kite Issue #10 [King Von Cover]  Collectibles & Fine Art
+	product_url : https://amazon.com/Magazine-Kite-Issue-King-Cover/dp/B08W4NQTZV/ref=zg_bs_entertainment-collectibles_3?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN
+	rating : 4.6 / 5
+	max_price : 14.49
+	min_price : 14.49
+	num_ratings : 110 
+	scraping_time : 11/10/2021, 23:49:15
+	image_url : https://m.media-amazon.com/images/I/71tBoHu1sXL._AC_SY550_.jpg
+	dimensions : 10.94 x 8.5 x 0.28 inches
+	asin : B08W4NQTZV
+	manufacturer : Magazine
+	availability : No data found
+	review_url : https://amazon.com/Magazine-Kite-Issue-King-Cover/dp/B08W4NQTZV/ref=zg_bs_entertainment-collectibles_3?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN#customerReviews
+	seller_rank : #3 in Entertainment Collectibles , #1 in Entertainment Collectible Magazines
+}
+
+{
+	description : <title>KANE HODDER Signed Funko Pop Figure Jason Voorhees Friday the 13th Autograph Jason 7,8,9,X at Amazon's Entertainment Collectibles Store</title>
+	product_url : https://amazon.com/HODDER-Signed-Figure-Voorhees-Autograph/dp/B078TZNN7Z/ref=zg_bs_entertainment-collectibles_4?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN
+	rating : 4.7 / 5
+	max_price : 125.0
+	min_price : 125.0
+	num_ratings : 39 
+	scraping_time : 11/10/2021, 23:49:18
+	image_url : https://m.media-amazon.com/images/I/819-5rCNurL._AC_SX679_.jpg
+	dimensions : No data found
+	asin : B078TZNN7Z
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/HODDER-Signed-Figure-Voorhees-Autograph/dp/B078TZNN7Z/ref=zg_bs_entertainment-collectibles_4?_encoding=UTF8&psc=1&refRID=BHCPD66BR58FBPA7KFWN#customerReviews
+	seller_rank : 
+
+#4 in Entertainment Collectibles #1 in Entertainment Collectible Prints & Posters
+}
+
+{
+	description : www.amazon.com Amazon eGift Card - Birthday Cupcakes Gift Cards
+	product_url : https://amazon.com/Amazon-eGift-Card-Birthday-Cupcakes/dp/B07TMNGSN4/ref=zg_bs_gift-cards_1?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42
+	rating : No data found
+	max_price : 50.0
+	min_price : 50.0
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:49:24
+	image_url : No data found
+	dimensions : No data found
+	asin : B07TMNGSN4
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Amazon-eGift-Card-Birthday-Cupcakes/dp/B07TMNGSN4/ref=zg_bs_gift-cards_1?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : www.amazon.com Amazon eGift Card Gift Cards
+	product_url : https://amazon.com/Amazon-1_US_Email-eGift-Card/dp/B004LLIKVU/ref=zg_bs_gift-cards_2?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42
+	rating : No data found
+	max_price : 50.0
+	min_price : 50.0
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:49:26
+	image_url : No data found
+	dimensions : No data found
+	asin : B004LLIKVU
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Amazon-1_US_Email-eGift-Card/dp/B004LLIKVU/ref=zg_bs_gift-cards_2?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : www.amazon.com Amazon eGift Card - Amazon Logo Gift Cards
+	product_url : https://amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG/ref=zg_bs_gift-cards_3?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42
+	rating : No data found
+	max_price : 50.0
+	min_price : 50.0
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:53:25
+	image_url : No data found
+	dimensions : No data found
+	asin : B07PCMWTSG
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Amazon-eGift-Card-Logo/dp/B07PCMWTSG/ref=zg_bs_gift-cards_3?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Gift Card in a Black Gift Box (Classic Black Card Design)  Gift Cards
+	product_url : https://amazon.com/Amazon-com-Gift-Black-Classic-Design/dp/B01K8RMDO0/ref=zg_bs_gift-cards_4?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42
+	rating : 4.9 / 5
+	max_price : 25.0
+	min_price : 25.0
+	num_ratings : 72,543 
+	scraping_time : 11/10/2021, 23:53:30
+	image_url : https://m.media-amazon.com/images/I/818Xr8h2C4L._SX466_.jpg
+	dimensions : 1 x 4.4 x 4.8 inches; 1.13 Ounces
+	asin : B01K8RMDO0
+	manufacturer : Amazon
+	availability : In Stock.
+	review_url : https://amazon.com/Amazon-com-Gift-Black-Classic-Design/dp/B01K8RMDO0/ref=zg_bs_gift-cards_4?_encoding=UTF8&psc=1&refRID=THANKFVV0E472DG99W42#customerReviews
+	seller_rank : 
+
+#5 in Gift Cards #1 in Father's Day,  #4 in For Him,  #4 in For Her
+}
+
+{
+	description : Sparkling Ice, Black Cherry Sparkling Water, Zero Sugar Flavored Water, with Vitamins and Antioxidants, Low Calorie Beverage, 17 fl oz Bottles (Pack of 12)  Grocery & Gourmet Food
+	product_url : https://amazon.com/Sparkling-Cherry-Antioxidants-Vitamins-Bottles/dp/B01FS2GH2O/ref=zg_bs_grocery_1?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS
+	rating : 4.7 / 5
+	max_price : 4.99
+	min_price : 59.0
+	num_ratings : 95,061 
+	scraping_time : 11/10/2021, 23:53:37
+	image_url : https://m.media-amazon.com/images/I/61me336VNyL._SX425_PIbundle-12,TopRight,0,0_AA425SH20_.jpg
+	dimensions : 10.24 x 9.37 x 7.24 inches; 14.75 Ounces
+	asin : B01FS2GH2O
+	manufacturer : Sparkling ICE
+	availability : 
+	review_url : https://amazon.com/Sparkling-Cherry-Antioxidants-Vitamins-Bottles/dp/B01FS2GH2O/ref=zg_bs_grocery_1?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS#customerReviews
+	seller_rank : 
+
+#1 in Grocery & Gourmet Food #1 in Sparkling Drinking Water
+}
+
+{
+	description : CELSIUS Fitness Energy Drink 12 Fl Oz, Peach Mango Green Tea (Pack of 4)  Grocery & Gourmet Food
+	product_url : https://amazon.com/Celsius-Drink-Peach-Mango-Ounces/dp/B00SLG8E8K/ref=zg_bs_grocery_2?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS
+	rating : 4.5 / 5
+	max_price : 6.0
+	min_price : 105.45
+	num_ratings : 106 
+	scraping_time : 11/10/2021, 23:53:43
+	image_url : https://m.media-amazon.com/images/I/81vFprjU9lL._SX425_PIbundle-24,TopRight,0,0_AA425SH20_.jpg
+	dimensions : 4.5 x 4.5 x 6.12 inches; 3.45 Pounds
+	asin : B00SLG8E8K
+	manufacturer : CELSIUS
+	availability : 
+	review_url : https://amazon.com/Celsius-Drink-Peach-Mango-Ounces/dp/B00SLG8E8K/ref=zg_bs_grocery_2?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS#customerReviews
+	seller_rank : 
+
+#2 in Grocery & Gourmet Food #1 in Energy Drinks
+}
+
+{
+	description : Starbucks Dark Roast K-Cup Coffee Pods - Caffè Verona for Keurig Brewers - 1 Box (32 Pods)  Grocery & Gourmet Food
+	product_url : https://amazon.com/Starbucks-Verona-Single-Coffee-Brewers/dp/B07885BX42/ref=zg_bs_grocery_3?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS
+	rating : 4.8 / 5
+	max_price : 24.98
+	min_price : 119.97
+	num_ratings : 60,410 
+	scraping_time : 11/10/2021, 23:53:47
+	image_url : https://m.media-amazon.com/images/I/81M2s64kLUL._SX425_.jpg
+	dimensions : 3.8 x 7.5 x 7.5 inches; 5.69 Pounds
+	asin : B07885BX42
+	manufacturer : Starbucks
+	availability : 
+	review_url : https://amazon.com/Starbucks-Verona-Single-Coffee-Brewers/dp/B07885BX42/ref=zg_bs_grocery_3?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS#customerReviews
+	seller_rank : 
+
+#4 in Grocery & Gourmet Food #1 in Single-Serve Coffee Capsules & Pods
+}
+
+{
+	description : Welch's Fruit Snacks, Mixed Fruit, Gluten Free, Bulk Pack, 0.9 oz Individual Single Serve Bags (Pack of 40)  Everything Else
+	product_url : https://amazon.com/WELCHS-Mixed-Fruit-Snacks-Ounce/dp/B00HFC2E82/ref=zg_bs_grocery_4?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS
+	rating : 4.8 / 5
+	max_price : 16.89
+	min_price : 16.89
+	num_ratings : 58,178 
+	scraping_time : 11/10/2021, 23:53:53
+	image_url : https://m.media-amazon.com/images/I/91F9+-E5+FL._SX342_.jpg
+	dimensions : 3.75 x 6.5 x 8.25 inches; 0.9 Ounces
+	asin : B00HFC2E82
+	manufacturer : Welch’s Fruit Snacks
+	availability : Currently unavailable.
+	review_url : https://amazon.com/WELCHS-Mixed-Fruit-Snacks-Ounce/dp/B00HFC2E82/ref=zg_bs_grocery_4?_encoding=UTF8&psc=1&refRID=5C1TBZ8GEGN7VKZA4ZSS#customerReviews
+	seller_rank : 
+
+#3 in Grocery & Gourmet Food #1 in Fruit Snacks
+}
+
+{
+	description : Sweet Water Decor Christmas Candle | Christmas Tree, Apple Cider, and Cinnamon, Winter Holiday Scented Soy Candles for Home | 9oz Clear Glass Jar, 40 Hour Burn Time, Made in the USA  Handmade Products
+	product_url : https://amazon.com/Christmas-Cinnamon-Farmhouse-Decor-Accessory/dp/B0774Y6S6W/ref=zg_bs_handmade_1?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E
+	rating : 4.5 / 5
+	max_price : 20.0
+	min_price : 20.0
+	num_ratings : 1,353 
+	scraping_time : 11/10/2021, 23:53:59
+	image_url : https://m.media-amazon.com/images/I/61oOE0Bl+XL._SY500_.jpg
+	dimensions : 4.84 x 4.29 x 4.29 inches; 1.04 Pounds
+	asin : B0774Y6S6W
+	manufacturer : Sweet Water Decor
+	availability : In Stock.
+	review_url : https://amazon.com/Christmas-Cinnamon-Farmhouse-Decor-Accessory/dp/B0774Y6S6W/ref=zg_bs_handmade_1?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E#customerReviews
+	seller_rank : 
+
+#1 in Handmade Products #1 in Handmade Candles & Holders,  #40 in Candles
+}
+
+{
+	description : Adult One Layer Mask, Breathable, Gauze, Travel Mask, School Mask, Lightweight, Cheesecloth Face Mask, Cotton, Adjustable, Washable  Handmade Products
+	product_url : https://amazon.com/BREATHABLE-CHEESECLOTH-ADJUSTABLE-REVERSIBLE-WASHABLE/dp/B08PTW6922/ref=zg_bs_handmade_2?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E
+	rating : 4.4 / 5
+	max_price : 12.5
+	min_price : 12.5
+	num_ratings : 1,655 
+	scraping_time : 11/10/2021, 23:54:03
+	image_url : https://m.media-amazon.com/images/I/91fH0qTR15S._SY500_.jpg
+	dimensions : 4.09 x 3.23 x 0.75 inches; 0.32 Ounces
+	asin : B08PTW6922
+	manufacturer : No data found
+	availability : Currently unavailable.
+	review_url : https://amazon.com/BREATHABLE-CHEESECLOTH-ADJUSTABLE-REVERSIBLE-WASHABLE/dp/B08PTW6922/ref=zg_bs_handmade_2?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E#customerReviews
+	seller_rank : 
+
+#2 in Handmade Products #1 in Handmade Reusable Face Masks,  #1 in Handmade Beauty & Personal Care Products
+}
+
+{
+	description : Small Gold Sterling Silver Huggie Hoop Earrings for Women Cartilage Nose Helix Tragus (Gold, 10mm 20 gauge/ 1 pair)  Handmade Products
+	product_url : https://amazon.com/Sterling-Silver-Huggie-Earrings-Cartilage/dp/B098F81XWM/ref=zg_bs_handmade_3?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E
+	rating : 4.0 / 5
+	max_price : 14.99
+	min_price : 18.99
+	num_ratings : 1,554 
+	scraping_time : 11/10/2021, 23:54:09
+	image_url : https://m.media-amazon.com/images/I/61D9KOjNVHS._SY500_.jpg
+	dimensions : 4.5 x 3 x 0.1 inches; 0.21 Ounces
+	asin : B098F81XWM
+	manufacturer : GraceCode
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Sterling-Silver-Huggie-Earrings-Cartilage/dp/B098F81XWM/ref=zg_bs_handmade_3?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E#customerReviews
+	seller_rank : 
+
+#3 in Handmade Products #1 in Handmade Hoop Earrings
+}
+
+{
+	description : MARBLEFY Custom Name Airpod Pro Case with Keychain and Running Strap Compatible with Apple AirPods Pro  Handmade Products
+	product_url : https://amazon.com/MARBLEFY-Custom-Airpod-Keychain-Running/dp/B083Q2N1KQ/ref=zg_bs_handmade_4?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E
+	rating : 4.5 / 5
+	max_price : 13.99
+	min_price : 13.99
+	num_ratings : 9,081 
+	scraping_time : 11/10/2021, 23:54:12
+	image_url : https://m.media-amazon.com/images/I/71J74nRBECL._SY500_.jpg
+	dimensions : No data found
+	asin : B083Q2N1KQ
+	manufacturer : marblefyofficial
+	availability : In Stock.
+	review_url : https://amazon.com/MARBLEFY-Custom-Airpod-Keychain-Running/dp/B083Q2N1KQ/ref=zg_bs_handmade_4?_encoding=UTF8&psc=1&refRID=QR2A1NT3BDWRS8KH755E#customerReviews
+	seller_rank : 
+
+#4 in Handmade Products #1 in Handmade Cell Phone Accessories
+}
+
+{
+	description : Amazon Brand - Presto! 308-Sheet Mega Roll Toilet Paper, Ultra-Soft, 24 Mega Rolls = 96 regular rolls  Health & Household
+	product_url : https://amazon.com/Amazon-Brand-Presto-308-Sheet-Ultra-Soft/dp/B074CRK54X/ref=zg_bs_hpc_1?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC
+	rating : 4.7 / 5
+	max_price : 22.25
+	min_price : 22.25
+	num_ratings : 83,066 
+	scraping_time : 11/10/2021, 23:54:19
+	image_url : https://m.media-amazon.com/images/I/71bgaMKkxUL._AC_SX425_PIbundle-4,TopRight,0,0_SH20_.jpg
+	dimensions : 22.3 x 10.8 x 12.61 inches; 7.38 Pounds
+	asin : B074CRK54X
+	manufacturer : Presto!
+	availability : In Stock.
+	review_url : https://amazon.com/Amazon-Brand-Presto-308-Sheet-Ultra-Soft/dp/B074CRK54X/ref=zg_bs_hpc_1?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC#customerReviews
+	seller_rank : 
+
+#1 in Health & Household #1 in Toilet Paper
+}
+
+{
+	description : Amazon Basics 4 Pack AA High-Performance Alkaline Batteries, 10-Year Shelf Life, Easy to Open Value Pack  Health & Household
+	product_url : https://amazon.com/AmazonBasics-AA-Performance-Alkaline-Batteries/dp/B07NVTGRVZ/ref=zg_bs_hpc_2?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC
+	rating : 4.7 / 5
+	max_price : 3.59
+	min_price : 46.98
+	num_ratings : 381,562 
+	scraping_time : 11/10/2021, 23:54:23
+	image_url : https://m.media-amazon.com/images/I/51netU-Kn6L._AC_SX425_PIbundle-4,TopRight,0,0_SH20_.jpg
+	dimensions : 4.52 x 3.47 x 0.47 inches; 3.52 Ounces
+	asin : B07NVTGRVZ
+	manufacturer : Amazon Basics
+	availability : In Stock.
+	review_url : https://amazon.com/AmazonBasics-AA-Performance-Alkaline-Batteries/dp/B07NVTGRVZ/ref=zg_bs_hpc_2?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Amazon Basics 10 Pack AAA High-Performance Alkaline Batteries, 10-Year Shelf Life  Health & Household
+	product_url : https://amazon.com/Amazon-Basics-High-Performance-Alkaline-Batteries/dp/B094D4FVKS/ref=zg_bs_hpc_3?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC
+	rating : 4.7 / 5
+	max_price : 3.66
+	min_price : 30.49
+	num_ratings : 366,179 
+	scraping_time : 11/10/2021, 23:54:31
+	image_url : https://m.media-amazon.com/images/I/61wXhHl7uxL._AC_SX425_.jpg
+	dimensions : 0.4 x 0.4 x 1.76 inches; 0.4 Ounces
+	asin : B094D4FVKS
+	manufacturer : Amazon Basics
+	availability : In Stock.
+	review_url : https://amazon.com/Amazon-Basics-High-Performance-Alkaline-Batteries/dp/B094D4FVKS/ref=zg_bs_hpc_3?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Amazon Brand - Presto! Flex-a-Size Paper Towels, Huge Roll, 12 Count = 30 Regular Rolls  Health & Household
+	product_url : https://amazon.com/Amazon-Brand-Flex-Size-Regular/dp/B074CR89QG/ref=zg_bs_hpc_4?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC
+	rating : 4.7 / 5
+	max_price : 27.99
+	min_price : 27.99
+	num_ratings : 71,752 
+	scraping_time : 11/10/2021, 23:54:36
+	image_url : https://m.media-amazon.com/images/I/81ZSuzkKKHL._AC_SX425_.jpg
+	dimensions : 22.18 x 17.18 x 11.61 inches; 9.38 Pounds
+	asin : B074CR89QG
+	manufacturer : Presto!
+	availability : In Stock.
+	review_url : https://amazon.com/Amazon-Brand-Flex-Size-Regular/dp/B074CR89QG/ref=zg_bs_hpc_4?_encoding=UTF8&psc=1&refRID=PG3WERZTS4N5YGWFGXAC#customerReviews
+	seller_rank : 
+
+#3 in Health & Household #1 in Paper Towels
+}
+
+{
+	description : Amazon Basics Lightweight Super Soft Easy Care Microfiber Bed Sheet Set with 14” Deep Pockets - Twin, Aqua Fern  Home & Kitchen
+	product_url : https://amazon.com/Amazon-Basics-Lightweight-Microfiber-Pockets/dp/B07QTQQT2K/ref=zg_bs_home-garden_1?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC
+	rating : 4.6 / 5
+	max_price : 8.99
+	min_price : 25.99
+	num_ratings : 293,139 
+	scraping_time : 11/10/2021, 23:54:45
+	image_url : https://m.media-amazon.com/images/I/712QqUsbh+L._AC_SY450_.jpg
+	dimensions : 11 x 9.65 x 2.36 inches
+	asin : B07QTQQT2K
+	manufacturer : Amazon Basics
+	availability : Usually ships within 6 days.
+	review_url : https://amazon.com/Amazon-Basics-Lightweight-Microfiber-Pockets/dp/B07QTQQT2K/ref=zg_bs_home-garden_1?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC#customerReviews
+	seller_rank : #1 in Home & Kitchen , #1 in Sheet & Pillowcase Sets
+}
+
+{
+	description : Beckham Hotel Collection Bed Pillows for Sleeping - Queen Size, Set of 2 - Cooling, Luxury Gel Pillow for Back, Stomach or Side Sleepers  Home & Kitchen
+	product_url : https://amazon.com/Beckham-Hotel-Collection-Pillow-2-Pack/dp/B01LYNW421/ref=zg_bs_home-garden_2?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC
+	rating : 4.4 / 5
+	max_price : 36.79
+	min_price : 36.79
+	num_ratings : 151,584 
+	scraping_time : 11/10/2021, 23:54:50
+	image_url : https://m.media-amazon.com/images/I/31jz0+mfWFL._AC_SY450_.jpg
+	dimensions : No data found
+	asin : B01LYNW421
+	manufacturer : Beckham Luxury Linens
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Beckham-Hotel-Collection-Pillow-2-Pack/dp/B01LYNW421/ref=zg_bs_home-garden_2?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC#customerReviews
+	seller_rank : #2 in Home & Kitchen , #1 in Bed Pillows
+}
+
+{
+	description : SafeRest Twin Size Premium Hypoallergenic Waterproof Mattress Protector - Vinyl Free  Home & Kitchen
+	product_url : https://amazon.com/SafeRest-Hypoallergenic-Waterproof-Mattress-Protector/dp/B003PWS9AI/ref=zg_bs_home-garden_3?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC
+	rating : 4.6 / 5
+	max_price : 28.99
+	min_price : 39.99
+	num_ratings : 199,368 
+	scraping_time : 11/10/2021, 23:54:57
+	image_url : https://m.media-amazon.com/images/I/71xRyxwjsgL._AC_SX450_.jpg
+	dimensions : 11.3 x 10.9 x 3 inches
+	asin : B003PWS9AI
+	manufacturer : SafeRest
+	availability : No data found
+	review_url : https://amazon.com/SafeRest-Hypoallergenic-Waterproof-Mattress-Protector/dp/B003PWS9AI/ref=zg_bs_home-garden_3?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC#customerReviews
+	seller_rank : #3 in Home & Kitchen , #1 in Mattress Protectors
+}
+
+{
+	description : Mellanni Extra Deep Pocket Twin XL Sheet Set - Luxury 1800 Bedding Sheets & Pillowcases - Fits College Dorm Room Mattress up to 21" - Ultra Soft Cooling Bed Sheet Set - 3 Piece (Twin XL, Beige)  Home & Kitchen
+	product_url : https://amazon.com/Mellanni-Extra-Deep-Pocket-Sheets/dp/B0822XD973/ref=zg_bs_home-garden_4?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC
+	rating : 4.5 / 5
+	max_price : 32.97
+	min_price : 49.97
+	num_ratings : 263,569 
+	scraping_time : 11/10/2021, 23:55:07
+	image_url : https://m.media-amazon.com/images/I/51bpZunr04L._AC_SX450_.jpg
+	dimensions : 12.87 x 11.93 x 3.39 inches
+	asin : B0822XD973
+	manufacturer : Mellanni
+	availability : No data found
+	review_url : https://amazon.com/Mellanni-Extra-Deep-Pocket-Sheets/dp/B0822XD973/ref=zg_bs_home-garden_4?_encoding=UTF8&psc=1&refRID=7YZXFRPJXNQN0N43SPHC#customerReviews
+	seller_rank : #4 in Home & Kitchen , #1 in Kids' Sheet & Pillowcase Sets, #2 in Sheet & Pillowcase Sets
+}
+
+{
+	description : Black Disposable Face Masks 50PCS 3 Ply  Beauty & Personal Care
+	product_url : https://amazon.com/Black-Disposable-Breathable-Filter-Protection/dp/B08CXQH4B5/ref=zg_bs_industrial_1?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM
+	rating : No data found
+	max_price : 45.89
+	min_price : 76.49
+	num_ratings : No data found
+	scraping_time : 11/10/2021, 23:55:14
+	image_url : No data found
+	dimensions : No data found
+	asin : B08CXQH4B5
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Black-Disposable-Breathable-Filter-Protection/dp/B08CXQH4B5/ref=zg_bs_industrial_1?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM#customerReviews
+	seller_rank : No data found
+}
+
+{
+	description : Disposable Face Masks with Designs Cute Face Mask 3 Ply Cheetah Print 50 Pcs  Industrial & Scientific
+	product_url : https://amazon.com/Disposable-Masks-Designs-Cheetah-Print/dp/B08SBVCPZ8/ref=zg_bs_industrial_2?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM
+	rating : 4.5 / 5
+	max_price : 19.99
+	min_price : 39.99
+	num_ratings : 21,635 
+	scraping_time : 11/10/2021, 23:55:22
+	image_url : https://m.media-amazon.com/images/I/81tZ7svBXrL._SX342_.jpg
+	dimensions : 10.75 x 6.1 x 3.15 inches; 13.44 Ounces
+	asin : B08SBVCPZ8
+	manufacturer : Borje
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Disposable-Masks-Designs-Cheetah-Print/dp/B08SBVCPZ8/ref=zg_bs_industrial_2?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM#customerReviews
+	seller_rank : 
+
+#2 in Industrial & Scientific #2 in Medical Procedure Masks
+}
+
+{
+	description : 100pcs Adult Black Disposable Face Masks 3 Layer Non-Woven Masks with Soft Elastic Earloop  Industrial & Scientific
+	product_url : https://amazon.com/100pcs-Disposable-Non-Woven-Elastic-Earloop/dp/B09F8G27FV/ref=zg_bs_industrial_3?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM
+	rating : 4.5 / 5
+	max_price : 14.99
+	min_price : 14.99
+	num_ratings : 15,062 
+	scraping_time : 11/10/2021, 23:55:26
+	image_url : https://m.media-amazon.com/images/I/51tctCp1pKL._SX342_.jpg
+	dimensions : 10.83 x 10.75 x 3.46 inches; 14.07 Ounces
+	asin : B09F8G27FV
+	manufacturer : ApePal
+	availability : Currently unavailable.
+	review_url : https://amazon.com/100pcs-Disposable-Non-Woven-Elastic-Earloop/dp/B09F8G27FV/ref=zg_bs_industrial_3?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM#customerReviews
+	seller_rank : 
+
+#5 in Industrial & Scientific #3 in Medical Procedure Masks
+}
+
+{
+	description : Egook Black Disposable Face Masks, 100 Pack Face Mask 3 Ply Disposable Masks  Industrial & Scientific
+	product_url : https://amazon.com/Egook-Black-Disposable-Face-Masks/dp/B09DVFZVFB/ref=zg_bs_industrial_4?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM
+	rating : 4.5 / 5
+	max_price : 8.99
+	min_price : 8.99
+	num_ratings : 117 
+	scraping_time : 11/10/2021, 23:55:29
+	image_url : https://m.media-amazon.com/images/I/81qHikM7SML._SX342_.jpg
+	dimensions : 9.61 x 9.61 x 2.8 inches; 11.68 Ounces
+	asin : B09DVFZVFB
+	manufacturer : Egook
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Egook-Black-Disposable-Face-Masks/dp/B09DVFZVFB/ref=zg_bs_industrial_4?_encoding=UTF8&psc=1&refRID=R28NZWYGXV8Y59GHV4XM#customerReviews
+	seller_rank : 
+
+#4 in Industrial & Scientific #1 in Medical Face Shields
+}
+
+{
+	description : The Dark Hours The Brand New Blockbuster Ballard & Bosch Thriller (Ballard & Bosch 1 Book 23) - Kindle edition by Connelly, Michael. Mystery, Thriller & Suspense Kindle eBooks @ .
+	product_url : https://amazon.com/Dark-Hours-Michael-Connelly-ebook/dp/B08WLRG1L2/ref=zg_bs_digital-text_1?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241
+	rating : 4.4 / 5
+	max_price : 14.99
+	min_price : 14.99
+	num_ratings : 13 
+	scraping_time : 11/10/2021, 23:55:38
+	image_url : No data found
+	dimensions : No data found
+	asin : B08WLRG1L2
+	manufacturer : Little, Brown and Company (November 9, 2021)
+	availability : No data found
+	review_url : https://amazon.com/Dark-Hours-Michael-Connelly-ebook/dp/B08WLRG1L2/ref=zg_bs_digital-text_1?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241#customerReviews
+	seller_rank : 
+
+#1 in Kindle Store #1 in Private Investigator Mysteries (Books),  #1 in Police Procedurals (Books),  #1 in Murder
+}
+
+{
+	description : Death (The Four Horsemen Book 4) eBook  Thalassa, Laura Books
+	product_url : https://amazon.com/Death-Four-Horsemen-Book-4-ebook/dp/B09HJMTBZZ/ref=zg_bs_digital-text_2?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241
+	rating : 4.7 / 5
+	max_price : 4.99
+	min_price : 4.99
+	num_ratings : 43 
+	scraping_time : 11/10/2021, 23:55:41
+	image_url : No data found
+	dimensions : No data found
+	asin : B09HJMTBZZ
+	manufacturer : Lavabrook Publishing, LLC (November 9, 2021)
+	availability : No data found
+	review_url : https://amazon.com/Death-Four-Horsemen-Book-4-ebook/dp/B09HJMTBZZ/ref=zg_bs_digital-text_2?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241#customerReviews
+	seller_rank : 
+
+#2 in Kindle Store #1 in Fantasy & Futuristic Romance,  #1 in Romantic Fantasy (Books),  #1 in Dark Fantasy Horror
+}
+
+{
+	description : <title>A Not So Meet Cute - Kindle edition by Quinn, Meghan. Literature &amp; Fiction Kindle eBooks @ Amazon.com.</title>
+	product_url : https://amazon.com/Not-So-Meet-Cute-ebook/dp/B09HLCTYZ8/ref=zg_bs_digital-text_3?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241
+	rating : 4.6 / 5
+	max_price : 4.99
+	min_price : 4.99
+	num_ratings : 1,202 
+	scraping_time : 11/10/2021, 23:55:44
+	image_url : No data found
+	dimensions : No data found
+	asin : B09HLCTYZ8
+	manufacturer : No data found
+	availability : No data found
+	review_url : https://amazon.com/Not-So-Meet-Cute-ebook/dp/B09HLCTYZ8/ref=zg_bs_digital-text_3?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241#customerReviews
+	seller_rank : 
+
+#3 in Kindle Store #1 in Contemporary Romance Fiction,  #1 in Romantic Comedy (Kindle Store),  #1 in Romantic Comedy (Books)
+}
+
+{
+	description : The Judge's List The phenomenal new novel from international bestseller John Grisham eBook  Grisham, John Books
+	product_url : https://amazon.com/Judges-List-Novel-Whistler-Book-ebook/dp/B093F7SP44/ref=zg_bs_digital-text_4?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241
+	rating : 4.5 / 5
+	max_price : 14.99
+	min_price : 14.99
+	num_ratings : 8,984 
+	scraping_time : 11/10/2021, 23:55:47
+	image_url : No data found
+	dimensions : No data found
+	asin : B093F7SP44
+	manufacturer : Doubleday (October 19, 2021)
+	availability : No data found
+	review_url : https://amazon.com/Judges-List-Novel-Whistler-Book-ebook/dp/B093F7SP44/ref=zg_bs_digital-text_4?_encoding=UTF8&psc=1&refRID=9XX7AKZWYHVWSJ5KK241#customerReviews
+	seller_rank : 
+
+#4 in Kindle Store #1 in Serial Killer Thrillers,  #1 in Crime Thrillers (Kindle Store),  #1 in Legal Thrillers (Kindle Store)
+}
+
+{
+	description : YETI Rambler 20 oz Tumbler, Stainless Steel, Vacuum Insulated with MagSlider Lid, Aquifer Blue  Home & Kitchen
+	product_url : https://amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08RLSLFRM/ref=zg_bs_kitchen_1?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34
+	rating : 4.8 / 5
+	max_price : 27.99
+	min_price : 124.99
+	num_ratings : 1,881 
+	scraping_time : 11/10/2021, 23:55:54
+	image_url : https://m.media-amazon.com/images/I/61reY0z3QxL._AC_SY450_.jpg
+	dimensions : 7 x 3.5 x 3.5 inches
+	asin : B08RLSLFRM
+	manufacturer : YETI
+	availability : No data found
+	review_url : https://amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08RLSLFRM/ref=zg_bs_kitchen_1?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34#customerReviews
+	seller_rank : #1 in Kitchen & Dining , #1 in Tumblers & Water Glasses
+}
+
+{
+	description : BlenderBottle Classic V2 Shaker Bottle Perfect for Protein Shakes and Pre Workout, 20-Ounce, Black
+	product_url : https://amazon.com/BlenderBottle-C03588-Classic-Shaker-20-Ounce/dp/B07TNB1S7Z/ref=zg_bs_kitchen_2?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34
+	rating : 4.8 / 5
+	max_price : 6.69
+	min_price : 22.99
+	num_ratings : 43,988 
+	scraping_time : 11/10/2021, 23:56:02
+	image_url : https://m.media-amazon.com/images/I/61ELPGfjkXL._AC_SY741_.jpg
+	dimensions : 3.81 x 3.81 x 6.91 inches
+	asin : B07TNB1S7Z
+	manufacturer : Blender Bottle
+	availability : In Stock.
+	review_url : https://amazon.com/BlenderBottle-C03588-Classic-Shaker-20-Ounce/dp/B07TNB1S7Z/ref=zg_bs_kitchen_2?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34#customerReviews
+	seller_rank : #2 in Kitchen & Dining , #1 in Cocktail Shakers
+}
+
+{
+	description : Reynolds Kitchens Slow Cooker Liners, Small (Fits 1-3 Quarts), 5 Count  Home & Kitchen
+	product_url : https://amazon.com/Reynolds-Kitchens-Small-Cooker-Liners/dp/B0737N6LWX/ref=zg_bs_kitchen_3?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34
+	rating : 4.8 / 5
+	max_price : 2.49
+	min_price : 49.99
+	num_ratings : 52,881 
+	scraping_time : 11/10/2021, 23:56:07
+	image_url : https://m.media-amazon.com/images/I/51QFbJRgaDL._AC_SX425_.jpg
+	dimensions : 1.5 x 8 x 3 inches; 1.76 Ounces
+	asin : B0737N6LWX
+	manufacturer : Reynolds
+	availability : In Stock.
+	review_url : https://amazon.com/Reynolds-Kitchens-Small-Cooker-Liners/dp/B0737N6LWX/ref=zg_bs_kitchen_3?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34#customerReviews
+	seller_rank : 
+
+#3 in Kitchen & Dining #1 in Slow Cookers
+}
+
+{
+	description : THERMOS FUNTAINER 12 Ounce Stainless Steel Vacuum Insulated Kids Straw Bottle, Avengers Home & Kitchen
+	product_url : https://amazon.com/THERMOS-FUNTAINER-Stainless-Insulated-Avengers/dp/B08Z7JSRXH/ref=zg_bs_kitchen_4?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34
+	rating : 4.8 / 5
+	max_price : 14.25
+	min_price : 39.99
+	num_ratings : 26,625 
+	scraping_time : 11/10/2021, 23:56:11
+	image_url : https://m.media-amazon.com/images/I/61O50gsXGgS._AC_SY879_.jpg
+	dimensions : 2.7 x 3.1 x 6.9 inches
+	asin : B08Z7JSRXH
+	manufacturer : THERMOS
+	availability : In Stock.
+	review_url : https://amazon.com/THERMOS-FUNTAINER-Stainless-Insulated-Avengers/dp/B08Z7JSRXH/ref=zg_bs_kitchen_4?_encoding=UTF8&psc=1&refRID=AQCRA1GHYKQTFP1XTR34#customerReviews
+	seller_rank : #5 in Kitchen & Dining , #1 in Insulated Bottles
+}
+
+{
+	description : Food Network Magazine  Magazine Subscriptions
+	product_url : https://amazon.com/Hearst-Magazines-Food-Network-Magazine/dp/B001THPA58/ref=zg_bs_magazines_1?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE
+	rating : 4.6 / 5
+	max_price : 7.0
+	min_price : 7.0
+	num_ratings : 11,834 
+	scraping_time : 11/10/2021, 23:56:18
+	image_url : https://m.media-amazon.com/images/I/51tH1aSAHIL._AC_SX342_.jpg
+	dimensions : No data found
+	asin : B001THPA58
+	manufacturer : Hearst Magazines
+	availability : No data found
+	review_url : https://amazon.com/Hearst-Magazines-Food-Network-Magazine/dp/B001THPA58/ref=zg_bs_magazines_1?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE#customerReviews
+	seller_rank : 
+
+#1 in Magazine Subscriptions #1 in Recipes & Techniques Magazines
+}
+
+{
+	description : Real Simple  Magazine Subscriptions
+	product_url : https://amazon.com/Meredith-Corporation-Real-Simple/dp/B002PXW1IE/ref=zg_bs_magazines_2?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE
+	rating : 4.6 / 5
+	max_price : 5.0
+	min_price : 5.0
+	num_ratings : 15,035 
+	scraping_time : 11/10/2021, 23:56:21
+	image_url : https://m.media-amazon.com/images/I/516hn8mTnqL._AC_SX342_.jpg
+	dimensions : 12 x 9 x 0.5 inches; 4.96 Ounces
+	asin : B002PXW1IE
+	manufacturer : Meredith Corporation
+	availability : No data found
+	review_url : https://amazon.com/Meredith-Corporation-Real-Simple/dp/B002PXW1IE/ref=zg_bs_magazines_2?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE#customerReviews
+	seller_rank : 
+
+#2 in Magazine Subscriptions #1 in How-To & Home Improvements,  #1 in Women's Lifestyle,  #1 in Country Life Magazines
+}
+
+{
+	description : Better Homes & Gardens  Magazine Subscriptions
+	product_url : https://amazon.com/Meredith-corporation-Better-Homes-Gardens/dp/B0029XHGRQ/ref=zg_bs_magazines_3?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE
+	rating : 4.5 / 5
+	max_price : 5.0
+	min_price : 5.0
+	num_ratings : 11,902 
+	scraping_time : 11/10/2021, 23:56:24
+	image_url : https://m.media-amazon.com/images/I/61soCtFQGTL._AC_SY445_.jpg
+	dimensions : No data found
+	asin : B0029XHGRQ
+	manufacturer : Meredith Corporation
+	availability : No data found
+	review_url : https://amazon.com/Meredith-corporation-Better-Homes-Gardens/dp/B0029XHGRQ/ref=zg_bs_magazines_3?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE#customerReviews
+	seller_rank : 
+
+#3 in Magazine Subscriptions #2 in Gardening & Horticulture Magazines,  #2 in How-To & Home Improvements,  #2 in Home Organization Magazines
+}
+
+{
+	description : HGTV Magazine  Magazine Subscriptions
+	product_url : https://amazon.com/Hearst-Magazines-HGTV-Magazine/dp/B0089FUF6W/ref=zg_bs_magazines_4?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE
+	rating : 4.5 / 5
+	max_price : 8.0
+	min_price : 8.0
+	num_ratings : 9,107 
+	scraping_time : 11/10/2021, 23:56:26
+	image_url : https://m.media-amazon.com/images/I/51COvC+3dML._AC_SX342_.jpg
+	dimensions : No data found
+	asin : B0089FUF6W
+	manufacturer : Hearst Magazines
+	availability : No data found
+	review_url : https://amazon.com/Hearst-Magazines-HGTV-Magazine/dp/B0089FUF6W/ref=zg_bs_magazines_4?_encoding=UTF8&psc=1&refRID=DKJ2YWC8RT42GXVDAWAE#customerReviews
+	seller_rank : 
+
+#4 in Magazine Subscriptions #1 in Luxury Homes Magazines,  #2 in Home Decorating Magazines,  #2 in Log Homes Magazines
+}
+
+{
+	description : Yellowstone The First Three Seasons Limited Edition Gift Set  Kevin Costner, Luke Grimes, Kelly Reilly, Wes Bentley, Cole Hauser, Kelsey Asbille, Brecken Merrill, Gil Birmingham, Danny Huston, Josh Holloway Movies & TV
+	product_url : https://amazon.com/Yellowstone-First-Three-Seasons-Limited/dp/B08GLP1PDT/ref=zg_bs_movies-tv_1?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA
+	rating : 4.8 / 5
+	max_price : 47.93
+	min_price : 47.93
+	num_ratings : 3,975 
+	scraping_time : 11/10/2021, 23:56:33
+	image_url : https://m.media-amazon.com/images/I/81+-nhmVvjL._SY445_.jpg
+	dimensions : 0.7 x 7.5 x 5.4 inches; 1.67 Pounds
+	asin : B08GLP1PDT
+	manufacturer : No data found
+	availability : In Stock.
+	review_url : https://amazon.com/Yellowstone-First-Three-Seasons-Limited/dp/B08GLP1PDT/ref=zg_bs_movies-tv_1?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA#customerReviews
+	seller_rank : 
+
+#1 in Movies & TV #1 in DVD
+}
+
+{
+	description : PAW Patrol The Movie  Brunker, Cal, Armitage, Iain, Martin, Marsai, Pardo, Ron, Shahidi, Yara, West, Kim Kardashian, Park, Randall, Shepard, Dax, Perry, Tyler, Kimmel, Jimmy, Brisbin, Will Movies & TV
+	product_url : https://amazon.com/PAW-Patrol-Movie-Cal-Brunker/dp/B09BKGSSWH/ref=zg_bs_movies-tv_2?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA
+	rating : 4.6 / 5
+	max_price : 17.96
+	min_price : 17.96
+	num_ratings : 48 
+	scraping_time : 11/10/2021, 23:56:37
+	image_url : https://m.media-amazon.com/images/I/918CnhaUOBL._SY445_.jpg
+	dimensions : 7.64 x 5.39 x 0.51 inches; 2.72 Ounces
+	asin : B09BKGSSWH
+	manufacturer : No data found
+	availability : In Stock.
+	review_url : https://amazon.com/PAW-Patrol-Movie-Cal-Brunker/dp/B09BKGSSWH/ref=zg_bs_movies-tv_2?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA#customerReviews
+	seller_rank : 
+
+#2 in Movies & TV #2 in DVD
+}
+
+{
+	description : No Time to Die [4K UHD]  Movies & TV
+	product_url : https://amazon.com/No-Time-Die-4K-UHD/dp/B09HJH4B4R/ref=zg_bs_movies-tv_3?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA
+	rating : 3.4 / 5
+	max_price : 26.99
+	min_price : 26.99
+	num_ratings : 35 
+	scraping_time : 11/10/2021, 23:56:41
+	image_url : https://m.media-amazon.com/images/I/71mJddvQ7jL._SY445_.jpg
+	dimensions : No data found
+	asin : B09HJH4B4R
+	manufacturer : No data found
+	availability : This title will be released on December 21, 2021.
+	review_url : https://amazon.com/No-Time-Die-4K-UHD/dp/B09HJH4B4R/ref=zg_bs_movies-tv_3?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA#customerReviews
+	seller_rank : 
+
+#3 in Movies & TV #1 in Blu-ray
+}
+
+{
+	description : A Charlie Brown Christmas 50th Anniversay Deluxe Edition (DVD)  Various, Various Movies & TV
+	product_url : https://amazon.com/Charlie-Brown-Christmas-50th-Anniversary/dp/B00M0JU3G0/ref=zg_bs_movies-tv_4?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA
+	rating : 4.9 / 5
+	max_price : 7.99
+	min_price : 7.99
+	num_ratings : 12,193 
+	scraping_time : 11/10/2021, 23:56:45
+	image_url : https://m.media-amazon.com/images/I/71vOVko1dmL._SX342_.jpg
+	dimensions : 0.7 x 7.5 x 5.4 inches; 2.72 Ounces
+	asin : B00M0JU3G0
+	manufacturer : No
+	availability : In Stock.
+	review_url : https://amazon.com/Charlie-Brown-Christmas-50th-Anniversary/dp/B00M0JU3G0/ref=zg_bs_movies-tv_4?_encoding=UTF8&psc=1&refRID=MQ9QY4R1Z3B213ZZTJZA#customerReviews
+	seller_rank : 
+
+#4 in Movies & TV #1 in Kids & Family DVDs
+}
+
+{
+	description : BONAOK Bluetooth Wireless Karaoke Microphone,3-in-1 Portable Handheld Karaoke Mic Speaker Machine Birthday Home Party for PC or All Smartphone Q37 (Green)  Musical Instruments
+	product_url : https://amazon.com/BONAOK-Bluetooth-Wireless-Microphone-Smartphone/dp/B08T7DDDY8/ref=zg_bs_musical-instruments_1?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP
+	rating : 4.4 / 5
+	max_price : 30.99
+	min_price : 69.99
+	num_ratings : 44,700 
+	scraping_time : 11/10/2021, 23:56:56
+	image_url : https://m.media-amazon.com/images/I/71ORq4B45jL._AC_SX425_.jpg
+	dimensions : 11.1 x 4.33 x 3.86 inches
+	asin : B08T7DDDY8
+	manufacturer : BONAOK
+	availability : No data found
+	review_url : https://amazon.com/BONAOK-Bluetooth-Wireless-Microphone-Smartphone/dp/B08T7DDDY8/ref=zg_bs_musical-instruments_1?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP#customerReviews
+	seller_rank : #1 in Musical Instruments , #1 in Handheld Wireless Microphones & Systems, #1 in Music Recording Equipment
+}
+
+{
+	description : Amazon Basics XLR Male to Female Microphone Cable - 3 Feet, 2-Pack, Black  Musical Instruments
+	product_url : https://amazon.com/AmazonBasics-Male-Female-Microphone-Cable/dp/B087KG5K35/ref=zg_bs_musical-instruments_2?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP
+	rating : 4.7 / 5
+	max_price : 7.99
+	min_price : 19.99
+	num_ratings : 26,921 
+	scraping_time : 11/10/2021, 23:57:01
+	image_url : https://m.media-amazon.com/images/I/71SKy+WDXSL._AC_SY450_.jpg
+	dimensions : 36 x 0.75 x 0.75 inches
+	asin : B087KG5K35
+	manufacturer : Amazon Basics
+	availability : In Stock.
+	review_url : https://amazon.com/AmazonBasics-Male-Female-Microphone-Cable/dp/B087KG5K35/ref=zg_bs_musical-instruments_2?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP#customerReviews
+	seller_rank : #2 in Musical Instruments , #1 in Microphone Cables
+}
+
+{
+	description : Ernie Ball Hybrid Slinky Electric Guitar Strings 3-Pack with Cobalt Hybrid Slinky - 9-46 Gauge  Everything Else
+	product_url : https://amazon.com/Ernie-Ball-Hybrid-Electric-Strings/dp/B09J6WZL8G/ref=zg_bs_musical-instruments_3?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP
+	rating : 4.8 / 5
+	max_price : 5.49
+	min_price : 45.58
+	num_ratings : 65,778 
+	scraping_time : 11/10/2021, 23:57:05
+	image_url : https://m.media-amazon.com/images/I/41U9BEp2OUL._AC_SX425_.jpg
+	dimensions : 3-Pack
+	asin : B09J6WZL8G
+	manufacturer : Ernie Ball
+	availability : Currently unavailable.
+	review_url : https://amazon.com/Ernie-Ball-Hybrid-Electric-Strings/dp/B09J6WZL8G/ref=zg_bs_musical-instruments_3?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP#customerReviews
+	seller_rank : #3 in Musical Instruments , #1 in Electric Guitar Strings
+}
+
+{
+	description : Amazon Basics Guitar Folding A-Frame Stand for Acoustic and Electric Guitars  Musical Instruments
+	product_url : https://amazon.com/AmazonBasics-Folding-Acoustic-Electric-Guitars/dp/B018FCZKR2/ref=zg_bs_musical-instruments_4?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP
+	rating : 4.8 / 5
+	max_price : 15.99
+	min_price : 22.98
+	num_ratings : 39,004 
+	scraping_time : 11/10/2021, 23:57:15
+	image_url : https://m.media-amazon.com/images/I/611Eh3yCovL._AC_SX425_.jpg
+	dimensions : 8.12 x 14.6 x 3.4 inches
+	asin : B018FCZKR2
+	manufacturer : Amazon Basics
+	availability : In Stock.
+	review_url : https://amazon.com/AmazonBasics-Folding-Acoustic-Electric-Guitars/dp/B018FCZKR2/ref=zg_bs_musical-instruments_4?_encoding=UTF8&psc=1&refRID=NCWSWNHCH0C5DPPFX5VP#customerReviews
+	seller_rank : #4 in Musical Instruments , #1 in Guitar & Bass Stands
+}
+
+{
+	description : Amazon Basics 30% Recycled Multipurpose Copy Printer Paper - 8.5 x 11 Inches, 3 Ream Case (1500 Sheets)  Office Products
+	product_url : https://amazon.com/AmazonBasics-Recycled-Multipurpose-Printer-Paper/dp/B073H6RY3V/ref=zg_bs_office-products_1?_encoding=UTF8&psc=1&refRID=T4A46419HZT9KJQ7BMP0
+	rating : 4.8 / 5
+	max_price : 18.49
+	min_price : 31.99
+	num_ratings : 78,097 
+	scraping_time : 11/10/2021, 23:57:23
+	image_url : https://m.media-amazon.com/images/I/71hPjliac6S._AC_SY355_.jpg
+	dimensions : 11 x 8.5 x 6 inches
+	asin : B073H6RY3V
+	manufacturer : Amazon Basics
+	availability : In Stock.
+	review_url : https://amazon.com/AmazonBasics-Recycled-Multipurpose-Printer-Paper/dp/B073H6RY3V/ref=zg_bs_office-products_1?_encoding=UTF8&psc=1&refRID=T4A46419HZT9KJQ7BMP0#customerReviews
+	seller_rank : #1 in Office Products , #1 in Copy & Multipurpose Paper
+}
+
+{
+	description : Original HP 63XL Black High-yield Ink Cartridge | Works with HP DeskJet 1112, 2130, 3630 Series; HP ENVY 4510, 4520 Series; HP OfficeJet 3830, 4650, 5200 Series | Eligible for Instant Ink | F6U64AN  Electronics
+	product_url : https://amazon.com/HP-Cartridge-F6U64AN-Deskjet-Officejet/dp/B00WJDWGA8/ref=zg_bs_office-products_2?_encoding=UTF8&psc=1&refRID=T4A46419HZT9KJQ7BMP0
+	rating : 4.8 / 5
+	max_price : 39.89
+	min_price : 39.89
+	num_ratings : 30,495 
+	scraping_time : 11/10/2021, 23:57:29
+	image_url : https://m.media-amazon.com/images/I/71dknWOvquL._AC_SY355_.jpg
+	dimensions : 1.43 x 4.49 x 4.51 inches
+	asin : B00WJDWGA8
+	manufacturer : HP
+	availability : Currently unavailable.
+	review_url : https://amazon.com/HP-Cartridge-F6U64AN-Deskjet-Officejet/dp/B00WJDWGA8/ref=zg_bs_office-products_2?_encoding=UTF8&psc=1&refRID=T4A46419HZT9KJQ7BMP0#customerReviews
+	seller_rank : #2 in Office Products , #1 in Inkjet Computer Printer Ink
+}
